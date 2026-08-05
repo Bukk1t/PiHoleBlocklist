@@ -4,7 +4,7 @@
 
 A single, automatically updated Pi-hole blocklist combining multiple trusted community-maintained security and privacy lists into one optimized file.
 
-[![Update Blocklist](https://github.com/Bukk1t/PiHoleBlocklist/actions/workflows/update.yml/badge.svg)](https://github.com/Bukk1t/PiHoleBlocklist/actions)
+[![Update Blocklist](https://github.com/Bukk1t/PiHoleBlocklist/actions/workflows/update.yml/badge.svg)](https://github.com/Bukk1t/PiHoleBlocklist/actions) ![Domains](https://img.shields.io/badge/domains-900k%2B-blue)
 
 ---
 
