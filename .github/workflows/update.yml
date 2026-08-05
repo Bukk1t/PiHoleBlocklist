@@ -2,7 +2,10 @@ name: Update Blocklist
 
 on:
   schedule:
-    - cron: '0 */12 * * *'   # Every 12 hours
+    # Runs every day at 00:00 UTC
+    - cron: "0 0 * * *"
+
+  # Allows manual updates from GitHub
   workflow_dispatch:
 
 permissions:
@@ -10,26 +13,27 @@ permissions:
 
 jobs:
   update:
+    name: Generate Blocklist
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Set up Python
+      - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
+          python-version: "3.x"
 
-      - name: Run blocklist builder
+      - name: Build Blocklist
         run: python scripts/build.py
 
-      - name: Commit changes
+      - name: Commit updated Blocklist
         run: |
           git config user.name "github-actions"
-          git config user.email "github-actions@users.noreply.github.com"
+          git config user.email "github-actions@github.com"
 
-          git add blocklist.txt
+          git add Blocklist.txt
 
           git diff --cached --quiet || (
             git commit -m "Automatic blocklist update"
