@@ -23,4 +23,4 @@ A single, automatically updated Pi-hole blocklist combining multiple trusted com
 
 # 📥 Installation
 
-Add this URL to Pi-hole:
+Add this URL to Pi-hole: https://raw.githubusercontent.com/Bukk1t/PiHoleBlocklist/main/Blocklist.txt
