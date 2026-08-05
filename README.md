@@ -1,15 +1,20 @@
-# Ultimate Pi-hole Blocklist
+# PiHoleBlocklist
 
-A curated Pi-hole blocklist that combines several well-known and trusted sources into a single list for comprehensive ad, tracker, malware, phishing, and threat protection.
+## One text file to rule them all.
 
-### Included sources
+A single automatically updated Pi-hole blocklist created by combining trusted community-maintained sources.
 
-* froggeric – Apple Ad Blocklist
-* StevenBlack – Hosts Blocklist
-* OISD – `big.oisd.nl`
-* Phishing Army – Extended Blocklist
-* HaGeZi – Pro Blocklist
-* HaGeZi – Threat Intelligence Feeds (TIF)
-* URLHaus – Hostfile Blocklist
+## Features
 
-This repository does **not** create or own these blocklists. It simply combines and maintains them in one convenient list for Pi-hole and other DNS-based blockers.
+- Ads blocking
+- Tracker blocking
+- Malware protection
+- Phishing protection
+- Threat intelligence
+- Automatic updates
+- Duplicate removal
+
+
+## Installation
+
+Add this URL to Pi-hole:
