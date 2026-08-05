@@ -1,9 +1,9 @@
-# PiHoleBlocklist
+# PiHoleBlocklist v1.0.0
 # Automatically generated
 #
 # Sources: 7
 # Domains: 911526
-# Updated: 2026-08-05 23:06:58.865776 UTC
+# Updated: 2026-08-05 23:16:50.721638 UTC
 #
 # Do not edit manually.
 #
