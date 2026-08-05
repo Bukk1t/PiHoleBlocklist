@@ -2,6 +2,7 @@ import urllib.request
 from datetime import datetime
 import re
 
+VERSION = "1.0.0"
 SOURCES_FILE = "sources.txt"
 OUTPUT_FILE = "Blocklist.txt"
 STATS_FILE = "Stats.txt"
@@ -139,7 +140,7 @@ def main():
 
 
     header = f"""
-# PiHoleBlocklist
+# PiHoleBlocklist v{VERSION}
 # Automatically generated
 #
 # Sources: {len(sources)}
