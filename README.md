@@ -25,3 +25,18 @@ A single, automatically updated Pi-hole blocklist combining multiple trusted com
 # 📥 Installation
 
 Add this URL to Pi-hole: https://raw.githubusercontent.com/Bukk1t/PiHoleBlocklist/main/Blocklist.txt
+
+---
+
+## 🔄 Automatic Updates
+
+This blocklist is automatically updated every day (Every 24 hours at 00:00 UTC) using GitHub Actions.
+
+The update system:
+- Downloads the latest versions of all included sources
+- Removes duplicate entries
+- Generates a fresh `Blocklist.txt`
+- Publishes the updated list automatically
+
+You do not need to manually download a new version.  
+If you use the Pi-hole URL below, your Pi-hole will always receive the latest available list when it updates gravity.
