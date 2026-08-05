@@ -1,0 +1,7 @@
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+https://raw.githubusercontent.com/froggeric/DNS-blocklists/main/NoAppleAds
+https://big.oisd.nl/
+https://urlhaus.abuse.ch/downloads/hostfile/
+https://phishing.army/download/phishing_army_blocklist_extended.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.medium.txt
