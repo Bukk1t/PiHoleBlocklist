@@ -39,4 +39,4 @@ The update system:
 - Publishes the updated list automatically
 
 You do not need to manually download a new version.  
-If you use the Pi-hole URL below, your Pi-hole will always receive the latest available list when it updates gravity.
+If you use the Pi-hole URL given at the top, your Pi-hole will always receive the latest available list when it updates gravity.
