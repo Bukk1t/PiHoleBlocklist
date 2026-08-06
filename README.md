@@ -24,7 +24,7 @@ A single, automatically updated Pi-hole blocklist that combines multiple trusted
 
 ## 📥 Installation
 
-Add the following URL to your Pi-hole **Adlists**:
+Add the following URL to your Pi-hole **Blocklist**:
 
 ```text
 https://raw.githubusercontent.com/Bukk1t/PiHoleBlocklist/main/Blocklist.txt
