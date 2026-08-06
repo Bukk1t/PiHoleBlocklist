@@ -30,7 +30,7 @@ Add this URL to Pi-hole: https://raw.githubusercontent.com/Bukk1t/PiHoleBlocklis
 
 ## 🔄 Automatic Updates
 
-This blocklist is automatically updated every day (Every 24 hours at 00:00 UTC) using GitHub Actions.
+This blocklist is automatically updated every day (Every 24 hours) using GitHub Actions.
 
 The update system:
 - Downloads the latest versions of all included sources
