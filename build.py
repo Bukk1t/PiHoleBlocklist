@@ -9,9 +9,8 @@ SOURCES_FILE = "sources.txt"
 OUTPUT_FILE = "Blocklist.txt"
 STATS_FILE = "Stats.txt"
 
-# Don't publish a new list if it drops by more than this percentage.
-# This protects against an upstream list accidentally disappearing.
-MAX_DROP_PERCENT = 25.0
+# Drop protection
+MAX_DROP_PERCENT = 15.0
 
 
 def download(url):
