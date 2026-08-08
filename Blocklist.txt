@@ -1,9 +1,9 @@
-# PiHoleBlocklist v1.0.0
+# PiHoleBlocklist v1.1.0
 # Automatically generated
 #
 # Sources: 7
-# Domains: 720364
-# Updated: 2026-08-08 19:52:04.979319 UTC
+# Domains: 720,359
+# Updated: 2026-08-08 20:00:38 UTC
 #
 # Do not edit manually.
 #
@@ -36734,8 +36734,6 @@
 9zgw9s.close.futureisready.com
 9zhouedu.com
 9zm9cz7w88lofwej3.cfd
-@@||api.smoot.apple.com$~third-party
-@@||xp.apple.com$~third-party
 a-0-r-v.com
 a-0001.dc-msedge.net
 a-0004.a-msedge.net
@@ -95800,7 +95798,6 @@ apple.berlin
 apple.co.cobblestonesw.com
 apple.co.mw
 apple.com
-apple.com$ping,xmlhttprequest,domain=apple.com
 apple.com.login.uutokens.com
 apple.com.mw
 apple.comscoreresearch.com
@@ -327036,7 +327033,6 @@ itudxxjroadevb.com
 itujfdhvfwj.com
 itulahpolitik.com
 itunes.apple.com
-itunes.apple.com$popup,domain=apple.com
 itunes.re
 itunes321.rovitan.vu
 itunesboss.com
@@ -462506,7 +462502,6 @@ phikunprogramming.com
 phil-ups.com
 philacct.com
 philadelphia-inquirer-snowplow-collector.localnewslab.io
-philadelphia_cbslocal.us.intellitxt.com
 philadelphiagossipapril.com
 philadelphiasporting.com
 philadelphiastrenuousrotund.com
