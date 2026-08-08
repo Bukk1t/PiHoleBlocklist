@@ -9,9 +9,6 @@ SOURCES_FILE = "sources.txt"
 OUTPUT_FILE = "Blocklist.txt"
 STATS_FILE = "Stats.txt"
 
-# Drop protection
-MAX_DROP_PERCENT = 15.0
-
 
 def download(url):
     print(f"\nDownloading: {url}")
@@ -49,21 +46,10 @@ def clean_domain(domain):
     if domain.startswith("||"):
         domain = domain[2:]
 
-    # Hosts file format
-    if domain.startswith("0.0.0.0 "):
-        domain = domain.split(None, 1)[1]
-
-    if domain.startswith("127.0.0.1 "):
-        domain = domain.split(None, 1)[1]
-
-    # Remove leading/trailing dots
-    domain = domain.strip(".")
-
     # Remove AdBlock modifiers
     if "^" in domain:
         domain = domain.split("^", 1)[0]
 
-    # Remove AdGuard/uBlock options
     if "$" in domain:
         domain = domain.split("$", 1)[0]
 
@@ -77,7 +63,7 @@ def clean_domain(domain):
     domain = domain.split(":", 1)[0]
 
     # Remove trailing dot
-    domain = domain.rstrip(".")
+    domain = domain.strip(".")
 
     return domain
 
@@ -101,7 +87,7 @@ def is_valid_domain(domain):
     if ":" in domain:
         return False
 
-    # Reject IP addresses
+    # Reject IPv4 addresses
     if re.fullmatch(
         r"(?:\d{1,3}\.){3}\d{1,3}",
         domain
@@ -112,7 +98,7 @@ def is_valid_domain(domain):
     if "." not in domain:
         return False
 
-    # Reasonable domain length
+    # Valid length
     if len(domain) < 4 or len(domain) > 253:
         return False
 
@@ -123,14 +109,12 @@ def is_valid_domain(domain):
     ):
         return False
 
-    # Reject consecutive dots
+    # No consecutive dots
     if ".." in domain:
         return False
 
-    # Reject invalid labels
-    labels = domain.split(".")
-
-    for label in labels:
+    # Validate labels
+    for label in domain.split("."):
         if not label:
             return False
 
@@ -153,16 +137,7 @@ def extract_domains(text):
             continue
 
         # Comments
-        if line.startswith("#"):
-            continue
-
-        if line.startswith("!"):
-            continue
-
-        if line.startswith("[Adblock"):
-            continue
-
-        if line.startswith("[AdGuard"):
+        if line.startswith("#") or line.startswith("!"):
             continue
 
         # Remove inline comments
@@ -171,29 +146,16 @@ def extract_domains(text):
         if not line:
             continue
 
-        # ---------------------------------------------------------
-        # Hosts format:
-        #
-        # 0.0.0.0 example.com
-        # 127.0.0.1 example.com
-        # ---------------------------------------------------------
-
         parts = line.split()
 
-        if len(parts) >= 2:
-            first = parts[0]
-
-            if first in {
-                "0.0.0.0",
-                "127.0.0.1",
-                "::",
-                "::1"
-            }:
-                domain = parts[1]
-            else:
-                # Don't blindly take the last field from arbitrary
-                # filter syntax.
-                domain = parts[0]
+        # Hosts file format
+        if len(parts) >= 2 and parts[0] in {
+            "0.0.0.0",
+            "127.0.0.1",
+            "::",
+            "::1"
+        }:
+            domain = parts[1]
 
         else:
             domain = parts[0]
@@ -210,11 +172,17 @@ def load_sources():
     path = Path(SOURCES_FILE)
 
     if not path.exists():
-        raise RuntimeError(f"{SOURCES_FILE} does not exist")
+        raise RuntimeError(
+            f"{SOURCES_FILE} does not exist"
+        )
 
     sources = []
 
-    with path.open("r", encoding="utf-8") as file:
+    with path.open(
+        "r",
+        encoding="utf-8"
+    ) as file:
+
         for line in file:
             line = line.strip()
 
@@ -227,68 +195,17 @@ def load_sources():
             sources.append(line)
 
     if not sources:
-        raise RuntimeError("No sources found")
+        raise RuntimeError(
+            "No sources found"
+        )
 
     return sources
 
 
-def get_previous_total():
-    path = Path(STATS_FILE)
-
-    if not path.exists():
-        return None
-
-    try:
-        text = path.read_text(encoding="utf-8")
-
-        match = re.search(
-            r"Total unique domains:\s*([\d,]+)",
-            text
-        )
-
-        if match:
-            return int(match.group(1).replace(",", ""))
-
-    except Exception:
-        pass
-
-    return None
-
-
-def check_for_suspicious_drop(new_total, previous_total):
-    if previous_total is None:
-        print("\nNo previous statistics found.")
-        print("Skipping drop protection for first build.")
-        return
-
-    if previous_total <= 0:
-        return
-
-    drop_percent = (
-        (previous_total - new_total)
-        / previous_total
-        * 100
-    )
-
-    print("\nPrevious domains:", f"{previous_total:,}")
-    print("New domains:     ", f"{new_total:,}")
-    print("Change:           ", f"{-drop_percent:.2f}%")
-
-    if drop_percent > MAX_DROP_PERCENT:
-        raise RuntimeError(
-            "\nBLOCKLIST UPDATE STOPPED!\n"
-            f"The blocklist dropped by {drop_percent:.2f}%.\n"
-            f"Previous: {previous_total:,}\n"
-            f"New:      {new_total:,}\n"
-            f"Maximum allowed drop: {MAX_DROP_PERCENT}%\n"
-            "\n"
-            "This may indicate that an upstream source "
-            "is missing or broken."
-        )
-
-
 def write_blocklist(domains, sources):
-    updated = datetime.now(timezone.utc).strftime(
+    updated = datetime.now(
+        timezone.utc
+    ).strftime(
         "%Y-%m-%d %H:%M:%S UTC"
     )
 
@@ -311,13 +228,16 @@ def write_blocklist(domains, sources):
         encoding="utf-8",
         newline="\n"
     ) as file:
+
         file.write(header)
         file.write("\n".join(domains))
         file.write("\n")
 
 
 def write_stats(domains, sources, statistics):
-    updated = datetime.now(timezone.utc).strftime(
+    updated = datetime.now(
+        timezone.utc
+    ).strftime(
         "%Y-%m-%d %H:%M:%S UTC"
     )
 
@@ -330,28 +250,23 @@ def write_stats(domains, sources, statistics):
 
         file.write(
             "PiHoleBlocklist Statistics\n"
-            "==========================\n\n"
         )
 
         file.write(
-            f"Version:\n{VERSION}\n\n"
+            f"Last update:\n{updated}\n"
         )
 
         file.write(
-            f"Last update:\n{updated}\n\n"
+            f"Sources:\n{len(sources)}\n"
         )
 
         file.write(
-            f"Sources:\n{len(sources)}\n\n"
-        )
-
-        file.write(
-            f"Total unique domains:\n{len(domains):,}\n\n"
+            f"Total unique domains:\n"
+            f"{len(domains):,}\n"
         )
 
         file.write(
             "Source breakdown:\n"
-            "------------------\n\n"
         )
 
         for source, amount in statistics.items():
@@ -368,7 +283,9 @@ def main():
 
     sources = load_sources()
 
-    print(f"\nLoaded {len(sources)} sources.")
+    print(
+        f"\nLoaded {len(sources)} sources."
+    )
 
     all_domains = set()
     statistics = {}
@@ -380,7 +297,8 @@ def main():
 
         if not domains:
             raise RuntimeError(
-                f"Source returned zero valid domains:\n{source}"
+                f"Source returned zero valid domains:\n"
+                f"{source}"
             )
 
         statistics[source] = len(domains)
@@ -404,13 +322,6 @@ def main():
         f"TOTAL DOMAINS: {len(domains):,}"
     )
     print("==============================")
-
-    previous_total = get_previous_total()
-
-    check_for_suspicious_drop(
-        len(domains),
-        previous_total
-    )
 
     write_blocklist(
         domains,
