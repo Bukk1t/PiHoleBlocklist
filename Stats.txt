@@ -1,15 +1,15 @@
 PiHoleBlocklist Statistics
 Last update:
-2026-08-12 10:41:20 UTC
+2026-08-12 12:43:03 UTC
 Sources:
 7
 Total unique domains:
-784,777
+784,841
 Source breakdown:
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts: 97,646
 https://raw.githubusercontent.com/froggeric/DNS-blocklists/main/NoAppleAds: 36
-https://big.oisd.nl/: 251,794
-https://urlhaus.abuse.ch/downloads/hostfile/: 375
-https://phishing.army/download/phishing_army_blocklist_extended.txt: 156,104
+https://big.oisd.nl/: 251,792
+https://urlhaus.abuse.ch/downloads/hostfile/: 373
+https://phishing.army/download/phishing_army_blocklist_extended.txt: 156,251
 https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/pro.txt: 213,644
 https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/tif.medium.txt: 430,165
