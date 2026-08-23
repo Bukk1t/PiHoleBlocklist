@@ -56,8 +56,6 @@ https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/anti.piracy
 
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/fake.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/popupads.txt
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/safesearch.txt
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.txt
 
 
 # ============================================================
@@ -68,7 +66,6 @@ https://raw.githubusercontent.com/hagezi/nrd/main/adblock/nrd7.txt
 https://raw.githubusercontent.com/hagezi/nrd/main/adblock/nrd14-8.txt
 https://raw.githubusercontent.com/hagezi/nrd/main/adblock/nrd21-15.txt
 https://raw.githubusercontent.com/hagezi/nrd/main/adblock/nrd28-22.txt
-https://raw.githubusercontent.com/hagezi/nrd/main/adblock/nrd35-29.txt
 
 https://raw.githubusercontent.com/hagezi/nrd/main/adblock/dga7.txt
 https://raw.githubusercontent.com/hagezi/nrd/main/adblock/dga14.txt
@@ -144,7 +141,6 @@ https://raw.githubusercontent.com/blocklistproject/Lists/master/tracking.txt
 # ============================================================
 
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
-https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV2.txt
 
 
 # ============================================================
