@@ -2,7 +2,9 @@
 
 ## One blocklist to rule them all.
 
-A single, automatically updated Pi-hole blocklist combining trusted community-maintained **ad, tracker, malware, phishing, privacy, and threat-intelligence lists** into one deduplicated collection.
+PiHoleBlocklist is an automatically maintained, deduplicated Pi-hole blocklist combining trusted community-maintained advertising, tracking, malware, phishing, privacy, telemetry, and threat-intelligence lists.
+
+It is rebuilt automatically from the original sources, so changes made by the original list maintainers are automatically reflected here.
 
 [![Update Blocklist](https://github.com/Bukk1t/PiHoleBlocklist/actions/workflows/update.yml/badge.svg)](https://github.com/Bukk1t/PiHoleBlocklist/actions)
 ![Domains](https://img.shields.io/badge/domains-16M%2B-blue)
@@ -11,91 +13,236 @@ A single, automatically updated Pi-hole blocklist combining trusted community-ma
 
 ---
 
-## 🚀 Features
+## 📥 Add to Pi-hole
 
-- ✅ Ad blocking
-- ✅ Tracker blocking
-- ✅ Malware protection
-- ✅ Phishing protection
-- ✅ Threat intelligence
-- ✅ Privacy protection
-- ✅ Newly registered domain blocking
-- ✅ DGA domain blocking
-- ✅ Duplicate removal
-- ✅ Automatic updates every 3 hours
-- ✅ Pi-hole compatible
-- ✅ Automatically split into GitHub-safe files
-- ✅ Automatically removes obsolete blocklist parts
+The blocklist is automatically divided into multiple files because GitHub has a 100 MB per-file limit.
 
----
+### Copy these URLs into Pi-hole
 
-## 📥 Installation
+Go to:
 
-Because GitHub has a **100 MB per-file limit**, the blocklist is automatically split into multiple files.
-
-Add the following URLs to your Pi-hole blocklists:
+Pi-hole → Lists → Add a new list
 
 <!-- BLOCKLIST_START -->
-
-The blocklist parts are generated automatically.
-
+https://raw.githubusercontent.com/Bukk1t/PiHoleBlocklist/main/Blocklist-01.txt
 <!-- BLOCKLIST_END -->
 
-Then update **Pi-hole Gravity** to download the latest lists.
+These URLs are automatically generated and maintained.
 
-> **You do not need to manually update the URLs.**
->
-> When the blocklist changes, the generated parts and this section are automatically updated.
+Do not manually add Blocklist-02.txt, Blocklist-03.txt, etc.
 
----
+If more parts are required, they will automatically appear here.
 
-## 🔄 Automatic Updates
+If parts are no longer required, their URLs will automatically disappear.
 
-PiHoleBlocklist is automatically rebuilt and published **every 3 hours** using GitHub Actions.
-
-Each update:
-
-1. Downloads the latest versions of all configured source lists.
-2. Extracts valid domains.
-3. Validates domains.
-4. Removes duplicates.
-5. Sorts the final domain list.
-6. Splits the list into GitHub-safe parts.
-7. Removes obsolete parts from previous builds.
-8. Automatically updates the blocklist URLs in this README.
-9. Generates updated statistics.
-10. Commits the new files to the repository.
-
-If a source removes false positives, those domains will disappear from PiHoleBlocklist during the next successful build.
-
-Likewise, if the total list becomes smaller and fewer parts are required, unused `Blocklist-XX.txt` files are automatically deleted.
-
-If the list grows, new parts are automatically created and added to this README.
+After adding the URLs, update Pi-hole Gravity.
 
 ---
 
-## 📊 Statistics
+## 🚀 Features
 
-The repository includes [`Stats.txt`](Stats.txt), containing information about the latest successful build.
+- Ad blocking
+- Tracker blocking
+- Malware protection
+- Phishing protection
+- Privacy protection
+- Telemetry blocking
+- Threat intelligence
+- Newly registered domain blocking
+- DGA domain blocking
+- Cryptomining protection
+- Smart TV / IoT protection
+- Persian / Iranian blocklists
+- Automatic duplicate removal
+- Automatic updates every 3 hours
+- Automatic GitHub-safe splitting
+- Automatic removal of obsolete parts
+- Automatic Pi-hole URL generation
+- Automatic statistics generation
+- Pi-hole compatible
 
-Statistics include:
+---
 
-- Total number of sources
-- Total unique domains
-- Number of generated blocklist parts
-- Domains in each part
-- Size of each part
-- Domains found in each source
-- Last update time
+## 🔄 How Automatic Updates Work
+
+Every 3 hours, GitHub Actions rebuilds the entire blocklist from the configured sources.
+
+sources.txt
+↓
+Download latest sources
+↓
+Extract valid domains
+↓
+Validate domains
+↓
+Remove duplicates
+↓
+Sort domains
+↓
+Split into GitHub-safe files
+↓
+Remove obsolete files
+↓
+Generate Pi-hole raw URLs
+↓
+Update README.md
+↓
+Generate Stats.txt
+↓
+Commit changes
+
+---
+
+## 🧹 Source Changes Are Automatically Applied
+
+PiHoleBlocklist does not permanently store domains from previous builds.
+
+Every build starts from the current contents of the configured source lists.
+
+That means:
+
+- If a source adds a domain, it can appear in the next build.
+- If a source removes a domain, it can disappear in the next build.
+- If a source removes a false positive, that domain can disappear automatically.
+- If the blocklist becomes smaller, unnecessary parts are automatically deleted.
+- If the blocklist grows, additional parts are automatically created.
+
+There is no need to manually edit generated blocklist files.
 
 ---
 
 ## 📦 Blocklist Parts
 
-The blocklist is stored as:
+Because the complete blocklist can exceed GitHub's 100 MB file limit, it is automatically split into numbered parts.
 
-```text
+Example:
+
+Blocklist-01.txt
+Blocklist-02.txt
+Blocklist-03.txt
+Blocklist-04.txt
+
+If a later build only requires three parts:
+
+Blocklist-01.txt
+Blocklist-02.txt
+Blocklist-03.txt
+
+Blocklist-04.txt is automatically removed.
+
+The README is updated at the same time so that only the currently existing raw URLs are displayed.
+
+---
+
+## 🔗 Raw Blocklist Files
+
+Every generated part is directly compatible with Pi-hole.
+
+Example:
+
+https://raw.githubusercontent.com/Bukk1t/PiHoleBlocklist/main/Blocklist-01.txt
+
+Additional parts follow the same format:
+
+https://raw.githubusercontent.com/Bukk1t/PiHoleBlocklist/main/Blocklist-02.txt
+https://raw.githubusercontent.com/Bukk1t/PiHoleBlocklist/main/Blocklist-03.txt
+https://raw.githubusercontent.com/Bukk1t/PiHoleBlocklist/main/Blocklist-04.txt
+
+The Add to Pi-hole section above always contains the current list of files.
+
+---
+
+## 📊 Statistics
+
+Stats.txt contains information about the latest successful build.
+
+It includes:
+
+- Last update time
+- Number of sources
+- Total unique domains
+- Number of generated parts
+- Size of each part
+- Domains contained in each part
+- Domains found in each source
+- Source-by-source statistics
+
+---
+
+## 🗂️ Sources
+
+All source URLs are maintained in:
+
+sources.txt
+
+The project combines lists covering areas such as:
+
+- Advertising
+- Tracking
+- Telemetry
+- Malware
+- Phishing
+- Fraud
+- Scam domains
+- Privacy
+- Cryptomining
+- Newly registered domains
+- DGA domains
+- Smart TVs
+- IoT devices
+- Regional threats
+- Other security and nuisance domains
+
+The generated blocklist is a deduplicated aggregation of these sources.
+
+---
+
+## ⚙️ GitHub Actions
+
+The repository uses GitHub Actions to automatically rebuild the blocklist every 3 hours.
+
+The generated files, README URL section, and statistics are updated automatically.
+
+You do not need to run the builder manually.
+
+---
+
+## ⚠️ Generated Files
+
+The following files are generated automatically:
+
 Blocklist-01.txt
 Blocklist-02.txt
 Blocklist-03.txt
 ...
+Stats.txt
+
+Do not manually edit generated blocklist files.
+
+Changes will be overwritten by the next successful build.
+
+To change what is included in the blocklist, modify:
+
+sources.txt
+
+---
+
+## 📄 Third-Party Sources
+
+PiHoleBlocklist aggregates third-party blocklists maintained by their respective authors.
+
+The original sources retain their respective licenses and terms.
+
+Please refer to sources.txt for the complete list of included sources.
+
+---
+
+## ⭐ Support
+
+If PiHoleBlocklist is useful to you, consider giving the repository a ⭐.
+
+Every star helps the project gain visibility.
+
+---
+
+Automatically built. Automatically updated. Automatically maintained. 
