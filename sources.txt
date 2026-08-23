@@ -95,7 +95,6 @@ https://codeberg.org/KhodeKiaa/PersianBlocker/raw/branch/main/PersianBlocker.txt
 # ============================================================
 
 https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/notrack-blocklist.txt
-
 https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
 https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_trackers.txt
 
