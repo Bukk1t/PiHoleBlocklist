@@ -1,14 +1,18 @@
 # ============================================================
+# BUKK1T Pi-hole Blocklist
+# Balanced: ads + trackers + malware + phishing
+# Designed for normal household use
+# ============================================================
+
+
+# ============================================================
 # GENERAL / GLOBAL
 # ============================================================
 
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 https://big.oisd.nl/
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-https://adguardteam.github.io/AdGuardSDNSFilter/Filters/adguard_popup_filter.txt
 https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/domains.txt
-https://easylist.to/easylist/easylist.txt
-https://easylist.to/easylist/easyprivacy.txt
 
 
 # ============================================================
@@ -17,7 +21,6 @@ https://easylist.to/easylist/easyprivacy.txt
 
 https://urlhaus.abuse.ch/downloads/hostfile/
 https://phishing.army/download/phishing_army_blocklist_extended.txt
-https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 
 https://raw.githubusercontent.com/blocklistproject/Lists/master/abuse.txt
 https://raw.githubusercontent.com/blocklistproject/Lists/master/fraud.txt
@@ -25,51 +28,25 @@ https://raw.githubusercontent.com/blocklistproject/Lists/master/malware.txt
 https://raw.githubusercontent.com/blocklistproject/Lists/master/phishing.txt
 https://raw.githubusercontent.com/blocklistproject/Lists/master/ransomware.txt
 https://raw.githubusercontent.com/blocklistproject/Lists/master/scam.txt
-https://raw.githubusercontent.com/blocklistproject/Lists/master/redirect.txt
 
 https://v.firebog.net/hosts/RPiList-Malware.txt
 https://v.firebog.net/hosts/RPiList-Phishing.txt
 
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
-https://raw.githubusercontent.com/stamparm/aux/master/maltrail-malware-domains.txt
-https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/android_pua.txt
-https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
 
 
 # ============================================================
-# HAGEZI - CORE
+# HAGEZI - MAIN
 # ============================================================
 
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt
+
+
+# ============================================================
+# HAGEZI - THREAT INTELLIGENCE
+# ============================================================
+
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.medium.txt
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/dyndns.txt
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/spam-tlds-adblock.txt
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/urlshortener.txt
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/hoster.txt
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh.txt
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/anti.piracy.txt
-
-
-# ============================================================
-# HAGEZI - SPECIALIZED
-# ============================================================
-
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/fake.txt
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/popupads.txt
-
-
-# ============================================================
-# HAGEZI - NEWLY REGISTERED DOMAINS / DGA
-# ============================================================
-
-https://raw.githubusercontent.com/hagezi/nrd/main/adblock/nrd7.txt
-https://raw.githubusercontent.com/hagezi/nrd/main/adblock/nrd14-8.txt
-https://raw.githubusercontent.com/hagezi/nrd/main/adblock/nrd21-15.txt
-https://raw.githubusercontent.com/hagezi/nrd/main/adblock/nrd28-22.txt
-
-https://raw.githubusercontent.com/hagezi/nrd/main/adblock/dga7.txt
-https://raw.githubusercontent.com/hagezi/nrd/main/adblock/dga14.txt
-https://raw.githubusercontent.com/hagezi/nrd/main/adblock/dga30.txt
 
 
 # ============================================================
@@ -80,12 +57,7 @@ https://raw.githubusercontent.com/froggeric/DNS-blocklists/main/NoAppleAds
 
 https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerAds.txt
 https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerTrackers.txt
-https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerCensor.txt
 https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerPhishing.txt
-
-https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerAds-Domains.txt
-https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerTrackers-Domains.txt
-https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerAnnoyances-Domains.txt
 
 https://codeberg.org/KhodeKiaa/PersianBlocker/raw/branch/main/PersianBlocker.txt
 
@@ -94,7 +66,6 @@ https://codeberg.org/KhodeKiaa/PersianBlocker/raw/branch/main/PersianBlocker.txt
 # TRACKERS / TELEMETRY
 # ============================================================
 
-https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/notrack-blocklist.txt
 https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
 https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_trackers.txt
 
@@ -102,10 +73,6 @@ https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/
 
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Win10Telemetry
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/MS-Office-Telemetry
-https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/samsung
-
-https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
-https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt
 
 
 # ============================================================
@@ -116,36 +83,24 @@ https://v.firebog.net/hosts/Easyprivacy.txt
 https://v.firebog.net/hosts/Easylist.txt
 
 https://v.firebog.net/hosts/Prigent-Ads.txt
-https://v.firebog.net/hosts/Admiral.txt
-https://v.firebog.net/hosts/static/w3kbl.txt
 
 https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
-https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
 https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
 
 
 # ============================================================
-# BLOCKLIST PROJECT
+# BLOCKLIST PROJECT - ADS / TRACKING
 # ============================================================
 
 https://raw.githubusercontent.com/blocklistproject/Lists/master/ads.txt
-https://raw.githubusercontent.com/blocklistproject/Lists/master/crypto.txt
-https://raw.githubusercontent.com/blocklistproject/Lists/master/smart-tv.txt
 https://raw.githubusercontent.com/blocklistproject/Lists/master/tracking.txt
 
 
 # ============================================================
-# SMART TV / IOT
+# SMART TV / IoT
 # ============================================================
 
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
-
-
-# ============================================================
-# REGIONAL / SPECIALIZED
-# ============================================================
-
-https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
 
 
 # ============================================================
