@@ -160,5 +160,4 @@ https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
 # PRIVACY / EXTRA
 # ============================================================
 
-https://raw.githubusercontent.com/ryanbr/freedns/master/adblock.txt
 https://v.firebog.net/hosts/Prigent-Malware.txt
