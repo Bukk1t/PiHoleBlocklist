@@ -1,84 +1,12 @@
-# ============================================================
-# BUKK1T Pi-hole Blocklist
-# Balanced household protection
-# Ads + trackers + malware + phishing
-# ============================================================
-
-
-# ============================================================
-# MAIN BLOCKING
-# ============================================================
-
 https://big.oisd.nl/
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt
 
-
-# ============================================================
-# SECURITY / MALWARE / PHISHING
-# ============================================================
+https://urlhaus.abuse.ch/downloads/hostfile/
+https://phishing.army/download/phishing_army_blocklist_extended.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
 
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.medium.txt
 
-https://urlhaus.abuse.ch/downloads/hostfile/
-https://phishing.army/download/phishing_army_blocklist_extended.txt
-
-https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
-
-
-# ============================================================
-# PERSIAN / IRANIAN
-# ============================================================
-
-https://raw.githubusercontent.com/froggeric/DNS-blocklists/main/NoAppleAds
-
-https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerAds.txt
-https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerTrackers.txt
 https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerPhishing.txt
 
-https://codeberg.org/KhodeKiaa/PersianBlocker/raw/branch/main/PersianBlocker.txt
-
-
-# ============================================================
-# TRACKERS / TELEMETRY
-# ============================================================
-
-https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
-https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_trackers.txt
-
-https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
-
-
-# ============================================================
-# WINDOWS / MICROSOFT TELEMETRY
-# ============================================================
-
-https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Win10Telemetry
-https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/MS-Office-Telemetry
-
-
-# ============================================================
-# ADS / TRACKING
-# ============================================================
-
-https://v.firebog.net/hosts/Easyprivacy.txt
-https://v.firebog.net/hosts/Easylist.txt
-
-https://v.firebog.net/hosts/Prigent-Ads.txt
-
-https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
-https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
-
-
-# ============================================================
-# CRYPTOMINING
-# ============================================================
-
-https://v.firebog.net/hosts/Prigent-Crypto.txt
-https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
-
-
-# ============================================================
-# SMART TV / IoT
-# ============================================================
-
-https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
