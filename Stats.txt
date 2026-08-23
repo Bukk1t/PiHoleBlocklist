@@ -5,39 +5,27 @@ Version:
 1.1.0
 
 Last update:
-2026-08-23 18:59:30 UTC
+2026-08-23 19:26:26 UTC
 
 Sources:
-38
+24
 
 Total unique domains:
-4,866,022
+972,166
 
 Blocklist parts:
-2
+1
 
 Generated files:
-Blocklist-01.txt: 4,554,532 domains, 90.00 MB
-Blocklist-02.txt: 311,490 domains, 6.55 MB
+Blocklist-01.txt: 972,166 domains, 20.71 MB
 
 Source breakdown:
-https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts: 93,515
-https://big.oisd.nl/: 268,152
-https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt: 177,296
-https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/domains.txt: 205,417
-https://urlhaus.abuse.ch/downloads/hostfile/: 369
-https://phishing.army/download/phishing_army_blocklist_extended.txt: 156,708
-https://raw.githubusercontent.com/blocklistproject/Lists/master/abuse.txt: 435,051
-https://raw.githubusercontent.com/blocklistproject/Lists/master/fraud.txt: 285,116
-https://raw.githubusercontent.com/blocklistproject/Lists/master/malware.txt: 2,655,752
-https://raw.githubusercontent.com/blocklistproject/Lists/master/phishing.txt: 190,191
-https://raw.githubusercontent.com/blocklistproject/Lists/master/ransomware.txt: 1,904
-https://raw.githubusercontent.com/blocklistproject/Lists/master/scam.txt: 8,527
-https://v.firebog.net/hosts/RPiList-Malware.txt: 1,083,667
-https://v.firebog.net/hosts/RPiList-Phishing.txt: 156,969
-https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt: 11,732
+https://big.oisd.nl/: 268,120
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt: 224,127
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.medium.txt: 360,027
+https://urlhaus.abuse.ch/downloads/hostfile/: 369
+https://phishing.army/download/phishing_army_blocklist_extended.txt: 156,708
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt: 11,732
 https://raw.githubusercontent.com/froggeric/DNS-blocklists/main/NoAppleAds: 36
 https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerAds.txt: 126
 https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerTrackers.txt: 42
@@ -53,9 +41,6 @@ https://v.firebog.net/hosts/Easylist.txt: 45,179
 https://v.firebog.net/hosts/Prigent-Ads.txt: 4,270
 https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt: 42,343
 https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt: 6,540
-https://raw.githubusercontent.com/blocklistproject/Lists/master/ads.txt: 235,867
-https://raw.githubusercontent.com/blocklistproject/Lists/master/tracking.txt: 143,866
-https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt: 244
 https://v.firebog.net/hosts/Prigent-Crypto.txt: 11,491
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt: 313
-https://v.firebog.net/hosts/Prigent-Malware.txt: 248,586
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt: 244
