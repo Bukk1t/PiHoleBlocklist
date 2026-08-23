@@ -35,7 +35,6 @@ https://raw.githubusercontent.com/stamparm/aux/master/maltrail-malware-domains.t
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/android_pua.txt
 
 https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
-https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/hosts
 
 
 # ============================================================
