@@ -33,7 +33,6 @@ https://v.firebog.net/hosts/RPiList-Phishing.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
 https://raw.githubusercontent.com/stamparm/aux/master/maltrail-malware-domains.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/android_pua.txt
-
 https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
 
 
@@ -57,11 +56,8 @@ https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/anti.piracy
 
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/fake.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/popupads.txt
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/dns-rebind.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/safesearch.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.txt
-
-# Gambling is intentionally omitted.
 
 
 # ============================================================
@@ -94,7 +90,6 @@ https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerAd
 https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerTrackers-Domains.txt
 https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerAnnoyances-Domains.txt
 
-# Current combined PersianBlocker source
 https://codeberg.org/KhodeKiaa/PersianBlocker/raw/branch/main/PersianBlocker.txt
 
 
@@ -145,13 +140,11 @@ https://raw.githubusercontent.com/blocklistproject/Lists/master/tracking.txt
 
 
 # ============================================================
-# SMART TV / IoT
+# SMART TV / IOT
 # ============================================================
 
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV2.txt
-https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
-https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt
 
 
 # ============================================================
@@ -159,8 +152,6 @@ https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.t
 # ============================================================
 
 https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
-
-https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/ZeroDot1_CoinBlockerLists/master/hosts
 
 
 # ============================================================
