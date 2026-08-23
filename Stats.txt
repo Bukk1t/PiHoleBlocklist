@@ -5,96 +5,57 @@ Version:
 1.1.0
 
 Last update:
-2026-08-23 18:14:16 UTC
+2026-08-23 18:55:11 UTC
 
 Sources:
-75
+38
 
 Total unique domains:
-16,642,654
+4,866,022
 
 Blocklist parts:
-4
+2
 
 Generated files:
-Blocklist-01.txt: 5,072,900 domains, 90.00 MB
-Blocklist-02.txt: 5,214,689 domains, 90.00 MB
-Blocklist-03.txt: 5,148,205 domains, 90.00 MB
-Blocklist-04.txt: 1,206,860 domains, 22.49 MB
+Blocklist-01.txt: 4,554,532 domains, 90.00 MB
+Blocklist-02.txt: 311,490 domains, 6.55 MB
 
 Source breakdown:
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts: 93,515
 https://big.oisd.nl/: 268,152
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt: 177,296
-https://adguardteam.github.io/AdGuardSDNSFilter/Filters/adguard_popup_filter.txt: 1,065
 https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/domains.txt: 205,417
-https://easylist.to/easylist/easylist.txt: 54,377
-https://easylist.to/easylist/easyprivacy.txt: 50,575
-https://urlhaus.abuse.ch/downloads/hostfile/: 368
+https://urlhaus.abuse.ch/downloads/hostfile/: 369
 https://phishing.army/download/phishing_army_blocklist_extended.txt: 156,708
-https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt: 8,140
 https://raw.githubusercontent.com/blocklistproject/Lists/master/abuse.txt: 435,051
 https://raw.githubusercontent.com/blocklistproject/Lists/master/fraud.txt: 285,116
 https://raw.githubusercontent.com/blocklistproject/Lists/master/malware.txt: 2,655,752
 https://raw.githubusercontent.com/blocklistproject/Lists/master/phishing.txt: 190,191
 https://raw.githubusercontent.com/blocklistproject/Lists/master/ransomware.txt: 1,904
 https://raw.githubusercontent.com/blocklistproject/Lists/master/scam.txt: 8,527
-https://raw.githubusercontent.com/blocklistproject/Lists/master/redirect.txt: 108,682
 https://v.firebog.net/hosts/RPiList-Malware.txt: 1,083,667
 https://v.firebog.net/hosts/RPiList-Phishing.txt: 156,969
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt: 11,732
-https://raw.githubusercontent.com/stamparm/aux/master/maltrail-malware-domains.txt: 949,917
-https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/android_pua.txt: 326
-https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts: 1,384
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt: 224,127
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.medium.txt: 360,027
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/dyndns.txt: 1,521
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/spam-tlds-adblock.txt: 10
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/urlshortener.txt: 9,920
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/hoster.txt: 1,238
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh.txt: 3,367
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/anti.piracy.txt: 43,924
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/fake.txt: 17,098
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/popupads.txt: 54,161
-https://raw.githubusercontent.com/hagezi/nrd/main/adblock/nrd7.txt: 3,104,424
-https://raw.githubusercontent.com/hagezi/nrd/main/adblock/nrd14-8.txt: 2,662,446
-https://raw.githubusercontent.com/hagezi/nrd/main/adblock/nrd21-15.txt: 2,880,248
-https://raw.githubusercontent.com/hagezi/nrd/main/adblock/nrd28-22.txt: 2,347,295
-https://raw.githubusercontent.com/hagezi/nrd/main/adblock/dga7.txt: 571,257
-https://raw.githubusercontent.com/hagezi/nrd/main/adblock/dga14.txt: 1,124,548
-https://raw.githubusercontent.com/hagezi/nrd/main/adblock/dga30.txt: 2,466,201
 https://raw.githubusercontent.com/froggeric/DNS-blocklists/main/NoAppleAds: 36
 https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerAds.txt: 126
 https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerTrackers.txt: 42
-https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerCensor.txt: 7
 https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerPhishing.txt: 1
-https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerAds-Domains.txt: 34
-https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerTrackers-Domains.txt: 25
-https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerAnnoyances-Domains.txt: 3
 https://codeberg.org/KhodeKiaa/PersianBlocker/raw/branch/main/PersianBlocker.txt: 1,094
-https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/notrack-blocklist.txt: 15,286
 https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt: 14,751
 https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_trackers.txt: 224,799
 https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt: 347
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Win10Telemetry: 45
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/MS-Office-Telemetry: 3
-https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/samsung: 84
-https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt: 80
-https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt: 16
 https://v.firebog.net/hosts/Easyprivacy.txt: 42,927
 https://v.firebog.net/hosts/Easylist.txt: 45,179
 https://v.firebog.net/hosts/Prigent-Ads.txt: 4,270
-https://v.firebog.net/hosts/Admiral.txt: 1,636
-https://v.firebog.net/hosts/static/w3kbl.txt: 350
 https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt: 42,343
-https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts: 1,645
 https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt: 6,540
 https://raw.githubusercontent.com/blocklistproject/Lists/master/ads.txt: 235,867
-https://raw.githubusercontent.com/blocklistproject/Lists/master/crypto.txt: 1,274
-https://raw.githubusercontent.com/blocklistproject/Lists/master/smart-tv.txt: 77
 https://raw.githubusercontent.com/blocklistproject/Lists/master/tracking.txt: 143,866
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt: 244
-https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt: 45,439
 https://v.firebog.net/hosts/Prigent-Crypto.txt: 11,491
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt: 313
 https://v.firebog.net/hosts/Prigent-Malware.txt: 248,586
