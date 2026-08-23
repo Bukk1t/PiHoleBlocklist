@@ -1,8 +1,8 @@
 # PiHoleBlocklist v1.0.0
 # Automatically generated
 # Sources: 8
-# Domains: 728,101
-# Updated: 2026-08-23 20:06:33 UTC
+# Domains: 728,146
+# Updated: 2026-08-23 21:11:27 UTC
 #
 # Do not edit manually.
 
@@ -37067,6 +37067,7 @@ acpvvwpxifegl.space
 acq.go2cloud.org
 acq.io
 acq9.com
+acqademy.com
 acqephvfx.com
 acqgm8trk.com
 acqqmjewqgqln.online
@@ -59890,6 +59891,7 @@ aldide.aphthovir.shop
 aldide.arfsarfs.shop
 aldideal.com
 aldideals.adrimart.shop
+aldideals.alstorex.shop
 aldideals.alwaysnest.shop
 aldideals.amdris.shop
 aldideals.amyro.shop
@@ -59994,13 +59996,17 @@ aldideals.supplypeak.shop
 aldideals.sylqor.shop
 aldideals.tandrix.shop
 aldideals.tavdor.shop
+aldideals.tavrixa.shop
+aldideals.terqel.shop
 aldideals.tyvora.shop
+aldideals.ulvani.shop
 aldideals.ulvrok.shop
 aldideals.umyqen.shop
 aldideals.uvdrix.shop
 aldideals.vadriko.shop
 aldideals.varietycove.shop
 aldideals.varymi.shop
+aldideals.velsio.shop
 aldideals.virelq.shop
 aldideals.vornak.shop
 aldideals.walmor.shop
@@ -60022,6 +60028,7 @@ aldideals.yordel.shop
 aldideals.yulsen.shop
 aldideals.zanmio.shop
 aldideals.zavmor.shop
+aldideals.zelmor.shop
 aldideals.zenmox.shop
 aldideals.zermavo.shop
 aldidiscountsonline.com
@@ -60046,6 +60053,7 @@ aldieu.belanoricart.shop
 aldieu.beralvonniceday.shop
 aldieu.berisolcart.shop
 aldieu.berocantobuy.shop
+aldieu.bolamericart.shop
 aldieu.brenoxilniceday.shop
 aldieu.bylcorvenniceday.shop
 aldieu.bylorextobuy.shop
@@ -60088,6 +60096,7 @@ aldieu.kalenvcart.shop
 aldieu.kemorxcart.shop
 aldieu.lasagnabed.shop
 aldieu.myrvida.shop
+aldieu.rusticgrove.shop
 aldieu.swucck.shop
 aldieur.bavrixmart.shop
 aldieur.corminmart.shop
@@ -60365,6 +60374,7 @@ aldius-market.modernbaskellc.shop
 aldius-market.plthsadaoyroly.com
 aldius-market.solantrixfishing.com
 aldius-market.sumitgods.com
+aldius-market.sunrisejames.com
 aldius-market.urbandenimlab.com
 aldius-market.zenpathgoodsllc.shop
 aldius-shop.crispcollar.com
@@ -60414,6 +60424,7 @@ aldius.prynel.shop
 aldius.pyvara.shop
 aldius.roakbasket.shop
 aldius.roilpantry.shop
+aldius.savyro.shop
 aldius.selqen.shop
 aldius.sevqor.shop
 aldius.splaygoods.shop
@@ -60497,6 +60508,7 @@ aldiweeklydeals.com
 aldkfsd.cn
 aldkkk.uk
 aldl.goodspage.shop
+aldl.solecove.shop
 aldlizzon.shop
 aldluk.shop
 aldo-shoes.fr
@@ -63153,6 +63165,7 @@ alienmade.com
 alienmanfc6.com
 alienqueen.com
 alienrefra.rest
+alienscalf.rest
 aliensintech.com
 alientodesign.com
 alienxchain.io
@@ -66068,6 +66081,7 @@ allegro.lokalna-oferta1924729122.sbs
 allegro.lokalna-oferta1931462.ink
 allegro.lokalna-oferta197384.lol
 allegro.lokalna-oferta3123.sbs
+allegro.lokalna-oferta4132687.lol
 allegro.lokalna-oferta458691412.xyz
 allegro.lokalna-oferta5222862.sbs
 allegro.lokalna-oferta53.ink
@@ -71394,6 +71408,7 @@ allegrolokalnie.oferta-423486.cfd
 allegrolokalnie.oferta-42429872.cfd
 allegrolokalnie.oferta-4490-pl.shop
 allegrolokalnie.oferta-4710081.cc
+allegrolokalnie.oferta-471852.cfd
 allegrolokalnie.oferta-483002-pl.shop
 allegrolokalnie.oferta-512622-pl.sbs
 allegrolokalnie.oferta-5151522-pl.sbs
@@ -73451,6 +73466,7 @@ allegrolokalnie.pl-odbior-platnosci-7321.click
 allegrolokalnie.pl-of19854.shop
 allegrolokalnie.pl-ofera-938543012.cyou
 allegrolokalnie.pl-ofera1278631271238712381237123.sbs
+allegrolokalnie.pl-ofera674892180.cfd
 allegrolokalnie.pl-ofera92.shop
 allegrolokalnie.pl-oferata63995205.shop
 allegrolokalnie.pl-oferta-018-aparat-canon-powershot-g7-x-mark.click
@@ -142537,6 +142553,7 @@ butsurestedonychin.cyou
 buttadesign.com
 buttamegmh.rest
 buttcandy.com
+buttccinskieslicensure.info
 buttcum.com
 buttecongi.cyou
 buttecountyhomeshare.com
@@ -243316,6 +243333,7 @@ eu.smobyclub.com
 eu.smobynow.com
 eu.smobytime.com
 eu.spangeddonny.shop
+eu.stanlay1913.com
 eu.stanlayshop.com
 eu.stanlyestores.com
 eu.stanlyss1913.com
@@ -243578,6 +243596,7 @@ euonlines.shop
 euonlinesale.shop
 euonllz.shop
 euonlsa.shop
+euonlsp.shop
 euonsale.com
 euoonzal.shop
 euortovox.shop
@@ -261235,6 +261254,7 @@ fisio1-sed78.sbs
 fisio1-tempora48.sbs
 fisio1-ut1.sbs
 fisio1-ut30.sbs
+fisio1-vel46.sbs
 fisio1-vero6.sbs
 fisio1-voluptatum90.sbs
 fisio2-cumque96.sbs
@@ -261333,6 +261353,7 @@ fisio5-saepe31.sbs
 fisio5-saepe88.sbs
 fisio5-sed54.sbs
 fisio5-ut30.sbs
+fisio5-ut32.sbs
 fisio5-ut41.sbs
 fisio5-ut73.sbs
 fisio5-voluptate77.sbs
@@ -261441,6 +261462,7 @@ fisio9-odit28.sbs
 fisio9-quisquam18.sbs
 fisio9-rerum20.sbs
 fisio9-sapiente38.sbs
+fisio9-sapiente42.sbs
 fisio9-similique56.sbs
 fisio9-tempora56.sbs
 fisio9-tempora88.sbs
@@ -306746,6 +306768,7 @@ hethsminter.com
 heti-naplo.com
 hetkai.com
 hetlaatstenieuws365.pro
+hetmagarba.rest
 hetnu.com
 hetouchesitdies.com
 hetowin.com
@@ -338457,6 +338480,7 @@ je3zdrcua.com
 je5k-lid-rab-9yq5t-2ohy-3rrbo.pages.dev
 je6unt.qpon
 je777cs.com
+je9oqcu.skin
 jeagujho.shop
 jeahodra.sa.com
 jeaiym.shop
@@ -348821,6 +348845,7 @@ kdsfofifmdfiodfiso.site
 kdsk32lfa.xyz
 kdspolonhja.firebaseapp.com
 kdspolonhja.web.app
+kdsunlimited.com
 kdsvscnffrtau.online
 kdtrdlof.grabo.bg
 kdtrk.net
@@ -364979,6 +365004,7 @@ legionstudio.tora.ru
 legislationplumb.com
 legislator85.top
 legislaw.xyz
+legisrewak.rest
 legistfetus.com
 legistrum.shop
 legistscoble.cfd
@@ -391131,6 +391157,7 @@ masteryoga.xyz
 mastevbcs.com
 masthe.info
 masti.store
+mastialtez.rest
 mastiffdrool.com
 mastingmitered.cfd
 mastinstungmoreal.com
@@ -413136,6 +413163,7 @@ mirrorinvestfiscal.click
 mirrorleaf.snowbankapp.com
 mirrorlkeep.thefuture-sa.com
 mirrornews.in
+mirrorplatform.net
 mirrors.site50.net
 mirrorsearch.speedbit.com
 mirrorshash.xyz
@@ -441180,6 +441208,7 @@ nimbusgrovelodge.com
 nimbusneckline.shop
 nimbusnightfrontier.shop
 nimbusroot.org
+nimbustradeco.com
 nimbusvaults.com
 nimceidyfuavkferxepm.com
 nimda.latelierduchocolat.com.mx
@@ -444255,6 +444284,7 @@ norvendale.click
 norvendaletrust-ai.com
 norvendaletrust-my.com
 norvensignal.com
+norventaxi.shop
 norventiraa.top
 norvenvault-fr.live
 norvenvault-sk.live
@@ -474215,6 +474245,7 @@ penny-stock.live
 pennyandpineledgerco.com
 pennydeathobituary.site
 pennydiy.com
+pennyharbour.com
 pennynetwork.com
 pennyotcstock.com
 pennyquarry.eu
@@ -477662,6 +477693,7 @@ photovpnlabs.xyz
 photoware.xyz
 photowin.live
 photowise.xyz
+photplix.info
 photsinsatgramyoutb.weebly.com
 photsinsstagrmss.weebly.com
 photsinstgrame.weebly.com
@@ -490233,6 +490265,7 @@ portaldasfinancas-autenticar.com
 portaldav.online
 portaldeacessojuridico.sbs
 portaldeinicio.webcindario.com
+portaldemais.com
 portaldetrandigital.com
 portaldimensional.com
 portaldinossauros.top
@@ -492321,6 +492354,7 @@ pranacare.com
 pranaparis.fr
 pranasonic.com
 pranawellness.us
+pranayamanaturals.com
 pranayogastudio.com
 pranazfinance.com
 prandelia.pro
@@ -493481,6 +493515,7 @@ pressandstud.shop
 pressao.sinprodf.org.br
 pressasset.xyz
 pressbureauonline.pro
+presscaffeine.com
 presscllad.com
 presscoder.com
 pressdeskstudio.com
@@ -494697,6 +494732,7 @@ prisma-tr.prismamedia.com
 prismartschool.com
 prismasyncengine.digital
 prismasyncvector.digital
+prismaticcommerce.com
 prismatrixnode.digital
 prismavoltengine.digital
 prismawalletixtrade.com
@@ -494726,6 +494762,7 @@ prisonniacins.com
 prisonsupstick.qpon
 prisonyfork.buzz
 prisspective.com
+prissybritchesboutique.com
 prissysilly.com
 pristicane.shop
 pristine-arcadia.com
@@ -497095,6 +497132,7 @@ promosi.wfgg7.com
 promosijack.com
 promosoins2026bhdleons2626.iceiy.com
 promosomeback.org
+promosource.co.uk
 promospl.shop
 promosport.xyz
 promostats.ru
@@ -553209,6 +553247,7 @@ shopaldi-us.suboardprebint.com
 shopaldi-us.thesdmedvelvet.com
 shopaldi-us.vibeshopllc.shop
 shopaldi-us.vintagegtique.com
+shopaldi-us.windcrest.store
 shopaldideals.com
 shopaldiq.com
 shopaldiuk.textiletrfend.com
@@ -594407,6 +594446,7 @@ tardleuruturiglet.cyou
 tardtodtimpi.com
 tardytoosled.com
 tarenumo.com
+tarevokel.com
 tarevoki.com
 tarfor.pl
 targad.de
@@ -599546,6 +599586,7 @@ temporaryenco.slickchat.com
 temporaryoutb.tenderlovingcompanies.com
 temporeseguros.com.br
 tempoultim.cyou
+temprarchi.rest
 temprify.com
 tempsend.com
 tempshare.su
@@ -599631,6 +599672,7 @@ tenddata.com
 tenddata.com.cn
 tenddata.net
 tenddesigner.com
+tendeengro.rest
 tendeliber.cyou
 tendenciaglobaltech.com
 tendenciasmundodigital.com
@@ -616763,6 +616805,7 @@ tradeaibot10.live
 tradeaidepetroecuador.digital
 tradeaisystem.click
 tradeaisystem.live
+tradeaisystem.net
 tradeaitrade.com
 tradeaitrade.net
 tradeakit.xyz
@@ -618600,6 +618643,7 @@ treadball.com
 treadbun.com
 treadingalong.com
 treadmillsforall.com
+treadtqnd.shop
 treadtribe.shop
 treaguepfg.com
 treamkgoods.com
@@ -665423,6 +665467,7 @@ wmeng.feihuadns.com
 wment.edu-diplomz.com
 wmeoznybzmddz.space
 wmeqoborqbkjw.top
+wmfeu.shop
 wmg.112.2o7.net
 wmg.abf.mytemp.website
 wmg.com.ssl.sc.omtrdc.net
