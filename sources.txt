@@ -14,3 +14,7 @@ https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerTr
 https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerAnnoyances-Domains.txt
 https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/domains.txt
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/dyndns.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tlds.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/nrds.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/urlshortener.txt
