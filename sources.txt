@@ -12,3 +12,5 @@ https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerPh
 https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerAds-Domains.txt
 https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerTrackers-Domains.txt
 https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerAnnoyances-Domains.txt
+https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/domains.txt
+https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
