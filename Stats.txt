@@ -1,15 +1,24 @@
 PiHoleBlocklist Statistics
 Last update:
-2026-08-23 09:17:31 UTC
+2026-08-23 12:00:18 UTC
 Sources:
-7
+16
 Total unique domains:
-726,113
+944,763
 Source breakdown:
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts: 93,515
 https://raw.githubusercontent.com/froggeric/DNS-blocklists/main/NoAppleAds: 36
-https://big.oisd.nl/: 268,155
-https://urlhaus.abuse.ch/downloads/hostfile/: 368
-https://phishing.army/download/phishing_army_blocklist_extended.txt: 156,940
+https://big.oisd.nl/: 268,245
+https://urlhaus.abuse.ch/downloads/hostfile/: 367
+https://phishing.army/download/phishing_army_blocklist_extended.txt: 156,888
 https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/pro.txt: 224,127
 https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/tif.medium.txt: 360,027
+https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerAds.txt: 126
+https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerTrackers.txt: 42
+https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerCensor.txt: 7
+https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerPhishing.txt: 1
+https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerAds-Domains.txt: 34
+https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerTrackers-Domains.txt: 25
+https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerAnnoyances-Domains.txt: 3
+https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/domains.txt: 205,417
+https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt: 177,191
