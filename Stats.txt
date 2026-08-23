@@ -2,25 +2,19 @@ PiHoleBlocklist Statistics
 ===========================
 
 Version:
-1.1.0
+1.0.0
 
 Last update:
-2026-08-23 19:54:01 UTC
+2026-08-23 20:06:33 UTC
 
 Sources:
 8
 
 Total unique domains:
-728,112
-
-Blocklist parts:
-1
-
-Generated files:
-Blocklist-01.txt: 728,112 domains, 13.54 MB
+728,101
 
 Source breakdown:
-https://big.oisd.nl/: 268,120
+https://big.oisd.nl/: 268,109
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt: 224,127
 https://urlhaus.abuse.ch/downloads/hostfile/: 369
 https://phishing.army/download/phishing_army_blocklist_extended.txt: 156,708
