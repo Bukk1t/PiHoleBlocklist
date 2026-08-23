@@ -5,3 +5,10 @@ https://urlhaus.abuse.ch/downloads/hostfile/
 https://phishing.army/download/phishing_army_blocklist_extended.txt
 https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/pro.txt
 https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/tif.medium.txt
+https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerAds.txt
+https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerTrackers.txt
+https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerCensor.txt
+https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerPhishing.txt
+https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerAds-Domains.txt
+https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerTrackers-Domains.txt
+https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerAnnoyances-Domains.txt
