@@ -5,18 +5,18 @@ Version:
 1.0.0
 
 Last update:
-2026-08-24 15:04:43 UTC
+2026-08-24 15:28:25 UTC
 
 Sources:
 8
 
 Total unique domains:
-721,400
+721,394
 
 Source breakdown:
-https://big.oisd.nl/: 268,404
+https://big.oisd.nl/: 268,398
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt: 224,526
-https://urlhaus.abuse.ch/downloads/hostfile/: 351
+https://urlhaus.abuse.ch/downloads/hostfile/: 353
 https://phishing.army/download/phishing_army_blocklist_extended.txt: 156,685
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt: 11,732
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.medium.txt: 358,358

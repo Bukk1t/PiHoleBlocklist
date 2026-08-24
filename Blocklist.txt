@@ -1,8 +1,8 @@
 # PiHoleBlocklist v1.0.0
 # Automatically generated
 # Sources: 8
-# Domains: 721,400
-# Updated: 2026-08-24 15:04:43 UTC
+# Domains: 721,394
+# Updated: 2026-08-24 15:28:25 UTC
 #
 # Do not edit manually.
 
@@ -222263,7 +222263,6 @@ drewniane.art
 drewno-forma.lovable.app
 drewno-opalowe.com
 drewnopiotrkow.pl
-drewnosprzedawcaa.pl
 drewopal.com
 drewopal.pl
 drewpickles.com
@@ -223465,7 +223464,6 @@ dryzorsyncapp.net
 dryzorsyncapp.org
 drz.glue.oystergardening.net
 drzainabqadir.click
-drzewonova.com
 drzimmerman.com
 drzk.club
 drzqijno6u91u832r91yqzou1jvd5pn2mt2s.com
@@ -260656,7 +260654,6 @@ fisio3-voluptatem35.sbs
 fisio4-aperiam83.sbs
 fisio4-architecto12.sbs
 fisio4-aut32.sbs
-fisio4-aut50.sbs
 fisio4-cum92.sbs
 fisio4-cumque7.sbs
 fisio4-dolore58.sbs
@@ -260682,7 +260679,6 @@ fisio4-quam90.sbs
 fisio4-quas17.sbs
 fisio4-quis45.sbs
 fisio4-reiciendis22.sbs
-fisio4-reiciendis28.sbs
 fisio4-tenetur33.sbs
 fisio4-totam15.sbs
 fisio4-unde46.sbs
@@ -260729,7 +260725,6 @@ fisio6-est73.sbs
 fisio6-et70.sbs
 fisio6-eum72.sbs
 fisio6-expedita95.sbs
-fisio6-facere91.sbs
 fisio6-id25.sbs
 fisio6-illum97.sbs
 fisio6-maxime74.sbs
@@ -473048,7 +473043,6 @@ pellet-ecos.company.site
 pellet-haus.com
 pellet-premuim.com
 pellet4future.com
-pelletdom.com
 pelletglobal.com
 pelletgroup48.com
 pelletkraft.de
