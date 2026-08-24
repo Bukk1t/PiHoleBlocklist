@@ -1,12 +1,3 @@
 https://big.oisd.nl/
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt
-
-https://urlhaus.abuse.ch/downloads/hostfile/
-https://phishing.army/download/phishing_army_blocklist_extended.txt
-https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
-
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.medium.txt
-
-https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerPhishing.txt
-
-https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
