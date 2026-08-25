@@ -1,8 +1,8 @@
 # PiHoleBlocklist v1.0.0
 # Automatically generated
 # Sources: 3
-# Domains: 608,383
-# Updated: 2026-08-25 03:39:29 UTC
+# Domains: 608,417
+# Updated: 2026-08-25 06:26:53 UTC
 #
 # Do not edit manually.
 
@@ -53648,6 +53648,7 @@ allegrolokalnie.634464hr.top
 allegrolokalnie.63738.vu
 allegrolokalnie.643646.me
 allegrolokalnie.6453978224365.shop
+allegrolokalnie.6512862.mom
 allegrolokalnie.6543998345.shop
 allegrolokalnie.6589619.mom
 allegrolokalnie.6754378.rest
@@ -71646,6 +71647,7 @@ approchain.proximatechat.com
 approciucc.cyou
 approcroch.rest
 approecono.rest
+approkriop.click
 approofcrypto.xyz
 approofhodl.xyz
 approofmoon.xyz
@@ -81596,6 +81598,7 @@ axmendodonapicea.cfd
 axmlccssip.com
 axmof.de
 axmoznqudx.com
+axmz.shop
 axobjectsource.com
 axoclick.com
 axocorp.xyz
@@ -100586,6 +100589,7 @@ blizzerdpro.live
 blizzerdprobot.live
 blizzerdproplatform.com
 blizzerdprosystem.com
+blizzerdprotrade.com
 blizzetrix-soft.com
 blizzetrix.app
 blizzetrixsoft.com
@@ -115837,6 +115841,7 @@ burebau.pro
 burederthidew.com
 buremanoici.net
 bureskovind.info
+buretnonde.store
 burette34.com
 burg-delivery.cfd
 burg-delivery.cyou
@@ -149522,6 +149527,7 @@ coremining1.com
 coremotives.com
 corenano.click
 coreness.xyz
+coreneutlab.site
 corenewteam.blog
 corent.cc
 coreo.buzz
@@ -175404,6 +175410,7 @@ dervi-enprend-ec.webcindario.com
 derviayudademon-ormd.onrender.com
 dervifinansasec.webcindario.com
 dervisbildik.com
+dervuq.shop
 derw-me.web.app
 derwaistthatheha.org
 derweasiopltred.weebly.com
@@ -223551,6 +223558,7 @@ fishyps.vic.edu.au
 fisicorequerimento.app
 fisio0-ab29.sbs
 fisio0-aspernatur10.sbs
+fisio0-assumenda83.sbs
 fisio0-aut52.sbs
 fisio0-aut77.sbs
 fisio0-autem66.sbs
@@ -223565,6 +223573,7 @@ fisio0-et67.sbs
 fisio0-et88.sbs
 fisio0-et90.sbs
 fisio0-eum90.sbs
+fisio0-illo1.sbs
 fisio0-in49.sbs
 fisio0-magni24.sbs
 fisio0-modi70.sbs
@@ -223581,6 +223590,7 @@ fisio0-vel74.sbs
 fisio0-velit1.sbs
 fisio0-vitae75.sbs
 fisio1-adipisci65.sbs
+fisio1-aut50.sbs
 fisio1-commodi55.sbs
 fisio1-consequatur10.sbs
 fisio1-delectus84.sbs
@@ -223646,6 +223656,7 @@ fisio3-aspernatur98.sbs
 fisio3-autem71.sbs
 fisio3-cum39.sbs
 fisio3-ducimus62.sbs
+fisio3-ea82.sbs
 fisio3-eius80.sbs
 fisio3-error26.sbs
 fisio3-et50.sbs
@@ -223666,6 +223677,7 @@ fisio3-saepe9.sbs
 fisio3-sed33.sbs
 fisio3-soluta97.sbs
 fisio3-ullam53.sbs
+fisio3-ut59.sbs
 fisio3-vel35.sbs
 fisio3-vero10.sbs
 fisio3-voluptas90.sbs
@@ -223721,6 +223733,7 @@ fisio5-et95.sbs
 fisio5-hic51.sbs
 fisio5-in50.sbs
 fisio5-minus70.sbs
+fisio5-odio44.sbs
 fisio5-omnis25.sbs
 fisio5-omnis33.sbs
 fisio5-qui88.sbs
@@ -223776,6 +223789,7 @@ fisio6-velit63.sbs
 fisio6-veniam32.sbs
 fisio6-voluptatem32.sbs
 fisio7-atque31.sbs
+fisio7-blanditiis27.sbs
 fisio7-consequatur28.sbs
 fisio7-ducimus56.sbs
 fisio7-earum83.sbs
@@ -223784,6 +223798,7 @@ fisio7-et48.sbs
 fisio7-et68.sbs
 fisio7-et89.sbs
 fisio7-facilis9.sbs
+fisio7-fugit47.sbs
 fisio7-illo71.sbs
 fisio7-impedit61.sbs
 fisio7-laborum16.sbs
@@ -223847,6 +223862,7 @@ fisio9-et37.sbs
 fisio9-et49.sbs
 fisio9-eveniet34.sbs
 fisio9-expedita89.sbs
+fisio9-fuga88.sbs
 fisio9-illum97.sbs
 fisio9-impedit46.sbs
 fisio9-iure93.sbs
@@ -223863,6 +223879,7 @@ fisio9-sapiente38.sbs
 fisio9-sapiente42.sbs
 fisio9-similique56.sbs
 fisio9-similique78.sbs
+fisio9-sint99.sbs
 fisio9-tempora56.sbs
 fisio9-tempora88.sbs
 fisio9-tempore64.sbs
@@ -276461,6 +276478,7 @@ hypnotizmir.com
 hypnotone.com
 hypo-4u.de
 hypoatory.epyc5c.info
+hypobricos.store
 hypocrisysmallestbelieving.com
 hypocrisywaistenthusiasm.com
 hypocrisyyard.com
@@ -350153,6 +350171,7 @@ meneghinzanardo.com
 menegon.ch
 menelbet.com
 menepe.com
+menerreimp.click
 menestralia.com
 menews.org
 menewsline.xyz
@@ -399111,6 +399130,7 @@ oltassetpatch1.net
 oltfywhtcgbul.site
 oltop.com
 oltrassaleasit.shop
+oltrereper.click
 oltrix.shop
 olttix7lold6h4.t7eoah.casa
 oltumuretoursandsafaris.com
@@ -399734,6 +399754,7 @@ omtogeljoker.com
 omtvhdjdj.com
 omucwhzljevthqe98trp.viomil.ro
 omuljhauewban.com
+omurashop.com
 omutogel78ami.site
 omutogel78amu.site
 omutogel78qmi.site
@@ -400821,6 +400842,7 @@ onlineatendimentoempresa.digital
 onlineatstore.shop
 onlineatt783.pory.app
 onlineauth2-client4765445b-32c6-49b0-83e6-1d93765276.com
+onlineaxbd.shop
 onlinebagsstore.shop
 onlinebanking-caribbean.info
 onlinebanking.app
@@ -422968,6 +422990,7 @@ playslotonlinehouse.com
 playsnourishbag.com
 playsocceroverseas.com
 playspotz.com
+playsrespi.click
 playsrv.xyz
 playsstore.net
 playsswap.xyz
@@ -430594,6 +430617,7 @@ primloopdeh.site
 primmeeview.com
 primmenkulportfoyweb.com
 primmo-dumas.com
+primniwrap.site
 primoautomation.com
 primobene.shop
 primoblog.xyz
@@ -461540,6 +461564,7 @@ rtpmulia77play.site
 rtppogfr.com
 rtppurnama4d.com
 rtpseduniahoki1.xyz
+rtpsultan799jp.com
 rtpsupergacor.org
 rtpterbarusila.site
 rtptop88.com
@@ -461776,6 +461801,7 @@ rubwyxmcjbudza.com
 ruby-fox3.host
 ruby-galaxy.com
 ruby-ribbon.shop
+ruby-stilettos.shop
 ruby-vegas-fr.fr
 ruby.ops.iec.ch
 ruby.rubyraum.ru
@@ -468694,6 +468720,7 @@ scanwellhaulage.com
 scanworld.net
 scaof.com
 scappassot.rest
+scappcontr.store
 scapplebarit.cfd
 scappledaps.com
 scarabjourney.work
@@ -479598,6 +479625,7 @@ sgrhf.org.pk
 sgricheadl.rest
 sgrl-live.com
 sgrnropdcp.com
+sgrovgraph.click
 sgrunt.biz
 sgs.itdepartment.services
 sgs.us.com
@@ -495526,6 +495554,7 @@ soppeltaxi-oslo.com
 sopportdeceunta.webcindario.com
 sopr-api.cian.ru
 sopraciarl.rest
+sopradifro.store
 sopradisva.autos
 sopranishamim.com
 soprapazze.rest
@@ -540784,6 +540813,7 @@ tradexagpt.live
 tradexagpt.shop
 tradexcapital.com
 tradexius-79aigpt.com
+tradexius79aigpt.com
 tradexiva.com
 tradexlive.xyz
 tradexploit.sbs
@@ -553608,6 +553638,7 @@ unpanchamon.com
 unparenteqqd.info
 unparlaccer.com
 unpasteonanismmewing.qpon
+unpatsemip.click
 unpavelamplet.cfd
 unpbe.com
 unper.xyz
@@ -553744,6 +553775,7 @@ unsightlyaffect.pro
 unsightlynature.com
 unsightlypassenger.com
 unsigilyphor.com
+unsimchiap.store
 unsinking-adalberto-biomedical.ngrok-free.dev
 unsizedjabber.com
 unskilfulunpredictable.com
@@ -599799,6 +599831,7 @@ yrdsdifwwlicc.site
 yrepmy.jochen-schweizer.de
 yresdityhsk.com
 yrewn.com
+yrexadolva.shop
 yrfcjnbjutyxlql.com
 yrfeduyl.xyz
 yrfidrpzpbw.com
@@ -601805,6 +601838,7 @@ zakuskananda.cyou
 zakvkuotv.in
 zakxafohb.in
 zalabia.net
+zaladanoutlets.com
 zaladowintersale.shop
 zalando-aoutlet.shop
 zalando-bb.top
