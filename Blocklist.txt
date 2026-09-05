@@ -1,8 +1,8 @@
 # PiHoleBlocklist v1.0.0
 # Automatically generated
 # Sources: 3
-# Domains: 596,848
-# Updated: 2026-09-05 17:00:13 UTC
+# Domains: 596,923
+# Updated: 2026-09-05 19:40:55 UTC
 #
 # Do not edit manually.
 
@@ -6222,6 +6222,7 @@
 15.sub-75-222-33.myvzw.com
 15.taboola.com
 15.torayche.com
+150.co.il
 150.sub-75-201-82.myvzw.com
 150.sub-75-218-203.myvzw.com
 1500020991.vodplayer.wxamedia.com
@@ -22724,6 +22725,7 @@
 5nfc.net
 5nn0ag.reichll.click
 5nr.deepcl0ud.ru
+5nrv.oferta13x.lat
 5nsig534xaxesaphf33mwh7ekhld5mtekls35-h06.vercel.app
 5nt1gx7o57.com
 5o6.cc
@@ -24834,6 +24836,7 @@
 6ox.de
 6oz.click
 6p2g1kk03.com
+6p3x.oferta13x.lat
 6p6vcukqz.com
 6p7.gy2ur1wmquh2cinw914xbwvi119714m.cyou
 6p9m2.com
@@ -53982,6 +53985,7 @@ aldi-uk.sterlingmart.shop
 aldi-uk.sterlingpantry.shop
 aldi-uk.sterlingshelf.shop
 aldi-uk.tython.shop
+aldi-uk.vintrollc.com
 aldi-uk.wython.shop
 aldi-uk.zython.shop
 aldi-us.adenoshop.shop
@@ -54076,6 +54080,7 @@ aldi.vynzor.shop
 aldi.wilvian.shop
 aldi.xanvexo.shop
 aldi.xelario.shop
+aldi.zanlero.shop
 aldi.zelario.shop
 aldi.zelbridge.shop
 aldi.zenithbay.shop
@@ -54115,6 +54120,13 @@ aldideals.fenymart.shop
 aldideals.ferdstore.shop
 aldideals.fernostore.shop
 aldideals.fervomart.shop
+aldideals.fostorex.shop
+aldideals.garmart.shop
+aldideals.gavymart.shop
+aldideals.gedimart.shop
+aldideals.gilvemart.shop
+aldideals.gilvostore.shop
+aldideals.gostorex.shop
 aldideals.jorqav.shop
 aldideals.korexi.shop
 aldideals.lorqix.shop
@@ -54154,14 +54166,21 @@ aldies-store.sunnyoakspaw.com
 aldiesshop.com
 aldieu.alcorvanniceday.shop
 aldieu.amberquoniceday.shop
+aldieu.ambralivery.shop
 aldieu.anterahub.shop
+aldieu.arcovanture.shop
 aldieu.ardelvixniceday.shop
+aldieu.arenovastor.shop
 aldieu.arvioselect.shop
+aldieu.astralvantra.shop
 aldieu.axeloselect.shop
 aldieu.belanoricart.shop
 aldieu.belvoselect.shop
 aldieu.beralvonniceday.shop
+aldieu.borealvanta.shop
+aldieu.brillovantra.shop
 aldieu.calvoselect.shop
+aldieu.candevantra.shop
 aldieu.candleofmonth.shop
 aldieu.canterahub.shop
 aldieu.cariaselect.shop
@@ -54169,12 +54188,20 @@ aldieu.catlittertoys.shop
 aldieu.celiorahub.shop
 aldieu.celvionselect.shop
 aldieu.ceranohub.shop
+aldieu.cerulovantra.shop
 aldieu.cindarvexniceday.shop
+aldieu.civillivantr.shop
+aldieu.clareovantra.shop
+aldieu.corenovantra.shop
 aldieu.corlunixniceday.shop
 aldieu.corvoselect.shop
+aldieu.cosmovanture.shop
+aldieu.cresnovaware.shop
 aldieu.crystalice.shop
+aldieu.curavantrade.shop
 aldieu.daelquorniceday.shop
 aldieu.darenoselect.shop
+aldieu.dawnevantra.shop
 aldieu.delvoselect.shop
 aldieu.dorvionselect.shop
 aldieu.dreamingmoon.shop
@@ -56138,6 +56165,7 @@ allegrolokalnie.oferta673367xvsx25.forum
 allegrolokalnie.oferta712273848492.xyz
 allegrolokalnie.oferta7259489.click
 allegrolokalnie.oferta7262738382838371.biz
+allegrolokalnie.oferta726354.cfd
 allegrolokalnie.oferta73059.shop
 allegrolokalnie.oferta7432716.rest
 allegrolokalnie.oferta759023.click
@@ -56227,6 +56255,7 @@ allegrolokalnie.pl-5884747483.click
 allegrolokalnie.pl-589679353.lol
 allegrolokalnie.pl-59017958123.lol
 allegrolokalnie.pl-5tfs4818.shop
+allegrolokalnie.pl-62353.click
 allegrolokalnie.pl-62885439.click
 allegrolokalnie.pl-635253846.click
 allegrolokalnie.pl-638466384.click
@@ -117407,6 +117436,8 @@ buscat.cat
 buscatrios.com
 buscavrbfwepynpqt.firebaseapp.com
 buscavrbfwepynpqt.web.app
+buscenx.cfd
+buscenx.sbs
 buschorholzbau.ch
 buscm.com
 busd-mmjd3.wiki
@@ -182347,6 +182378,7 @@ dowerdentileens.cyou
 dowerycleared.com
 dowhatyouneed.com
 dowhosting.net
+dowiedz-finans.com
 dowiedziujesie.convertri.com
 dowiehksjvuen.cn
 dowietampoonjuglans.cfd
@@ -215711,6 +215743,7 @@ fisiopatricia.com
 fisios0-animi73.sbs
 fisios0-aut20.sbs
 fisios0-dolores39.sbs
+fisios0-enim4.sbs
 fisios0-illum12.sbs
 fisios0-illum59.sbs
 fisios0-in20.sbs
@@ -215741,6 +215774,7 @@ fisios1-in46.sbs
 fisios1-molestiae54.sbs
 fisios1-mollitia82.sbs
 fisios1-non92.sbs
+fisios1-numquam66.sbs
 fisios1-quas50.sbs
 fisios1-sed7.sbs
 fisios1-voluptatibus29.sbs
@@ -215837,6 +215871,7 @@ fisios7-at35.sbs
 fisios7-aut83.sbs
 fisios7-consequatur56.sbs
 fisios7-cum30.sbs
+fisios7-debitis41.sbs
 fisios7-deserunt12.sbs
 fisios7-eius92.sbs
 fisios7-et38.sbs
@@ -217595,6 +217630,7 @@ flora-markt.com
 flora-resource-network.garden
 floradna.com
 floraforesthome.com
+floral-leaf-c698.natashalenayasfmf5256.workers.dev
 floralincreasinglysuperserver.com
 floraljewel.com
 floralrichardapprentice.com
@@ -240933,6 +240969,8 @@ govauthh.firebaseapp.com
 govauthh.web.app
 govazd.am
 govbtcclaim.org
+govcpl.cfd
+govcpl.sbs
 govcz-vzp-cz.casa
 goveanrs.org
 govearali.org
@@ -264835,6 +264873,7 @@ i9betorg.xyz
 i9pyfcl6ouoljr.rest
 i9q9f69vj5xyf1jvnu133l5.cfd
 i9s.cc
+i9twqk.cfd
 ia-patrimoine.com
 ia.51.la
 ia.cfwas.cam
@@ -272278,6 +272317,7 @@ iniksocialdigitalllc.info
 iniksocialdigitalltd.info
 iniksocialdigitalsolutions.info
 inimeya.com
+inimiscard.store
 inini.kesug.com
 iniomidonkeys.website
 iniomiunbiastermin.cfd
@@ -272795,6 +272835,7 @@ inpost.sid-1731521921.shop
 inpost.skrpay-pl.rest
 inpost.sp1rzeedazzzaa.lol
 inpost.sprzedac-1.cfd
+inpost.sprzedacwonlin1ne.xyz
 inpost.zamawiajonline24.lol
 inpost.zamowic-onlinesa.lol
 inpost.zamowtu24.bond
@@ -288125,6 +288166,7 @@ juan-vicini.com
 juancarloscubeiro.com
 juandou.com
 juanfimonitoring.com
+juangcuan.com
 juanhawiya.cfd
 juanmanuelpelaez.com
 juanmashots.com
@@ -299262,6 +299304,7 @@ ksmibacmvselii.net
 ksmvhvaiwyq.com
 ksmwpaoqbfuusk.com
 ksn-stat-install.kaspersky-labs.com
+ksnaos.lat
 ksnhwtjoaoeim.space
 ksoeqcpwi.com
 ksoqhcvec.com
@@ -302405,6 +302448,7 @@ lamaisondeluz.com
 lamaisonhind.com
 lamalledesanges.com
 lamaloca.info
+lamania-archive.com
 lamania-collections.pl
 lamania-topsale.shop
 lamania.shop
@@ -318161,6 +318205,7 @@ lokalna1745631.lol
 lokalna8738783.lol
 lokalna977.icu
 lokalnawsparcie.convertri.com
+lokalne-1857293.cfd
 lokalne-383712.lol
 lokalne-ogloszenie-1715344.click
 lokalne-ogloszenie56891896.shop
@@ -326021,6 +326066,7 @@ m6n3xf.lat
 m6qxdu6m6w.com
 m6r.eu
 m6r.homes
+m6t8.oferta13x.lat
 m700.bigrapidsnews.com
 m76387ht.firebaseapp.com
 m76387ht.web.app
@@ -326272,6 +326318,7 @@ macaxis.us.cc
 macbooktamiriankara.xyz
 maccabi4u.net
 maccaferi.com
+macchdisco.store
 macchimpit.rest
 macchpuddl.online
 maccleansepro.com
@@ -344349,6 +344396,7 @@ mhjasudirbgqs.website
 mhjs.shop
 mhjshdksdskdksdsmmjhsdt.weebly.com
 mhjsr.com
+mhk.jk8jie.casa
 mhk00123.zeabur.app
 mhkastohemen.uk
 mhkikldmrpgjj.store
@@ -355638,6 +355686,7 @@ mrcloud.site
 mrcoins.es
 mrcrackworld.com
 mrcuqjfaneqvv.space
+mrcw.jk8jie.casa
 mrcwkjbe.shop
 mrczjp.watch
 mrdarknet.com
@@ -377732,6 +377781,7 @@ oferta51647945.click
 oferta51718227-pl.click
 oferta5262616pl.click
 oferta532843.click
+oferta54783.sbs
 oferta5522738483322.cfd
 oferta58329.click
 oferta6163832-pl.click
@@ -380841,6 +380891,7 @@ olx.my-paycore.shop
 olx.noosha.icu
 olx.nqinvoice-poland.biz
 olx.oferta5080146pl.click
+olx.oferta726354.cfd
 olx.oferta828331pl.click
 olx.ogloszenie1726384773-z-dostawa.shop
 olx.online-poland24.lol
@@ -389320,6 +389371,7 @@ owalafrance.fr
 owalafrancefr.fr
 owalafranceshop.fr
 owalalife-fr.fr
+owalalifepolska.pl
 owalanetherlands.com
 owalaofficialstore.com
 owalapolska.com
@@ -394003,6 +394055,7 @@ pasdf48.asia
 pasdf63.asia
 pasdf78.asia
 pasdf93.asia
+pasdfjnapri.shop
 pasek-powrotu.lovable.app
 pasengpros.com
 paseoalberta.qpon
@@ -403372,6 +403425,7 @@ pixdivo.company
 pixduno.company
 pixeakblock.site
 pixeardapt.site
+pixechipom.site
 pixegate.site
 pixehome70.site
 pixel-1891467427.us-east-1.elb.amazonaws.com
@@ -404477,6 +404531,7 @@ pl-9432-oferta.click
 pl-9462785.click
 pl-9473375oferta.shop
 pl-9485-oferta.click
+pl-94ks31m.lol
 pl-9632774933zamowienie6326887522.biz
 pl-9643265oferta.shop
 pl-9809-oferta.click
@@ -404943,6 +404998,7 @@ pl1.cam
 pl2.rove06.com
 pl2026wojas.click
 pl23562.lol
+pl235925.lol
 pl26490.lol
 pl3.nl
 pl3.revo.eu.cc
@@ -404987,6 +405043,7 @@ pl8936252.shop
 pl89435oferta9032.cfd
 pl9104719256.shop
 pl923491.cfd
+pl92562.lol
 pl92755-oferta.click
 pl933686467oferta.shop
 pl946353738.shop
@@ -427597,6 +427654,7 @@ quagfa.com
 quagga.co.za
 quaggacoopt.com
 quaggoo.com
+quagljudoi.store
 quagvmpl.com
 quahl.com
 quai.herominers.com
@@ -430202,6 +430260,7 @@ qynx-ai.online
 qynx-ai.org
 qynxai-it.live
 qynxai-pl.com
+qynxai-uk.net
 qynxai.digital
 qynxai.live
 qynxai.pl
@@ -430719,6 +430778,7 @@ r932o.com
 r96041kf.beget.tech
 r96h7g97rik8eq8ow.cfd
 r973.timesheraldonline.com
+r9c5.oferta13x.lat
 r9dnqs.fit
 r9dnqs.xin
 r9dxy8.close.futureisready.com
@@ -432591,6 +432651,7 @@ raspygenx.click
 rasqeemrfzdoq.website
 rasquain.com
 rassegnabattiti.it
+rassilibra.store
 rassiribio.click
 rasskaju.ru
 rasskaz18.ru
@@ -438731,6 +438792,7 @@ resellerledger.com
 resellermastery.com
 resellrevived.shop
 resemblancey.com
+resendo.casa
 resentervice.com
 resentfulsecure.com
 resentlocallycamomile.com
@@ -441176,6 +441238,7 @@ ricomlecit.online
 ricomproch.rest
 ricomriaff.rest
 riconcommi.rest
+ricondisci.store
 riconfuste.rest
 riconpancl.rest
 riconsyste.click
@@ -448105,6 +448168,7 @@ ruppsmarplecollision.com
 ruproishestvie2026.vercel.app
 rupteeshooz.net
 ruqoduj.sbs
+ruqrsmji.shop
 ruradura.com
 rural-report.pro
 rural1.webcindario.com
@@ -459066,6 +459130,7 @@ seliverstova.hop.ru
 selkin.newddns.com
 sell-ukaldi.cadsualblouses.com
 sell-ukaldi.fielrflow.com
+sell-ukaldi.kitchen-wingate.com
 sell-ukaldi.lumorae-ca.com
 sell-ukaldi.nexropetllc.com
 sell-ukaldi.vintagewarmthllc.com
@@ -484795,6 +484860,7 @@ spax70p-cointelegraph.com
 spayvuulqmdr.com
 spazarbbanis.info
 spaziarredati.com
+spazidicol.store
 spaziincav.autos
 spaziintra.rest
 spazio.ed-intra.com
@@ -496765,6 +496831,7 @@ sternmeister.de
 sternmore.com
 sternodelivery.info
 sternsparstein.net
+sternspreg.store
 sternstimme.de
 sternwoldenz.de
 sternwoldenz.live
@@ -508499,6 +508566,7 @@ tarvel.starl1ght.ru
 tarvydas.com
 tarwifoods.com
 taryardconsume.cyou
+tarybtraco.store
 tarzanbajoccopooli.cyou
 tas.am
 tasaleschens.shop
@@ -517194,6 +517262,7 @@ thekobalttool.com
 thekomaicollector.com
 thekookaiofficial.com
 thekoolkids.co.uk
+thekooples-fr.com
 thekorner.shop
 thekoshercharcuterie.info
 thekosslab.net
@@ -522075,6 +522144,7 @@ tk-doc-matomo.tk.de
 tk-eu.amazon-adsystem.com
 tk-eudouglas.help
 tk-eulidleu.help
+tk-eulidleu.sbs
 tk-ezalandoeu.shop
 tk-gamma.amazon-adsystem.com
 tk-gregoric.si
@@ -531022,6 +531092,7 @@ triptravel.co
 tripui.cloud
 tripverin.com
 triraparia.online
+triseinama.store
 triselmoria365a.com
 trishaganjoo.com
 trishawbleaks.qpon
@@ -537986,6 +538057,7 @@ ukpinehillgrove.com
 ukpinehollowpark.com
 ukpinevaleplace.com
 ukpinevalley.com
+ukportableac.shop
 ukprimehorizon.com
 ukprintservices.com
 ukpulsejournal.com
@@ -552474,6 +552546,7 @@ villeroy-bochoutletshop.com
 villeroy-outlets.shop
 villeroy-sale.shop
 villeroy-top.shop
+villeroy-topsale.shop
 villeroyat.fr
 villeroyboch-official.shop
 villeroyboch-world.shop
@@ -568685,6 +568758,7 @@ wlwyb.com
 wlxnj.com
 wlyliobur6.data.adobedc.net
 wlytwxupsdver.online
+wlz9122.lat
 wlzhmngyhuebs.space
 wlzm.wwwwzerbmokej.top
 wlzzwzeevbyak.top
@@ -571327,6 +571401,7 @@ wss.a.pinggy.link
 wss.findmykids.org
 wss.vectorplatform.cc
 wssgmstats.vibbo.com
+wssjpvrj.shop
 wssk.net
 wsssaunhzztxj.store
 wsst.memberspot.de
