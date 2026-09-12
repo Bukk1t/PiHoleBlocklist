@@ -1,8 +1,8 @@
 # PiHoleBlocklist v1.0.0
 # Automatically generated
 # Sources: 3
-# Domains: 938,181
-# Updated: 2026-09-12 17:31:39 UTC
+# Domains: 938,212
+# Updated: 2026-09-12 19:50:33 UTC
 #
 # Do not edit manually.
 
@@ -3134,6 +3134,7 @@
 0wpfe0duo.com
 0wsu2fhnkv.46464tk.com
 0wtobgd6.venoplus.us
+0wuyu7ue.skin
 0wv.xyz
 0wwdo226yexm.top
 0wzer.com
@@ -8064,6 +8065,7 @@
 1cf96c064d8186bd.com
 1cfb4ef5bb4fc24a.top
 1cftplatforma.digital
+1cfttradingplatform.com
 1cimslrk3.com
 1ckbfk08k.de
 1clic1don.fr
@@ -12840,6 +12842,7 @@
 2g1lbrr0qv.com
 2g2kaa598.de
 2g8lomzrb.com
+2gb94.jo6dql.top
 2geart.com
 2gemini.de
 2getherness.net
@@ -68177,6 +68180,7 @@ airlinespen.xyz
 airlinespic.xyz
 airlinespick.xyz
 airlinespix.xyz
+airlinespl.live
 airlinesplan.xyz
 airlinesplit.xyz
 airlinesplug.xyz
@@ -74014,6 +74018,7 @@ allegro.038511.click
 allegro.04192281.me
 allegro.04192h847h45.rest
 allegro.045941.rest
+allegro.058ji56i56g35g3.skin
 allegro.0901209ghgh.beauty
 allegro.0908456495868888.click
 allegro.09530.click
@@ -74390,6 +74395,7 @@ allegrolokalnie.84586.vu
 allegrolokalnie.845993.click
 allegrolokalnie.858684345.shop
 allegrolokalnie.8588912591.click
+allegrolokalnie.882371.lol
 allegrolokalnie.8897587181.click
 allegrolokalnie.894129019041.click
 allegrolokalnie.9125125.click
@@ -74410,6 +74416,7 @@ allegrolokalnie.eu-ogloszenie-nr-30291203-kup.online
 allegrolokalnie.eu-ogloszenie-priv-039212-kup.online
 allegrolokalnie.eu-page-number-291233-super.shop
 allegrolokalnie.id37ns38rjd76d8ndbvds83.sbs
+allegrolokalnie.id7re9r483nfs743nfhds.sbs
 allegrolokalnie.ij0943ji9rjom32.shop
 allegrolokalnie.j5j409ji4n3io.shop
 allegrolokalnie.jvdfjao32kd.rest
@@ -81233,6 +81240,7 @@ anadolumuzesi.com
 anaemiacoloreastern.com
 anaesthetisoots.info
 anafig.shop
+anageinexs.store
 anagogyjiva.qpon
 anagraphdeltako.click
 anahataorganicbeauty.shop
@@ -116241,6 +116249,7 @@ awarnets.com
 awasete.com
 awasete.nakanohito.jp
 awaskjdnbh.shop
+awaskjhdb.shop
 awasqahandbags.com
 awasydoge.xyz
 awasymap.xyz
@@ -127894,6 +127903,7 @@ bayingtaxi.xyz
 bayitv.xyz
 bayiyingyuan.boats
 baykahin.com
+baykar-devlet-programi.net
 baykar-investment-program.com
 baykar-investmentopportunity.com
 baykar-platform.com
@@ -354055,6 +354065,7 @@ fisios0-aspernatur74.sbs
 fisios0-aut13.sbs
 fisios0-aut20.sbs
 fisios0-commodi39.sbs
+fisios0-corrupti74.sbs
 fisios0-debitis96.sbs
 fisios0-dolores28.sbs
 fisios0-dolores39.sbs
@@ -354121,12 +354132,10 @@ fisios1-praesentium49.sbs
 fisios1-quas50.sbs
 fisios1-qui43.sbs
 fisios1-quibusdam43.sbs
-fisios1-ratione76.sbs
 fisios1-sed7.sbs
 fisios1-sed82.sbs
 fisios1-sunt36.sbs
 fisios1-sunt9.sbs
-fisios1-ut2.sbs
 fisios1-vitae23.sbs
 fisios1-voluptatem8.sbs
 fisios1-voluptatibus29.sbs
@@ -354269,6 +354278,7 @@ fisios4-sequi15.sbs
 fisios4-sint63.sbs
 fisios4-soluta40.sbs
 fisios4-voluptatem72.sbs
+fisios5-amet89.sbs
 fisios5-animi19.sbs
 fisios5-architecto52.sbs
 fisios5-at38.sbs
@@ -354304,7 +354314,6 @@ fisios5-quidem50.sbs
 fisios5-recusandae39.sbs
 fisios5-repellat84.sbs
 fisios5-repellendus84.sbs
-fisios5-repudiandae57.sbs
 fisios5-sit20.sbs
 fisios5-sit3.sbs
 fisios5-soluta59.sbs
@@ -354314,7 +354323,6 @@ fisios5-ullam39.sbs
 fisios5-ut32.sbs
 fisios5-ut96.sbs
 fisios5-veniam16.sbs
-fisios5-voluptatibus37.sbs
 fisios5-voluptatibus62.sbs
 fisios6-a31.sbs
 fisios6-ab24.sbs
@@ -355363,6 +355371,7 @@ fjzghxfcvjgfkdytsukdfygukil-ydts7idtfyilguoyidtuk.teemill.com
 fjzhengfangsheng.com
 fjzht.com
 fjzimaoqu.cn
+fjzyjt.com
 fk-def.fit
 fk-def.net
 fk-e.ink
@@ -439916,6 +439925,7 @@ impartialpath.com
 impartialsubjecttruthfully.com
 impartner.lt
 impartsmilk.com
+impaspreme.store
 impassableoffend.com
 impassableretainerexplained.com
 impassabletroubledwistful.com
@@ -477608,6 +477618,7 @@ kubdirectstore.shop
 kubecloud.com
 kubectl-whatsapp.com
 kubectx.org
+kubek-tu.lovable.app
 kubelogin.com
 kubepublishinghq.shop
 kubepublishingpress.shop
@@ -510682,6 +510693,7 @@ lummiincolourhq.shop
 lummiincolourkids.shop
 lumnus.com.br
 lumnz.com
+lumofin-ai.com
 lumohukka.fi
 lumoirahq.shop
 lumomarket.xyz
@@ -510902,6 +510914,7 @@ lunavale.shop
 lunaverdixioai.live
 lunavest.org
 lunavexor.org
+lunavirana.top
 lunavital.shop
 lunavo.club
 lunavo.cyou
@@ -542676,6 +542689,7 @@ microplaynewmarketstore.shop
 microprepaid.xyz
 microption.com
 microrecus.store
+microripud.store
 micrororosoft365.com
 micros0ft.sbs
 microsaft-365.com
@@ -596472,6 +596486,7 @@ olx.552183.click
 olx.736268.click
 olx.com-bidpay.lol
 olx.conf1rm.shop
+olx.confirmation-order.sbs
 olx.flowcore-express.cfd
 olx.flowcore-express.click
 olx.hit.gemius.pl
@@ -596495,6 +596510,7 @@ olx.paczzka647539713.shop
 olx.paczzkaa635732.biz
 olx.paczzkaa735422.click
 olx.page91194.shop
+olx.paid-polska910.lol
 olx.paycore-gag.cyou
 olx.pl-25294.click
 olx.pl-firmowe47245.click
@@ -615927,6 +615943,7 @@ paragonsportshq.shop
 paragonsportshub.shop
 paragonsportsoutlet.shop
 paragonstore.shop
+paragonvirexon.net
 paragonvirexonplatform.com
 paragoods.shop
 paragooseofficial.fr
@@ -636457,6 +636474,7 @@ pl-ld8382929.click
 pl-legacybitfundex.com
 pl-lowagd.com
 pl-lv8pc.sbs
+pl-market0274689176.lol
 pl-medfiles.com
 pl-medfille.com
 pl-mgt.com
@@ -636464,6 +636482,7 @@ pl-mticket.com
 pl-nd2produkty758432251.lol
 pl-nd3produkty528432411.lol
 pl-nd4produkty529432421.lol
+pl-nd4produkty876856358.lol
 pl-nd5produkty829876654.lol
 pl-nd5produkty890785655.lol
 pl-nd7produkty532145235.lol
@@ -636532,6 +636551,7 @@ pl-oferta453212121.click
 pl-oferta4561167.click
 pl-oferta45sg4d54.sbs
 pl-oferta46879.lol
+pl-oferta47524.click
 pl-oferta47733889.click
 pl-oferta48204004.click
 pl-oferta4821721.click
@@ -636815,6 +636835,7 @@ pl01972.cam
 pl02.fun
 pl03.lol
 pl03.shop
+pl03.site
 pl1-ol.xyz
 pl2-ol.xyz
 pl2.revo.eu.cc
@@ -639642,6 +639663,7 @@ plebnux.shop
 pleconomicareport.com
 plectrum53.top
 pledablecetra.click
+pledaryn.com
 pledgedgpu.xyz
 pledgedmap.xyz
 pledgedtaxi.xyz
@@ -652865,6 +652887,7 @@ primetimehost.me
 primetoolingsupply.com
 primetough.shop
 primetrace.cfd
+primetrade-ai.net
 primetrade.digital
 primetradeai-engine.com
 primetradeai.net
@@ -665984,6 +666007,7 @@ qastaff-monitoring-purchase.xyz
 qastaff-test-changes.click
 qastel.shop
 qastimeapi.cyou
+qasypouway.lovable.app
 qaszj.com
 qatar-islamicbank.com
 qatar.givingtuesday.me
@@ -673037,6 +673061,7 @@ quincefr.fr
 quincehome.eu
 quinceledger.shop
 quincyreporter.com
+quindzerbi.store
 quinelacodeine.qpon
 quinfashion.shop
 quinialixarlo.click
@@ -807274,6 +807299,7 @@ teletoon.biz
 teletoondechaine.com
 teletournee.pro
 teletproxjx.club
+teletproxjx.icu
 teletproxjx.shop
 teletrade.eu
 teletrixinfotech.com
@@ -839992,6 +840018,7 @@ traitvision.xyz
 trajtimivaresise.center
 trak-gt-87.firepilates.info
 trak-nu-6y.fxfence.info
+trak-qv-uy-78.urbannmview.de
 trak.ly
 trak.today-trip.com
 trakfreesm.click
@@ -894660,6 +894687,7 @@ werwt.com
 werwzd1.com
 werxwer.pl
 weryf-10376.eu.cc
+weryf-7263a.surf
 weryf-82533.eu.cc
 weryfi-64153d.eu.cc
 weryfi-nr7293.eu.cc
@@ -905526,6 +905554,7 @@ wqhkolp.com
 wqhlaexymgkyu.site
 wqhnkde.com
 wqhuc2gq08020426mws.cfd
+wqipontear.lovable.app
 wqjisacylil.com
 wqjregsni.net
 wqkdwkn.com
@@ -934072,6 +934101,7 @@ zooanceagi.xyz
 zooappeal.xyz
 zooapply.xyz
 zooapprove.xyz
+zooart.mgi-es.com
 zooartco.shop
 zooartdo.shop
 zooartoutlet.shop
@@ -937802,6 +937832,7 @@ zyl0.com
 zylariq.com
 zylhz.cn
 zylkenixprimo.org
+zylkenixprimoai.com
 zylkenixprimoai.digital
 zylkex.pro
 zylofam.com
