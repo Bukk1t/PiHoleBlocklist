@@ -1,8 +1,8 @@
 # PiHoleBlocklist v1.0.0
 # Automatically generated
 # Sources: 3
-# Domains: 957,363
-# Updated: 2026-09-13 19:58:58 UTC
+# Domains: 957,411
+# Updated: 2026-09-13 22:43:00 UTC
 #
 # Do not edit manually.
 
@@ -21455,6 +21455,7 @@
 8565356.com
 8567118.com
 8567338.com
+8567345.lat
 8567558.com
 8567988.com
 8567998.com
@@ -30536,6 +30537,7 @@ acctz.com
 accubizkaia.com
 accucconse.rest
 accucgufer.click
+accucunamu.store
 accueil-banque-france.fr
 accueil-ededoc.weebly.com
 accueil-notairedebelgiquefednot.weebly.com
@@ -67276,6 +67278,7 @@ allegro.1209h845812.buzz
 allegro.12301028g.qpon
 allegro.12301029g8h5.beauty
 allegro.1230129h766.rest
+allegro.1231230h8h5.beer
 allegro.1231236kk.buzz
 allegro.1239120-h120.surf
 allegro.12398348g.qpon
@@ -67308,6 +67311,8 @@ allegro.2937473735433.click
 allegro.2992ghohgoho.cam
 allegro.299374322854.click
 allegro.3029g99g.pl
+allegro.309129128h7546.beer
+allegro.32120319hh57.mom
 allegro.3291924012asdhg.autos
 allegro.3298418244129h54.xyz
 allegro.3299g88g2909.pl
@@ -67470,11 +67475,13 @@ allegro.pl982342.xyz
 allegro.platnosc-blik.pl
 allegro.poru12u89.beauty
 allegro.pre8213745hj475.skin
+allegro.prftanwm238129.cfd
 allegro.prot34u7391.homes
 allegro.prowar8u237h45.cfd
 allegro.proy5283hh.help
 allegro.pry437823919.rest
 allegro.pry5nmm6798.buzz
+allegro.pry84327h45.help
 allegro.pryi40-23gf2.casa
 allegro.pryo4j34nm34889.skin
 allegro.prywan31278129.me
@@ -67506,6 +67513,7 @@ allegro.smart054894854821.shop
 allegro.smart823912.pics
 allegro.smart82911284.bond
 allegro.smart8342819gg.best
+allegro.smart8437329129.buzz
 allegro.smart8923800.pl
 allegro.smart91287129312.study
 allegro.smart939200.pl
@@ -67665,6 +67673,7 @@ allegrolokalnie.c71.biz
 allegrolokalnie.com-ogloszenie-18339662-dla-ciebie.click
 allegrolokalnie.conformation-1894.shop
 allegrolokalnie.directshop.sbs
+allegrolokalnie.dk-oferta832954.sbs
 allegrolokalnie.dk-produkt392584.sbs
 allegrolokalnie.eu-ogloszenie-nr-30291203-kup.online
 allegrolokalnie.eu-ogloszenie-priv-039212-kup.online
@@ -67707,6 +67716,7 @@ allegrolokalnie.lokalna-48203.sbs
 allegrolokalnie.lokalna-49572.sbs
 allegrolokalnie.lokalna-49843.cc
 allegrolokalnie.lokalna-63282.sbs
+allegrolokalnie.lokalna-83731.lol
 allegrolokalnie.lokalna-ofera190121.live
 allegrolokalnie.lokalna-ofera634002.shop
 allegrolokalnie.lokalna-ofera812712.sbs
@@ -75619,6 +75629,7 @@ ampittpromax.xyz
 ampkumisslot.xyz
 ampla-tesouros.pro
 amplalocal.xyz
+amplatesouros-shop.pages.dev
 amplatesours.com
 ample-eparature-app.com
 ample-eparature.me
@@ -127904,7 +127915,6 @@ bazarmaterial.com
 bazarstore.xyz
 bazarwaldorf.com
 bazarxeno.click
-bazasvo2026.vercel.app
 bazavento.shop
 bazdigital.sc.omtrdc.net
 bazdoufap.blogspot.com
@@ -180078,6 +180088,7 @@ bunnymodel.xyz
 bunnyonchain.xyz
 bunnyoracle.xyz
 bunot.info
+bunotomeani.me
 bunqsupport.fr
 bunselect.shop
 bunsenavoyer.qpon
@@ -289359,6 +289370,7 @@ deutsche-warentests.de
 deutsche-weinstrasse-pfalz.info
 deutsche-wurst-manufaktur.com
 deutsche.rentenversicherungportal.com
+deutschealgorex-digital.pages.dev
 deutschealgorextrade.de
 deutschebank.abbove.com
 deutschebankag.fr
@@ -328840,6 +328852,7 @@ emesshopboutique.shop
 emesshopdirect.shop
 emestyle.shop
 emet.info
+emetipalel.store
 emetrics.bose.com
 emetriq.de
 emettdisfl.rest
@@ -335260,6 +335273,7 @@ esotericpro.com
 esoterictools.com
 esoticoarchitects.com
 esotiq-pl.shop
+esotiq-sell.shop
 esotiq.outlestores.shop
 esotiqhenderson-outlet.shop
 esotoyedek.com
@@ -367884,6 +367898,7 @@ fondavind.digital
 fondavind.live
 fondavique-app.com
 fondavique-fr.live
+fondavique.org
 fondaviu-engine.com
 fondavust.digital
 fondavust.net
@@ -404133,6 +404148,7 @@ godacollection.shop
 godaddress.xyz
 godaddy-support.com
 godaddy-today.net
+godadomaina.eu.cc
 godadviser.xyz
 godagihub.xyz
 godahu.shop
@@ -419925,6 +419941,7 @@ gweryxalvon-nl.live
 gweryxalvon.digital
 gweryxalvon.live
 gweryxalvon.net
+gweryxalvonsoft-com.pages.dev
 gweryxalvonsoft.com
 gwew.top
 gwfhome.shop
@@ -446587,6 +446604,7 @@ id11963211556.click
 id127838541.click
 id1739273.click
 id197310.click
+id19e73jd7e9djo39e7db.sbs
 id1opugxop.data.adobedc.net
 id2023wa.com
 id232uf734hr923y236fs.sbs
@@ -453524,7 +453542,6 @@ infostreamsgrid.com
 infostroy.nnov.ru
 infosupports.com
 infosupportteamupdate.vip
-infosvo2026.vercel.app
 infosys-bridge.wixstudio.com
 infosys-gpt-software.com
 infosys.sc.omtrdc.net
@@ -460188,6 +460205,7 @@ isoauditflow.xyz
 isoaudithub.xyz
 isoauditkit.xyz
 isoauditlab.xyz
+isobaarchb.store
 isobaresoffit.com
 isobeldrug.com
 isobelle.shop
@@ -483835,6 +483853,7 @@ kobel.services
 kobemo.com
 kobholabswellness.shop
 kobicebit.shop
+kobietamoda.pl
 koblenz-mail.de
 koblenzofficial.shop
 koblevo.me
@@ -490858,6 +490877,7 @@ lamania.top
 lamaniaarch.pl
 lamaniahome-pl.top
 lamaniahome.shop
+lamanialifestyle.com
 lamaniasellpl.top
 lamaniastore.top
 lamanismbits.click
@@ -577320,6 +577340,7 @@ myorangemail.fr
 myorango.com
 myorbitirrigation.shop
 myorchidtoys.shop
+myorder82571.sbs
 myoreylo.shop
 myorganicbasics.shop
 myorganika.shop
@@ -581339,6 +581360,7 @@ nanocoreteststhep.ddns.net
 nanocuretech.xyz
 nanocustody.xyz
 nanodivulga.ufn.edu.br
+nanoelix.sbs
 nanoerinnerungsschmuckworld.shop
 nanoex.co
 nanofield.xyz
@@ -589938,6 +589960,7 @@ nezertonixpro.live
 nezertonixproengine.com
 nezertronix-pro.net
 nezertronixpro-app-ai.com
+nezertronixpro-tech-com.pages.dev
 nezertronixpro-tech.com
 nezertronixpro.live
 nezertronixprosoftware.com
@@ -603595,6 +603618,7 @@ oferta-422812.cfd
 oferta-4490-pl.shop
 oferta-45696442.click
 oferta-51768512.click
+oferta-584392143.live
 oferta-64746376.click
 oferta-7542351.cfd
 oferta-821147.cfd
@@ -606131,6 +606155,7 @@ ogloszenia-firmowe-83323.click
 ogloszenia-ukrainek.pl
 ogloszenie1008475901.cyou
 ogloszenie220569805.cyou
+ogloszenie24-89683926268.cfd
 ogloszenie304959781.cyou
 ogloszenie57483.pl
 ogloszenie598433543-pl.click
@@ -606409,6 +606434,7 @@ ohbtludnmaaqd.online
 ohbtuekvqpsha.online
 ohbxjiwpjzewd.online
 ohbyoasis.com
+ohc0f-v85-fk0f-b9fm8-07-09-2026-aa.pages.dev
 ohchat.net
 ohclementineofficial.shop
 ohclemstore.shop
@@ -608079,6 +608105,7 @@ olx.lokalna-ofeta713.sbs
 olx.lokalne-ofeta67325793.shop
 olx.my-paycore.shop
 olx.nqinvoice-poland.biz
+olx.oferta3262.pl
 olx.oferta5080146pl.click
 olx.oferta828331pl.click
 olx.ogloszenie1726384773-z-dostawa.shop
@@ -619582,6 +619609,7 @@ orvendralyxis-software.com
 orveniqa-cs.live
 orveniqa-it.live
 orveniqa.live
+orveniqa.pro
 orveniqa.shop
 orveniqaai.live
 orveniqaapp.click
@@ -627611,6 +627639,7 @@ parcelman.live
 parcelpointcenter.com
 parceltracking.pro
 parceltracking.shop
+parceprefa.store
 parceriaportuguesa.com
 parchdemen.rest
 parchedgarden.com
@@ -648083,6 +648112,7 @@ pl-nd7produkty532145235.lol
 pl-nd8produkty985455233.lol
 pl-nine-red.vercel.app
 pl-nowaaukcja8168361327.lol
+pl-np2oferta456578398.lol
 pl-ochnik.com
 pl-odbior-platnosci-7321.click
 pl-ofera7839244.lol
@@ -648162,6 +648192,7 @@ pl-oferta52197.lol
 pl-oferta5242419531.click
 pl-oferta52724.click
 pl-oferta5291202.shop
+pl-oferta53214.click
 pl-oferta53334-macbook-air-m2-8gb-256gb.shop
 pl-oferta548295.shop
 pl-oferta55123446.cfd
@@ -648171,6 +648202,7 @@ pl-oferta56757.click
 pl-oferta5732835.click
 pl-oferta5737974.click
 pl-oferta57423598.shop
+pl-oferta57844.click
 pl-oferta5811566.cfd
 pl-oferta5821989.shop
 pl-oferta6027980.click
@@ -648201,6 +648233,7 @@ pl-oferta7362946.click
 pl-oferta7363hf54fsn85xsh6.cfd
 pl-oferta736hdt6fe.click
 pl-oferta739167821.shop
+pl-oferta743081278.cfd
 pl-oferta74325.cfd
 pl-oferta7463271.click
 pl-oferta746392178.shop
@@ -648502,6 +648535,7 @@ pl941061.top
 pl94324.top
 pl946353738.shop
 pl98.xyz
+pl982.cyou
 pl99.top
 pla-logisticainc.s3.eu-central-1.amazonaws.com
 pla-logisticlma.s3.eu-central-1.amazonaws.com
@@ -654508,7 +654542,6 @@ policenationale-colmar.fr
 policenationale-france.fr
 policenationale.fr
 policeofficers.xyz
-policeonlaine2026.vercel.app
 policeonliine2026.vercel.app
 policeparis.fr
 policesjudiciaire.fr
@@ -669235,6 +669268,7 @@ promptmafiaai.xyz
 promptmafiadao.xyz
 promptmafiapay.xyz
 promptmainland.xyz
+promptmanerixcap-digital.pages.dev
 promptmanerixcap.digital
 promptmapapp.xyz
 promptmaphub.xyz
@@ -672093,6 +672127,7 @@ pryvanthiel.cfd
 pryvok.shop
 prywanm4328239.rest
 prywatnaoferta4.shop
+prywatne-97536.pl
 prywatne7239.shop
 prywatnem1982875h7.rest
 pryyeexcited.info
@@ -694893,6 +694928,7 @@ redapplefireworkshub.shop
 redapplefireworksshop.shop
 redappletravel.com
 redaracneco.shop
+redarcontr.store
 redarianman.com
 redarttravel.xyz
 redaru.handballmarathonhscgraz.at
@@ -729001,6 +729037,7 @@ scrible.click
 scribus.fr
 scribus.it
 scridefoliary.shop
+scrinqualu.store
 scripasok.com
 scrippptorium.info
 scrippsbathvert.112.2o7.net
@@ -780073,6 +780110,7 @@ spoliffund055-308596377384-us-east-1-an.s3.us-east-1.amazonaws.com
 spolify-support-premium.codeanyapp.com
 spoliscech.rest
 spolisoffo.cyou
+spollscart.store
 spolszczenia-gier.com.pl
 spolszczenia4you.net
 spolszczeniemax.com
@@ -781882,7 +781920,13 @@ srtuiyhuali.at
 srtycuiksdjldfyujew-easdyufyaifysduyjkqefhads.teemill.com
 srtydnnc.beer
 srupelghavo-app.com
+srupelghavo-france.com
+srupelghavo-italy.com
+srupelghavo-japan.com
+srupelghavo-netherlands.com
+srupelghavo-official.com
 srupelghavo-romania.com
+srupelghavo-uk.com
 srupelghavo.click
 srupelghavoai-app.com
 srupelghavotrade.com
@@ -800487,6 +800531,7 @@ styleaitips.xyz
 styleanceai.xyz
 styleanimal.com
 styleapply.xyz
+stylearchive.pl
 stylearena.store
 stylearts.in
 styleashshop.shop
@@ -805968,7 +806013,6 @@ svnnfxcgtzc.com
 svnservices.com
 svntrk.com
 svo-baza-poisk.pro
-svo-name-poisk.vercel.app
 svo-poiskrat.vercel.app
 svoboda.tv
 svobodnecesty.com
@@ -824786,6 +824830,7 @@ teleistymo.cyou
 teleistymo.help
 teleistymo.icu
 teleistymo.shop
+teleitepro.click
 teleiuaf.com
 telejindxo.icu
 telejobapp.xyz
@@ -825666,6 +825711,7 @@ telerobothub.xyz
 telerobotlabs.xyz
 telerobotsai.xyz
 telerobotslabs.xyz
+telerooinv.click
 teleroomai.xyz
 teleroomdao.xyz
 teleroomlabs.xyz
@@ -826077,6 +826123,7 @@ telezexohx.click
 telezexohx.club
 telezexohx.help
 telezexohx.icu
+telezstars.click
 telezstars.help
 telfar-france.fr
 telfer.ru
@@ -889454,6 +889501,7 @@ veri-om.cloud
 veri092ficard.webcindario.com
 veriatravelstudio.shop
 veriblockpool.com
+veribookly.com
 vericapcha-metahorizonfb.org
 vericaptcha-metahorizon.net
 vericaptcha-metahorizonit.org
@@ -892688,7 +892736,6 @@ video.videos.vidto.me
 video.vmdnsup.org
 video.wap.mpush.qq.com
 video231.oss-cn-beijing.aliyuncs.com
-video7566.vercel.app
 videoad.cz
 videoadblockers.com
 videoadblockertou.com
@@ -894297,6 +894344,7 @@ vinted-vends.weebly.com
 vinted-verif.lxwjys.com
 vinted-verification-systematique-du-paiement.fr
 vinted.01149.rest
+vinted.1532936.cc
 vinted.175904286.shop
 vinted.28491763.shop
 vinted.54666577644.help
@@ -943542,6 +943590,7 @@ yotwathanat.net
 you-and-me.pl
 you-ca.com
 you-health.net
+you-id-8271.shop
 you-ku.hl.cn
 you-learn.xyz
 you-live-box.com
@@ -957191,7 +957240,6 @@ zywakapovin-fr.fyi
 zywakapovin-pl.fyi
 zywaplatownia.com
 zywaplatowniapl.com
-zywnzrqf.prozhedownload.com
 zywoc.com
 zywol.com
 zywy-zyskorent.com
