@@ -1,8 +1,8 @@
 # PiHoleBlocklist v1.0.0
 # Automatically generated
 # Sources: 3
-# Domains: 957,349
-# Updated: 2026-09-13 17:47:01 UTC
+# Domains: 957,363
+# Updated: 2026-09-13 19:58:58 UTC
 #
 # Do not edit manually.
 
@@ -67886,7 +67886,6 @@ allegrolokalnie.pl-928265272event66241272.biz
 allegrolokalnie.pl-aukcja.me
 allegrolokalnie.pl-aukcja74285912.surf
 allegrolokalnie.pl-checkout72813.com
-allegrolokalnie.pl-dk76346.lol
 allegrolokalnie.pl-dk76436.lol
 allegrolokalnie.pl-firmowe-28491.click
 allegrolokalnie.pl-fs858y692.sbs
@@ -155107,6 +155106,7 @@ bogymenflux.click
 bohaigd.com
 bohame.shop
 bohappy.xyz
+bohats-fondi-pro.pages.dev
 bohats-fondi.pro
 bohawnhating.qpon
 bohcgusfdrmyt.site
@@ -201717,6 +201717,7 @@ cavetoport.xyz
 cavetownapparel.shop
 cavetownfashion.shop
 cavewrap.care
+caviacintu.store
 caviardelivery.shop
 caviaremporium.com
 caviarrusse.shop
@@ -201817,6 +201818,7 @@ cawinocasino.fr
 cawlx.com
 cawmzx.com
 cawnirimpi.rest
+cawnvauitt.lovable.app
 cawolinak.com
 caworldbulletin.com
 caworlddigest.com
@@ -245973,6 +245975,7 @@ cortinegyral.cfd
 cortinevexaweb.digital
 cortiszhibo.asia
 cortlane.shop
+cortnfirm.lovable.app
 corto.www.wp.pl
 cortonelyx.click
 cortrip.xyz
@@ -339987,6 +339990,7 @@ euuu.com
 euvalentinogaravani.de
 euvdyv.com
 euvendorshub.online
+euvic-connect-core.lovable.app
 euvicperformance-securesharedocument.securedocumentauthenticationrelay-sharedresourcesverification.workers.dev
 euvitafarm.com
 euvucipykb.com
@@ -346001,6 +346005,7 @@ ezebra.dealvella.top
 ezebra.mmmeediagalaxy-rocco.sbs
 ezebra.onlinao.com
 ezebra.outlcat.com
+ezebra.outleoa.com
 ezebra.sale
 ezebrabas.live
 ezebracas.com
@@ -446598,6 +446603,7 @@ id3677213569.click
 id3702579photo-image-docs.com
 id3993553.asia
 id3basketball.com
+id3f27jsd7x23872393.sbs
 id4348294.cfd
 id4392101-6922.weebly.com
 id4527391156.click
@@ -454666,7 +454672,6 @@ inpost-pl.org-vjh.shop
 inpost-pl.org-vmi.shop
 inpost-przesylki-pl.com
 inpost.boshishow.com
-inpost.confirmation-order-pl.sbs
 inpost.etykieta.click
 inpost.form27488.shop
 inpost.housems.world
@@ -490845,6 +490850,7 @@ lamaloca.info
 lamania-archive.com
 lamania-collections.pl
 lamania-sale.top
+lamania-save.com
 lamania-store.top
 lamania-topsale.shop
 lamania.shop
@@ -490888,6 +490894,7 @@ lamberthq.shop
 lambertlabel.shop
 lambertpulsery.digital
 lambertstore.shop
+lambeunlea.store
 lambgirliequiver.com
 lambingsyddir.com
 lambkini.com
@@ -559048,6 +559055,7 @@ mitly.shop
 mitmetmet.com
 mito-med.pl
 mito-pharma.pl
+mitogconje.store
 mitolane.shop
 mitolyn-us-en.us
 mitolyncart.com
@@ -608101,6 +608109,7 @@ olx.strpcore-pl.shop
 olx.yeoids.shop
 olx.yogingoqqwa.shop
 olx.zamowtu24.club
+olx.znznia.shop
 olx128.lat
 olx138.info
 olx138.lat
@@ -648054,6 +648063,7 @@ pl-legacybitfundex.com
 pl-lowagd.com
 pl-lv8pc.sbs
 pl-market0274689176.lol
+pl-mc3produkty456578398.lol
 pl-medfiles.com
 pl-medfille.com
 pl-mgt.com
@@ -651628,6 +651638,7 @@ ploferta235633.lat
 ploferta7483924.shop
 ploferta827472.lat
 ploferta844389.shop
+ploferta937034.xyz
 plog.vstlsrv.com
 plog.xbp.io
 ploiseofficial.shop
@@ -653279,6 +653290,7 @@ poczta-interia-auth.fwh.is
 poczta-interia-auth.gt.tc
 poczta-o2.netlify.app
 poczta-onet.netlify.app
+poczta-pl.mmidoa.shop
 poczta-polska.orrrder.shop
 poczta-polska.top
 poczta-pomoc.netlify.app
@@ -654800,6 +654812,7 @@ polonyauniversiteleri.com.tr
 polonyavizebasvuru.com
 polooaloiidoidauisusd.com
 poloplus.ro
+poloptranm.lovable.app
 poloptrex.com
 poloralphlauren-pascher.fr
 poloralphlaurenpascher.fr
@@ -780815,6 +780828,7 @@ spravka130.ru
 spravkavspb.net
 spravkavspb.work
 spravki-2ndflsspb.xyz
+sprawdz-id5523.eu.cc
 sprawdzam.is-best.net
 sprawdzamy-pracownika.online
 sprawdzianyonline.pl
