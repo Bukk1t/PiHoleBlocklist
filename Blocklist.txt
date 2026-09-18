@@ -1,8 +1,8 @@
 # PiHoleBlocklist v1.0.0
 # Automatically generated
 # Sources: 3
-# Domains: 1,115,132
-# Updated: 2026-09-18 20:18:41 UTC
+# Domains: 1,115,179
+# Updated: 2026-09-18 22:54:29 UTC
 #
 # Do not edit manually.
 
@@ -15036,6 +15036,7 @@
 4yuantouziguijinshuzhengguipingtai.asia
 4yug.top
 4z.st0rmleaf.ru
+4z3v9nk.cyou
 4z48fqo12n.com
 4z50jczq2.com
 4z5ja8.nt.nativetrees.co.uk
@@ -66767,7 +66768,6 @@ aldi.urbanmeremart.shop
 aldi.vavodavomart.shop
 aldi.velvetdenmart.shop
 aldi.volxoo.shop
-aldi.vsale.shop
 aldi.vynzor.shop
 aldi.willowbymart.shop
 aldi.worvexa.shop
@@ -66938,6 +66938,8 @@ aldieu.utkniferest.shop
 aldieu.utmasonjar.shop
 aldieu.utsidetable.shop
 aldieu.uveradeals.shop
+aldieu.vcpeppermintoil.shop
+aldieu.vcthymolcrystal.shop
 aldieu.velaniventure.shop
 aldieu.velindeals.shop
 aldieu.velomatrix.shop
@@ -67004,6 +67006,14 @@ aldinaldinbugunozeldir.com
 aldingareefretreat.com
 aldinord.sc.omtrdc.net
 aldinord.tt.omtrdc.net
+aldionline.brivgoods.shop
+aldionline.calengoods.shop
+aldionline.harigoods.shop
+aldionline.ivengoods.shop
+aldionline.monroesupply.shop
+aldionline.prestensupply.shop
+aldionline.vaughnsupply.shop
+aldionline.wegosrlysupply.shop
 aldionlinevip.com
 aldisaleo.com
 aldishop-eu.com
@@ -67029,6 +67039,7 @@ aldiuk-market.lionsgatecreek.com
 aldiuk-market.ltozzer.com
 aldiuk-market.meridiancrestco.com
 aldiuk-market.mirasoftapparel.com
+aldiuk-market.norvexin91.com
 aldiuk-market.orivelle19785.com
 aldiuk-market.riverstonearc.com
 aldiuk-market.skylinebooth1.com
@@ -67129,6 +67140,7 @@ aldius.xavnor.shop
 aldius.xylena.shop
 aldius.yarexo.shop
 aldius.yelqon.shop
+aldius.yomeri.shop
 aldius.yovrix.shop
 aldius.zamvix.shop
 aldius.zelmix.shop
@@ -70043,6 +70055,7 @@ allegrolokalnie.oferta204936294926484.shop
 allegrolokalnie.oferta2305925494037493058.click
 allegrolokalnie.oferta2313.pl
 allegrolokalnie.oferta232423.lat
+allegrolokalnie.oferta233823.cfd
 allegrolokalnie.oferta27198703.shop
 allegrolokalnie.oferta27387238283874237.sbs
 allegrolokalnie.oferta274cx399.shop
@@ -70076,6 +70089,7 @@ allegrolokalnie.oferta3947vs3.rest
 allegrolokalnie.oferta395.click
 allegrolokalnie.oferta395728492847.shop
 allegrolokalnie.oferta4135426562.lat
+allegrolokalnie.oferta414245552.lat
 allegrolokalnie.oferta414432532.lat
 allegrolokalnie.oferta414452652.lat
 allegrolokalnie.oferta421449082091.sbs
@@ -70301,6 +70315,7 @@ allegrolokalnie.pl-oferta5676664.shop
 allegrolokalnie.pl-oferta571867.click
 allegrolokalnie.pl-oferta5733315.shop
 allegrolokalnie.pl-oferta5829024.click
+allegrolokalnie.pl-oferta58296379.shop
 allegrolokalnie.pl-oferta593850.click
 allegrolokalnie.pl-oferta6010778.click
 allegrolokalnie.pl-oferta6073496.click
@@ -76626,6 +76641,7 @@ amazonexportfish.com
 amazonfox.com.br
 amazonfulfillmentservices.sc.omtrdc.net
 amazongamestudios.d2.sc.omtrdc.net
+amazongeneralconfigurationservercity.s3.us-east-1.amazonaws.com
 amazongiftcardgenerator.org
 amazonglobal.live
 amazonglobal1.com
@@ -108018,6 +108034,7 @@ asakoko.cekuj.net
 asaksis.com
 asakusubinitohas.com
 asalbet88.xyz
+asale.shop
 asalesguyonlinetraining.com
 asalogistics.net
 asalsalsocmee.net
@@ -156823,6 +156840,7 @@ biedro.shop
 biedrome.site
 biedromkao.shop
 biedronk.shop
+biedronka-deals.com
 biedronka-free.shop
 biedronka-karty.com
 biedronka-online.shop
@@ -192232,6 +192250,7 @@ btc-bridgerisv11.live
 btc-brivall464.live
 btc-brixal-v575.live
 btc-brixal.live
+btc-brixo365.club
 btc-brolisv10.shop
 btc-brolisv10pro.com
 btc-brondexv242.live
@@ -217606,6 +217625,8 @@ cartmirror.xyz
 cartmode.xyz
 cartmodule.xyz
 cartmonitor.xyz
+cartnests.com
+cartnestvip.com
 cartnexa.shop
 cartniffy.com
 cartnote.xyz
@@ -228588,7 +228609,6 @@ cgheqxwfnqmm.com
 cghg8trk.com
 cghhqca.cc
 cghiyslo.com
-cghsu729-iux293-s0n.inspiredcords.su
 cgi-9235824.live
 cgi-areaweb73.top
 cgi-smart.de
@@ -285339,6 +285359,7 @@ csirqafotiwwkk.com
 csirr.shop
 csirtennisclub.org.za
 csiru.shop
+csirw.shop
 csixty.com
 csj.edu.pe
 csj14.com
@@ -354099,6 +354120,7 @@ drogerienatura.dinsko.sbs
 drogerienatura.e-jumbo.sbs
 drogerienatura.makeuppl.shop
 drogerienatura.mmmeediagalaxy-rocco.sbs
+drogerienatura.onlines-sales.shop
 drogerienatura.shop
 drogerienatura.trendkq.com
 drogerienaturasale.shop
@@ -384816,6 +384838,7 @@ euodicivo.digital
 euodicoch.qpon
 euodicsyra.digital
 euolnld.shop
+euonald.shop
 euonfb.shop
 euoniil.shop
 euonili.shop
@@ -384832,6 +384855,7 @@ euonllii.shop
 euonllil.shop
 euonlsa.shop
 euonlsp.shop
+euonsdl.shop
 euortovox.shop
 euotwhsrizcnj.site
 eup-ravan.net
@@ -391808,6 +391832,7 @@ expositorgpu.xyz
 expositormap.xyz
 expositormcp.xyz
 exposkylinegroup.com
+exposmile.com
 expospace.xyz
 expostbitappengine.com
 exposturemap.xyz
@@ -403062,6 +403087,7 @@ favicon.net.cn
 favicri.pt
 favino-invest-platform.com
 faviorgoods.shop
+favipl.shop
 favismanomie.com
 favitek.com
 favmaqyqgcirx.space
@@ -492543,6 +492569,7 @@ hepapa.world
 heparbejesus.shop
 heparinrickshaapples.cyou
 hepaticburro.shop
+hepatoburrn.com
 hepatomaviro.click
 hepburnbrain.xyz
 hepburngpu.xyz
@@ -524150,6 +524177,7 @@ inspiredalarmslower.com
 inspiredamy.com
 inspiredassistance.com
 inspiredcataloguehometown.com
+inspiredcords.su
 inspiredfunell.mystagingwebsite.com
 inspiredgokitchen.shop
 inspiredgoonline.shop
@@ -525384,6 +525412,7 @@ integritymodel.com
 integrityscenarioswerve.com
 integritysportsagency.com
 integrityzephyr.xyz
+integropays.com
 integros.org.br
 integryssjc.d1.sc.omtrdc.net
 inteindwormer.com
@@ -569040,6 +569069,7 @@ ldkiugfydtusryduyfkdtsry-ursys46ysdtufkuo8ukfdyst.teemill.com
 ldkwtj.com
 ldkydssvzttcg.website
 ldlactive.shop
+ldleu.com
 ldlg.lanxiongjc.cn
 ldlhdlcholesterollevels.org
 ldllo.com
@@ -588185,6 +588215,7 @@ lokalna-ofera970220303.biz
 lokalna-oferta04265992.sbs
 lokalna-oferta3638482.cyou
 lokalna-oferta587645.shop
+lokalna-oferta87453254.sbs
 lokalna-oferta8881381239101.sbs
 lokalna-oferta89128888877812.sbs
 lokalna-ofeta27423.shop
@@ -669951,6 +669982,7 @@ natrivex-ai-it.com
 natrivex-engine-pro.pages.dev
 natrivex-engine.pro
 natrivex.click
+natrivex3-shop.pages.dev
 natrivex3.shop
 natrivexai-fr.fyi
 natrivexai-it.fyi
@@ -741242,6 +741274,7 @@ pl-oferta5291202.shop
 pl-oferta53214.click
 pl-oferta53334-macbook-air-m2-8gb-256gb.shop
 pl-oferta54343.cfd
+pl-oferta54376.shop
 pl-oferta54376543.shop
 pl-oferta548295.shop
 pl-oferta55123446.cfd
@@ -741271,6 +741304,7 @@ pl-oferta66136376.cfd
 pl-oferta67362.click
 pl-oferta674891287.sbs
 pl-oferta697412832.cfd
+pl-oferta6987142135.cfd
 pl-oferta7037863813.sbs
 pl-oferta71402419.shop
 pl-oferta7238439.click
@@ -741603,6 +741637,7 @@ pl89435oferta9032.cfd
 pl9104719256.shop
 pl923491.cfd
 pl92562.lol
+pl927382.cfd
 pl92755-oferta.click
 pl933686467oferta.shop
 pl941061.top
@@ -745190,6 +745225,7 @@ plninveveryday.com
 plnkapkan.com
 plnkvbrdjzdl.com
 plnovyraxis.com
+plnplna.cfd
 plnslotbenderang.xyz
 plnslotlancar.xyz
 plnslotzeus.xyz
@@ -773325,6 +773361,7 @@ przecenione.shop
 przedmiot-alufelgi7235234.pl
 przedmiot274652.click
 przedmiot3525443.pl
+przedmiot452342.pl
 przedmiot6452343.pl
 przedmiot7435234.pl
 przedmiotnr75142352.sbs
@@ -840170,6 +840207,7 @@ saltysurgery.pro
 saltywork.xyz
 salud-europa.com
 saludessalud.weebly.com
+saludhabit.es
 saludpublicadiplomados.com
 saludracional.com
 salugeaofficial.shop
@@ -852532,6 +852570,7 @@ sell-ukaldi.lumorae-ca.com
 sell-ukaldi.metoria1.com
 sell-ukaldi.nexropetllc.com
 sell-ukaldi.novapeaksport.com
+sell-ukaldi.peakluxellc.com
 sell-ukaldi.shopcaldenyx.com
 sell-ukaldi.stravionpeak.com
 sell-ukaldi.trevion87445.com
@@ -925494,6 +925533,7 @@ stoneborbit.info
 stonebp.com
 stonebridgealongriver.digital
 stonebridgedig.com
+stonebridgemarket.shop
 stonebridgere.ae
 stonebrookhome.eu
 stonebuddha.shop
@@ -983623,6 +983663,7 @@ thorn-capitalwick.click
 thorn-capitalwick.sbs
 thorn-fondwell.live
 thorn-fondwell.online
+thorn-kapsted.shop
 thorn-transport.com
 thornaboo.online
 thornauto.xyz
@@ -996095,6 +996136,7 @@ tp.content-score.com
 tp.gooddemands.com
 tp.hit.stat24.com
 tp.lairdsprefer.com
+tp.lxtppd.net
 tp.media
 tp.sgcn.com
 tp.suppercacheimages.top
@@ -998909,6 +998951,7 @@ trade.republicgestion.cc
 trade.republicgestion.com
 trade080227.shop
 trade1-9folex-platform.com
+trade30max-air.com
 trade30maxair.com
 trade350-app.com
 trade350app-fr.fyi
@@ -1004206,6 +1004249,7 @@ trinitygiftshopboutique.shop
 trinityhobbies.shop
 trinityhobby.shop
 trinityhome-llc.com
+trinityinternet.com
 trinityistesting.com
 trinityketoacvgummies.com
 trinitylabelstore.shop
@@ -1107720,6 +1107764,7 @@ zentricas.xyz
 zentristrade-ai.com
 zentrivare.com
 zentrixads.com
+zentrixaiengine.com
 zentrixsave.net
 zentrocasino.com
 zentrof.com
@@ -1110466,6 +1110511,7 @@ zijqohihvozks.space
 zijuqie.pro
 zikaosh.com
 zikeke7.com
+zikinoe.lovable.app
 zikpwr.com
 zikqbfbgczdnl.online
 zikroarg.com
@@ -1112018,6 +1112064,7 @@ zokustudio.shop
 zokys.shop
 zolara.de
 zolatamedia.com
+zolau72.eu.cc
 zoldszentgotthard.hu
 zolgren.shop
 zoli.toys
