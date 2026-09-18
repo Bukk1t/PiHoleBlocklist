@@ -1,8 +1,8 @@
 # PiHoleBlocklist v1.0.0
 # Automatically generated
 # Sources: 3
-# Domains: 1,113,526
-# Updated: 2026-09-17 23:14:27 UTC
+# Domains: 1,113,542
+# Updated: 2026-09-18 02:05:31 UTC
 #
 # Do not edit manually.
 
@@ -13289,6 +13289,7 @@
 3s-telemetry-service.vercel.app
 3s1inc.com
 3s7m2ss7g.com
+3scc.z9opcf.top
 3scworld.xyz
 3sd6w6oga9.com
 3se72e.close.futureisready.com
@@ -76563,6 +76564,8 @@ alvital.shop
 alvjewels.shop
 alvjewelsboutique.shop
 alvluxevaultgems.shop
+alvo-bitluxe-shop.pages.dev
+alvo-bitluxe.shop
 alvoplayapp.com
 alvorendheim.de
 alvorendheimgelder.digital
@@ -195811,6 +195814,7 @@ bs2site.cat
 bs2tsait1.cc
 bs2tsite4.lat
 bs33336.com
+bs3zn.z9opcf.top
 bs68.pro
 bs6lum61rjw5co-pages-dev.translate.goog
 bsa-copilot.com
@@ -349799,6 +349803,7 @@ disvepetto.store
 disveprefa.rest
 disverifier.xyz
 disvipalme.rest
+disvosmerd.store
 disvox.xyz
 disvtuber.xyz
 diswen.xyz
@@ -350697,6 +350702,7 @@ dk4w74mt6naf3.cloudfront.net
 dk57sacpbi4by.cloudfront.net
 dk6ee.info
 dk802.com
+dk92736.cyou
 dk999app.com.pk
 dk9ps7goqoeef.cloudfront.net
 dkadnv.technology
@@ -367773,6 +367779,7 @@ dynamictrevion.fr
 dynamicwire.xyz
 dynamicwork.xyz
 dynamicyard.xyz
+dynamika-invion.click
 dynamikainvion.club
 dynamikainviontrade.com
 dynamikorexis.net
@@ -386766,6 +386773,7 @@ equivkiby.com
 equivocalmashingreseller.com
 equix.ru
 equlum-app-ai-pro.com
+equlum-app.com
 equlumai.com
 equlumai.digital
 equlumappai-es.live
@@ -411923,6 +411931,7 @@ fawkesgame.xyz
 fawltorconsroc1976.blogspot.be
 fawltorconsroc1976.blogspot.com
 fawn-ankle-boots.shop
+fawn-sorrel-duster.shop
 fawnandfox.shop
 fawnauto.xyz
 fawncompute.xyz
@@ -413325,6 +413334,7 @@ fecmedine.cfd
 fecore.shop
 fecraft.shop
 fecs.xyz
+fecunperce.store
 fecwuejgllqs.com
 feczjcsxvlfmb.com
 fed-list.web.app
@@ -429042,6 +429052,7 @@ fond-might.com
 fond-rynowikta.com
 fond-rynowikta.org
 fondantriva.click
+fondasopre.store
 fondation-armand-vannaz.ch
 fondationdomussante.com
 fondationinternationaletrokapercfa.org
@@ -918363,6 +918374,7 @@ stalamajetkon.com
 stalarentovanto-cz.com
 stalco-pl.shop
 stalco2026tool.shop
+stalcocpl.shop
 stalcodpl.shop
 stalcomall.club
 stalcomens.club
@@ -968863,6 +968875,7 @@ tetplqxnra.click
 tetplxmvra.help
 tetpyag.shop
 tetqudyeycomy.site
+tetqyayv.club
 tetqzvnxla.click
 tetqzvnxla.shop
 tetrachoice.com
@@ -1091324,6 +1091337,7 @@ xocdiavip.xyz
 xochisgiftshopstore.shop
 xochuanime.site
 xocu.xyz
+xodkoc.com
 xodrev.real4love.com
 xodus-web3.wixstudio.com
 xoeekttjkifhz.online
@@ -1103117,6 +1103131,7 @@ z54e30nps12yacho-vvemauifdcclp7azcabhfg.vercel.app
 z568zimbra.weebly.com
 z5cw.oferta12x.lat
 z5g022gc.xyz
+z5k9w3q.lol
 z5m2.com
 z5mw4v9g1a.com
 z5o9q2.hbg.hebdenbridgedental.co.uk
@@ -1113108,6 +1113123,7 @@ zyjvyfaihssods.com
 zyjw.zmzwloelrarow.top
 zyk.bratok.com
 zykanor-drift.org
+zykanordrift-click.pages.dev
 zykanordrift.click
 zykanordrift.com
 zykanordrift.live
