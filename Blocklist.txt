@@ -1,8 +1,8 @@
 # PiHoleBlocklist v1.0.0
 # Automatically generated
 # Sources: 3
-# Domains: 1,150,325
-# Updated: 2026-09-19 19:44:50 UTC
+# Domains: 1,150,384
+# Updated: 2026-09-19 22:33:47 UTC
 #
 # Do not edit manually.
 
@@ -14374,6 +14374,7 @@
 487213.lol
 4878342aee21.top
 4879283.s3.us-east-2.amazonaws.com
+487990152.click
 487c3a30c6.com
 488253-ledger.com
 488931ab8d57cb7b.com
@@ -20868,7 +20869,6 @@
 874547.men
 874553.click
 874828-binance.com
-874e7a9a.vcsservice.eu
 87516.cfd
 87532-wealthsimple.com
 87534657.cfd
@@ -22799,13 +22799,13 @@
 974hk.com
 9754075.lat
 9754364.top
+97543675.top
 975b1fbf.1266b8dd0c622df28d9af103.workers.dev
 975jgp.4.fourcrossesinn.com
 97637v.com
 9769z.xyz
 97702f97c11c.com
 977053.com
-9771fb98.vcsservice.eu
 97722-google.com
 9779.info
 977gd0.cn
@@ -23237,7 +23237,6 @@
 9a4v0clpi.com
 9a57160d5c.com
 9a5785.vip
-9a882c1a.vcsservice.eu
 9a8f641701.com
 9a971299eb.com
 9ab8ff816c.com
@@ -45254,6 +45253,7 @@ aerodynamicapex.xyz
 aerodynamicforge.xyz
 aeroeshop.shop
 aerofashion.shop
+aeroffmechanic.info
 aeroflexfit.shop
 aerofluxhq.shop
 aerogear.info
@@ -69676,6 +69676,7 @@ allegro.12012094759.autos
 allegro.1201209h85.pics
 allegro.12012309h485.beer
 allegro.1209h845812.buzz
+allegro.12300120h9j8ji.buzz
 allegro.12301028g.qpon
 allegro.12301029g8h5.beauty
 allegro.12301209.click
@@ -69696,6 +69697,7 @@ allegro.1290hh905982.rest
 allegro.1291801-21s.biz
 allegro.1298j675h75g34.buzz
 allegro.130120h945h54.bond
+allegro.131200h88.buzz
 allegro.1322.click
 allegro.16235.click
 allegro.173613.click
@@ -69938,6 +69940,7 @@ allegro.smart939200.pl
 allegro.smart9438213912.mom
 allegro.smart9438312023.shop
 allegro.smra9439020.lol
+allegro.tewo23923.buzz
 allegro.zakupy5832752.click
 allegro03.vip
 allegro05.vip
@@ -70636,6 +70639,7 @@ allegrolokalnie.rezerwacja54278.cfd
 allegrolokalnie.rezerwacja544125.click
 allegrolokalnie.rezerwacja5962.click
 allegrolokalnie.rezerwacja617485.click
+allegrolokalnie.rezerwacja81258.click
 allegrolokalnie.rezerwacja8529.click
 allegrolokalnie.rezerwacja8669.click
 allegrolokalnie.rozne-19438485.rest
@@ -161850,6 +161854,7 @@ bitcoinmention.xyz
 bitcoinmerely.xyz
 bitcoinmeters.xyz
 bitcoinmethod.org
+bitcoinmillionaire-click.pages.dev
 bitcoinmillionaire-nl.live
 bitcoinmillionaire-system.com
 bitcoinmillionaire.click
@@ -177196,6 +177201,7 @@ botticellifoodspantry.shop
 botticellifoodsstore.shop
 bottierpeseta.cfd
 bottierrangleneavil.cfd
+bottiglieria-1881.org
 bottimonos.rest
 bottingworld.net
 bottle-bottle.fr
@@ -196056,6 +196062,7 @@ btcvalistone-nl.live
 btcvalistone.click
 btcvalistone.com
 btcvalistone.live
+btcvalistone39-click.pages.dev
 btcvalistone39-it.com
 btcvalistone39.click
 btcvalistone39.net
@@ -242105,6 +242112,7 @@ cimagrove.shop
 cimaisesetplushq.shop
 cimaisesetplusonline.shop
 cimaisestyle.shop
+cimaonrendaviol-click.pages.dev
 cimaonrendaviol.click
 cimaonrendaviol.com
 cimaonrendaviol.live
@@ -443445,6 +443453,7 @@ futurovortex.com
 futuroxai.live
 futurystyk.pl
 futurz4x4.shop
+fututurbform.site
 fuumuuihq.shop
 fuuxeig.com
 fuvaibdmzvzayc.com
@@ -472573,6 +472582,7 @@ gpttrader.fr
 gpttrader.org
 gpttradersoftware.com
 gpttrading.org
+gptv61-click.pages.dev
 gptv61.click
 gptv61app-it.live
 gptv61app.click
@@ -483380,6 +483390,7 @@ gremtosh.pro
 grenadelove.blogspot.com
 grenadeuk.shop
 grendelammo.com
+grendovara.com
 grenibox.com
 grenke.live
 grenlab.shop
@@ -492027,6 +492038,7 @@ halallbridge.xyz
 halallseed.xyz
 halallsol.xyz
 halallvault.xyz
+halaltrade-ai-com.pages.dev
 halaltrade-ai.com
 halaltradeai-app.com
 halaltradeai.com
@@ -509932,6 +509944,7 @@ homlapromocja.club
 homlapromocja.com
 homlapromocje.com
 homlapromocjes.com
+homlasale-pl.com
 homlasale-pl.shop
 homlasale-pl.top
 homlasalle.shop
@@ -536243,6 +536256,7 @@ inteliledgers.com
 intelinfla.rest
 intelkeflex400trade.com
 intellariotradepro-ai.com
+intellariotradeproapp-pro.pages.dev
 intellariotradeproapp.pro
 intellariotradeproapptech.com
 intellasixnx-pt.com
@@ -562861,6 +562875,7 @@ kgshq.shop
 kgslcxtpctxru.online
 kgspellets.com
 kgssolar.com
+kgstinvest-pro.pages.dev
 kgstinvest.com
 kgstinvest.live
 kgstinvest.pro
@@ -586512,6 +586527,7 @@ liberalzeus.xyz
 liberalzoo.xyz
 liberandcofood.shop
 liberarpontosco.digital
+liberascudorio-software-sbs.pages.dev
 liberascudorio-software.com
 liberascudorio.pro
 liberateauto.xyz
@@ -595076,6 +595092,7 @@ lnabew.com
 lnaclothinghq.shop
 lnaclothinglabel.shop
 lnaclothingshop.shop
+lnactivite.eu.cc
 lnails.com
 lnbalvl.com
 lnbhad.wtf
@@ -725614,6 +725631,7 @@ ordermila.shop
 ordermlsuae.shop
 ordermomentophotobooks.shop
 ordermoutaiamerica.shop
+ordermovo.com
 ordermrpuffs.shop
 ordernative.xyz
 ordernemrod.shop
@@ -725785,6 +725803,7 @@ orderwristband.shop
 orderwriter.xyz
 orderxqo.net
 orderzena.digital
+orderzivo.com
 orderzoning.xyz
 ordetw8.icu
 ordexiacharts.de
@@ -728387,6 +728406,7 @@ oupvfjtyxfxky.site
 ouqk5pur.dvfb-vn.com
 ouqlqo1r2oueeip.cfd
 ouqnsrtmguuyd.site
+ouqqtboasting.info
 ouqrkvstahrddc.com
 ouqwcglwmxymw.site
 ouqyid.com
@@ -744407,6 +744427,7 @@ peakledgersolutions.com
 peaklightning.xyz
 peakliquidity.xyz
 peakluxentria.com
+peakluxentriasolution.com
 peakmalephysiqueshop.shop
 peakmalephysiquestore.shop
 peakmalephysiquewellness.shop
@@ -745328,6 +745349,7 @@ pelarsterc.rest
 pelcro.com
 pelcruvilance.digital
 pelcruvilance.live
+peldoriava.info
 peldrum.shop
 peldum.shop
 peleanredress.cyou
@@ -745678,6 +745700,7 @@ penetrator.xyz
 penevm.xyz
 penexploit.xyz
 penfaucet.xyz
+penfield-17.pages.dev
 penfieldcollection.shop
 penfieldofficial.shop
 penfieldstore.shop
@@ -754725,7 +754748,18 @@ pilka-pl.click
 pilka-pl.com
 pilkal.com
 pilkanozna.yolasite.com
+pilkarnovet-austria.com
+pilkarnovet-canada.com
+pilkarnovet-denmark.com
+pilkarnovet-france.com
 pilkarnovet-germany.com
+pilkarnovet-ireland.com
+pilkarnovet-italy.com
+pilkarnovet-netherlands.com
+pilkarnovet-norway.com
+pilkarnovet-poland.com
+pilkarnovet-romania.com
+pilkarnovet-singapore.com
 pilkarnovet-spain.com
 pilkarnovet.sbs
 pilkarnovettrade.com
@@ -759259,6 +759293,7 @@ pl-rv.com
 pl-rylko.shop
 pl-sec-519204.eu.cc
 pl-sklep2oferta76959134.shop
+pl-sklep2oferta837894091.shop
 pl-sklep2oferty786958494.shop
 pl-sklep3oferty945968898.shop
 pl-smart891981898122712919201.sbs
@@ -759427,6 +759462,7 @@ pl76832.top
 pl78.shop
 pl7820.lol
 pl7ncaj0b.com
+pl82629.cyou
 pl8473.lol
 pl8543479oferta.shop
 pl86436755.shop
@@ -767056,6 +767092,7 @@ polska-top24.pl
 polska.finance-investapp.com
 polska.services
 polskabeztrzeciegookaodrazu.info
+polskabielizna.top
 polskabitflow.vip
 polskabitpoint.vip
 polskabitradex-pl.com
@@ -797749,6 +797786,7 @@ pulsewindow.xyz
 pulsewithlith.com
 pulseworker.xyz
 pulsex.live
+pulsex.questelle.info
 pulsezynbn.net
 pulsieonik.com
 pulsingoods.shop
@@ -880931,6 +880969,7 @@ sensorgain.xyz
 sensorgaugepro.com
 sensorhyper.xyz
 sensorlasixneo-nl.live
+sensorlasixneo-shop.pages.dev
 sensorlasixneo.live
 sensorlasixneo.shop
 sensorlasixneotrade.com
@@ -914077,6 +914116,7 @@ slurrpfarmfoods.shop
 slurrpfarmonline.shop
 slurvenix-ai-it.com
 slurvenix-nl.com
+slurvenix-shop.pages.dev
 slurvenix.shop
 slurvenixbeoordeling.live
 slurvenixki.live
@@ -978994,6 +979034,7 @@ tarandka.com
 taranehmousavi.com
 tarangg.shop
 taranko-archive.pl
+taranko-save.top
 taranko.top
 tarankosell.shop
 tarantula.searchbox.tech
@@ -994495,6 +994536,7 @@ telefunkeclimatology-jprakutansui-copoint.com
 telefunotoi.click
 telefunotoi.help
 telefunotoi.icu
+telefunotoi.shop
 teleg.eu
 telega.info
 telega.me
@@ -994824,6 +994866,7 @@ teleitxxsw.cyou
 teleitxxsw.help
 teleitxxsw.icu
 teleitxxsw.shop
+teleitypro.click
 teleitypro.shop
 teleiuaf.com
 telejindxo.click
@@ -996320,6 +996363,7 @@ telexsjump.cyou
 telexsjump.help
 telexsjump.icu
 telexsjump.shop
+telexslear.help
 telexsmxto.cyou
 telexsmxto.help
 telexsmxto.icu
@@ -999977,6 +1000021,8 @@ texejzxlrs.help
 texejzxqra.shop
 texekeypro.click
 texekeysto.club
+texekeysto.work
+texekeysto.xyz
 texekplxra.club
 texekplzxn.click
 texekplzxn.club
@@ -1000041,9 +1000087,11 @@ texemxqvrp.shop
 texemxqzlr.club
 texemxqzlr.love
 texemxqzlr.shop
+texemxxoxs.ink
 texemxxoxs.wiki
 texemxxoxs.work
 texenexixs.click
+texenexixs.ink
 texenextpr.club
 texenextpr.help
 texenextpr.shop
@@ -1000096,6 +1000144,7 @@ texeqmxnna.help
 texeqnlxrh.click
 texeqnlxrh.help
 texeqnlxrh.shop
+texequantu.ink
 texequicks.help
 texequicks.shop
 texeqvmxla.shop
@@ -1000375,6 +1000424,7 @@ teyesuk.shop
 teyhonfagh.nekoweb.org
 teymzzzb.shop
 teyoplserdinme.weebly.com
+teyptnmc.help
 teyrdatacyrve.site
 teyrhubgon.site
 teyrlablayer.site
@@ -1021169,6 +1021219,7 @@ tk-mall68.com
 tk-mall68.cyou
 tk-plkfdpl.com
 tk-plkfdpla.shop
+tk-plsfdpl.top
 tk-whatsapp.com
 tk.504pk.com
 tk.abt.com
@@ -1021442,7 +1021493,10 @@ tl813.com
 tl9q49ffi.com
 tla.traderlink.com
 tlacoveran-austria.com
+tlacoveran-denmark.com
+tlacoveran-france.com
 tlacoveran-ireland.com
+tlacoveran-italy.com
 tlacoveran-netherlands.com
 tlacoveran-romania.com
 tlads.midtc.com
@@ -1066101,6 +1066155,7 @@ valdoorder.shop
 valdorenax24.com
 valdrena-sorvelio-ai.com
 valdreno.online
+valdricora.pro
 valduo.com
 vale.wildr0sehub.ru
 vale2.regenwald.ru
@@ -1066457,6 +1066512,7 @@ validrwafund.xyz
 validsake.xyz
 validscaner.xyz
 validscanner.xyz
+validsec-hotels.com
 validsem.xyz
 validsettle.xyz
 validski.xyz
@@ -1070018,7 +1070074,9 @@ vcsinfo.com
 vcslive.net
 vcslotoplay.com
 vcsphxpnlxnrm.online
+vcsservice.eu
 vcstrading.com
+vcstrading.eu
 vcstrucks.be
 vcsxmwpxo.com
 vctel.com
@@ -1139553,6 +1139611,7 @@ yusphere.shop
 yusufbhaiofficial.shop
 yusufbhaistore.shop
 yusufduzgunelektronik.com
+yuta-finoliccipro.com
 yutaiming.com
 yutakafoods.shop
 yutbpejoljhdpc.com
