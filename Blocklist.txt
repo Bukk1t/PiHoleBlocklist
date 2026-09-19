@@ -1,8 +1,8 @@
 # PiHoleBlocklist v1.0.0
 # Automatically generated
 # Sources: 3
-# Domains: 1,115,179
-# Updated: 2026-09-18 22:54:29 UTC
+# Domains: 1,115,191
+# Updated: 2026-09-19 02:09:37 UTC
 #
 # Do not edit manually.
 
@@ -70450,6 +70450,7 @@ allegrolokalnie.pl78043.pro
 allegrolokalnie.pl78646.top
 allegrolokalnie.pl89075421.eu.cc
 allegrolokalnie.pl9104719256.shop
+allegrolokalnie.pl92921.top
 allegrolokalnie.pl94323.top
 allegrolokalnie.pl98.online
 allegrolokalnie.pl98218.top
@@ -164751,6 +164752,7 @@ blazeautomate.xyz
 blazebet-casino.fr
 blazebetcasino.fr
 blazebitcoinfi.xyz
+blazeblend-hub-com.pages.dev
 blazeblend-hub.com
 blazeblockchain.xyz
 blazebolt-cascade.com
@@ -207060,6 +207062,7 @@ c1.adform.net
 c1.bhcont.com
 c1.chajiaotong.com
 c1.czcol.cn
+c1.dstatbots.win
 c1.e2efj8p53xt7i4b9keemfotzu8.cyou
 c1.hinta.fi
 c1.ifengimg.com
@@ -210063,6 +210066,7 @@ calphalonstore.shop
 calpra.com.co
 calpsalminenunting.qpon
 calpvanta.click
+calqiro.com
 calqudolci.rest
 calregistry.com
 calrlpvdqocgb.website
@@ -274184,6 +274188,7 @@ corvus-intelligence-ai.com
 corvus-intelligence.me
 corvusbowknot.com
 corvuscorax.xyz
+corvusintelligence-digital.pages.dev
 corvusintelligence.digital
 corvusintelligence.net
 corvusintelligenceai.digital
@@ -444826,6 +444831,7 @@ genova.com.vn
 genova.ee
 genova7.it
 genovavaluten.net
+genovaw.com
 genovawalutentrade.com
 genoverde.com
 genoverseai.xyz
@@ -464356,6 +464362,7 @@ gpttrade.digital
 gpttradeglobal.net
 gpttradenex.click
 gpttradenex.live
+gpttrader.fr
 gpttrader.org
 gpttradersoftware.com
 gpttrading.org
@@ -518096,6 +518103,7 @@ impiwear.shop
 implacablejuicedraft.com
 implamarkt.com
 implantatpreise.de
+implantdentistrytx.com
 implantecenter.com.br
 implantexpertsindia.com
 implantlongesttrey.com
@@ -525412,7 +525420,6 @@ integritymodel.com
 integrityscenarioswerve.com
 integritysportsagency.com
 integrityzephyr.xyz
-integropays.com
 integros.org.br
 integryssjc.d1.sc.omtrdc.net
 inteindwormer.com
@@ -559476,6 +559483,7 @@ kryptomixer.io
 krypton-client.net
 krypton62.coupon9cabin.coupons
 kryptonclient-cracked.com
+kryptonclient-donutsmp.com
 kryptonclient.lol
 kryptonclient.vip
 kryptonclientcrack.lovable.app
@@ -605420,6 +605428,7 @@ managingtaxi.xyz
 managingtrip.xyz
 managingwork.xyz
 managr-methd.xyz
+managwebajkas8gy328isdg.dfgj35tygsdgdfhjsd.com
 managwebappasn902yhoisdg3sdg.briskibusiness.com
 manahegazeda.org
 manalane.shop
@@ -741314,6 +741323,7 @@ pl-oferta7358973.click
 pl-oferta7363hf54fsn85xsh6.cfd
 pl-oferta736hdt6fe.click
 pl-oferta7401273982.cfd
+pl-oferta7409873643.shop
 pl-oferta743081278.cfd
 pl-oferta74325.cfd
 pl-oferta7463271.click
@@ -795176,6 +795186,7 @@ qvantaro.online
 qvantaroai.digital
 qvantaroai.live
 qvantiumai-app.com
+qvantiumai-pro.pages.dev
 qvantiumai.net
 qvantiumai.pro
 qvasar.com
@@ -796897,6 +796908,7 @@ radisson-hotel-jobs.space
 radissonbet671.com
 radissonbetgir.xyz
 radissonhotels.com.ssl.sc.omtrdc.net
+radium-client.org
 radiumone.com
 radiumpcscentral.shop
 radiumpcsstore.shop
