@@ -1,8 +1,8 @@
 # PiHoleBlocklist v1.0.0
 # Automatically generated
 # Sources: 3
-# Domains: 1,130,971
-# Updated: 2026-09-20 22:47:19 UTC
+# Domains: 1,130,992
+# Updated: 2026-09-21 02:15:47 UTC
 #
 # Do not edit manually.
 
@@ -19784,6 +19784,7 @@
 8540eb51663cf71f.com
 85413.xyz
 854145.com
+85466576.top
 854924.lol
 8553z.com
 855454510415454.hyperphp.com
@@ -218723,6 +218724,7 @@ census.zorinos.com
 censusabattoir.com
 censuschorus.com
 censuscompassembryo.com
+censusfin.com
 censusmarrydespair.com
 cent-ia.aimatch.com
 cent.dotz13.nl
@@ -358127,6 +358129,7 @@ dynamicsrobo.xyz
 dynamicstake.xyz
 dynamicstaxi.xyz
 dynamicstock.xyz
+dynamicstore.sbs
 dynamicstrip.xyz
 dynamicswork.xyz
 dynamicsyndicate.com
@@ -411648,6 +411651,7 @@ fisconline.casa
 fiscor.org
 fiscord.com
 fisctensor.click
+fiscusfin.com
 fisddlapfuife.website
 fisecharely.qpon
 fisedo.com
@@ -432137,6 +432141,7 @@ futurix-edge-ai.live
 futurixbitport.live
 futurixcapitalum.com
 futurixedge.net
+futurixedgeai-click.pages.dev
 futurixedgeai.click
 futurixedgeai.live
 futurmarket.com
@@ -434056,6 +434061,7 @@ gaintheedge.shop
 gaintheedgegear.shop
 gainthorix.net
 gaintide.com
+gaintrixnexute-shop.pages.dev
 gaintrixnexute.shop
 gaintrixuraa.live
 gaintruck.com
@@ -513080,6 +513086,7 @@ icchallenger.com
 iccihomoulkrg.online
 iccku.com
 icclnn.com
+iccmpactions.info
 iccnvulnerablyyellowtail.info
 iccssb.com
 iccu-2fa.firebaseapp.com
@@ -613825,6 +613832,7 @@ mantoidvenom.cyou
 mantolpunyaselera.blogspot.com
 mantonforklifts.co.uk
 mantoniitaliaoutlet.shop
+mantoonlineboxingstore.com
 mantostudio.shop
 mantra-7-teach.net
 mantra-7.net
@@ -727905,6 +727913,7 @@ parvaris-cashmeteor.click
 parvaris-luckycrest.click
 parvatanchal.com
 parvati.net.in
+parvelaselect.shop
 parveloniaz.com
 parvengainport.com
 parvengainportza.com
@@ -749834,6 +749843,7 @@ pl-oriders.shop
 pl-p45cr.sbs
 pl-perfume.shop
 pl-pg2i1.sbs
+pl-platnosci708947213.lol
 pl-poctzasd.weebly.com
 pl-potw-184920.eu.cc
 pl-potw-592018.eu.cc
@@ -749985,6 +749995,7 @@ pl24.world
 pl26490.lol
 pl27zx30bf.cfd
 pl292829.cyou
+pl2bz6vc7u.cyou
 pl3-ol.xyz
 pl3.revo.eu.cc
 pl3.rove06.com
@@ -750021,6 +750032,7 @@ pl71427.top
 pl725383-oferta.shop
 pl73146.top
 pl7363839.shop
+pl74495.cyou
 pl76423.top
 pl76453.top
 pl76832.top
@@ -792956,6 +792968,8 @@ quaedamchaeta.cfd
 quaentchen-glueck.de
 quaerat-excepturi-sit.top
 quaestiounit.click
+quaestusfin.com
+quaestustrade.com
 quaeventlienminh.weebly.com
 quaflow.shop
 quagdcisczfvh.space
@@ -844179,6 +844193,7 @@ robusta.online
 robustbat.space
 robustcatalyst.xyz
 robustenj.top
+robustfund.sbs
 robustgorilla.com.k11betindia.com
 robustgpu.xyz
 robustledger.com
@@ -861693,6 +861708,7 @@ scarinesssnuggbbers.info
 scaringobey.com
 scarlet-clicks.info
 scarlet-tassel-bag.shop
+scarletchannel.sbs
 scarletclothing.shop
 scarletclothingboutique.shop
 scarletclothinghq.shop
@@ -936865,6 +936881,7 @@ steadydoge.xyz
 steadydubai.xyz
 steadyeden.xyz
 steadyexferaisolution.com
+steadyfilter.info
 steadyflowless.pro
 steadyhandscollection.shop
 steadyhandsofficial.shop
@@ -981333,6 +981350,7 @@ telesexswap.xyz
 telesexxs.love
 telesgloba.click
 telesgloba.club
+telesgloba.help
 telesgoldr.cyou
 telesgoldr.icu
 teleshopapp.xyz
@@ -985375,6 +985393,7 @@ texeiterxx.click
 texeiterxx.help
 texeiterxx.shop
 texeiterxx.work
+texeixxexo.work
 texeizoneo.click
 texeizoneo.help
 texeizoneo.shop
@@ -985420,6 +985439,7 @@ texeleproo.shop
 texelexogi.click
 texelexogi.wiki
 texelibert.click
+texelibert.wiki
 texelinkup.club
 texelinkup.help
 texelinkup.shop
@@ -985669,6 +985689,7 @@ texeyxpmqz.help
 texeyxpmqz.love
 texeyxpmqz.shop
 texeyxxoft.click
+texeyxxoft.wiki
 texeyznvla.click
 texeyznvla.club
 texeyznvla.love
