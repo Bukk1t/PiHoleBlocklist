@@ -1,8 +1,8 @@
 # PiHoleBlocklist v1.0.0
 # Automatically generated
 # Sources: 3
-# Domains: 1,128,289
-# Updated: 2026-09-21 21:22:27 UTC
+# Domains: 1,128,338
+# Updated: 2026-09-22 02:20:27 UTC
 #
 # Do not edit manually.
 
@@ -21699,6 +21699,7 @@
 963fc.com
 9642315.lat
 9645325.lat
+9647632.lat
 9653452.top
 9654326.cyou
 9654365.lat
@@ -21875,6 +21876,7 @@
 9863p.com
 98656188.lol
 9867.org
+98674235.top
 987226234989575-dot-eighth-bivouac-269419.appspot.com
 987234hg23.surf
 987258.com
@@ -64400,6 +64402,7 @@ allegro-reinigung.de
 allegro-task.shop
 allegro-ups.e-kei.pl
 allegro.00099uuu.cam
+allegro.000g77893.skin
 allegro.00123192s.casa
 allegro.00239g8g8g8.pl
 allegro.010904.click
@@ -64429,6 +64432,7 @@ allegro.0901209ghgh.beauty
 allegro.0908456495868888.click
 allegro.09530.click
 allegro.100020bb4.autos
+allegro.1000h88hh5kknmbv.skin
 allegro.10230129y4hhh.study
 allegro.102391hj655.buzz
 allegro.1026u5h5343.casa
@@ -64443,6 +64447,7 @@ allegro.12012309h485.beer
 allegro.1209h845812.buzz
 allegro.12300120h9j8ji.buzz
 allegro.12300g459g54823.lol
+allegro.12300h945b4vnj.best
 allegro.12301028g.qpon
 allegro.12301029g8h5.beauty
 allegro.123010h8hh45g.click
@@ -64454,9 +64459,12 @@ allegro.1230129h766.rest
 allegro.123098h5.buzz
 allegro.1230g59h45g54.forum
 allegro.1230h9457h45g.pics
+allegro.12312-0h459gf34.beer
 allegro.1231230h8h5.beer
 allegro.1231236kk.buzz
+allegro.123190h485g74.beer
 allegro.1239120-h120.surf
+allegro.12393098845gh45.top
 allegro.12398348g.qpon
 allegro.123985h7.buzz
 allegro.1241092000.casa
@@ -64516,6 +64524,7 @@ allegro.523523878kj6j.pics
 allegro.528884.click
 allegro.53423199gg88.biz
 allegro.54003.click
+allegro.5432392389.skin
 allegro.54456665446684.click
 allegro.548325.me
 allegro.549h8k76545.buzz
@@ -64575,11 +64584,13 @@ allegro.98j657503f23.homes
 allegro.9h84523d23.beer
 allegro.9j8273r39956jh65u45g.beer
 allegro.allegrolokalnie.cfd
+allegro.aukcj37289129v.beer
 allegro.aukcje8230102gg.homes
 allegro.c71.biz
 allegro.c87ax.click
 allegro.cam
 allegro.clinicaactmedica.ro
+allegro.g349fg3u4f23.beer
 allegro.hit.gemius.pl
 allegro.i438h8845.cam
 allegro.ifert934121gg4.casa
@@ -64591,6 +64602,7 @@ allegro.loh34871290j0j0.qpon
 allegro.msrat9387199.cam
 allegro.my5829119f.study
 allegro.mypg043812.qpon
+allegro.of4918294.skin
 allegro.ofer09128875.buzz
 allegro.ofer93201.club
 allegro.ofert49382120-g4.study
@@ -64608,6 +64620,7 @@ allegro.petnwa2181929.study
 allegro.pfw498tr2323.homes
 allegro.pl-25294.click
 allegro.pl-273456.click
+allegro.pl-53198975.shop
 allegro.pl-837224.click
 allegro.pl-9901614182992zamowienie826256282919.biz
 allegro.pl-id64838392.biz
@@ -64665,6 +64678,7 @@ allegro.pl-ogloszenie985498231.click
 allegro.pl-ssid38019.click
 allegro.pl-y34t63.click
 allegro.pl.showitems.it
+allegro.pl029coi2.cyou
 allegro.pl124314453.click
 allegro.pl24.online
 allegro.pl427492414.click
@@ -64674,6 +64688,7 @@ allegro.pl667834924.click
 allegro.pl982342.xyz
 allegro.platnosc-blik.pl
 allegro.pog34f384f.mom
+allegro.popka29129hh5.beer
 allegro.poru12u89.beauty
 allegro.pre8213745hj475.skin
 allegro.prftanwm238129.cfd
@@ -64716,6 +64731,7 @@ allegro.smart8342819gg.best
 allegro.smart8437329129.buzz
 allegro.smart8923800.pl
 allegro.smart91287129312.study
+allegro.smart92349th884g5.best
 allegro.smart939200.pl
 allegro.smart9438213912.mom
 allegro.smart9438312023.shop
@@ -64987,7 +65003,6 @@ allegrolokalnie.oferta-1.world
 allegrolokalnie.oferta-2357137.shop
 allegrolokalnie.oferta-478221.sbs
 allegrolokalnie.oferta-5690868.shop
-allegrolokalnie.oferta-574168.cfd
 allegrolokalnie.oferta-6208569.shop
 allegrolokalnie.oferta-6708953.shop
 allegrolokalnie.oferta-7920665.shop
@@ -65135,6 +65150,7 @@ allegrolokalnie.pl-472959.shop
 allegrolokalnie.pl-482852.shop
 allegrolokalnie.pl-51282.lat
 allegrolokalnie.pl-527692.pl
+allegrolokalnie.pl-53198975.shop
 allegrolokalnie.pl-54325.click
 allegrolokalnie.pl-569306.rest
 allegrolokalnie.pl-5745326.click
@@ -65395,6 +65411,7 @@ allegrolokalnie.pl01.club
 allegrolokalnie.pl01.me
 allegrolokalnie.pl01.pro
 allegrolokalnie.pl0103710.click
+allegrolokalnie.pl029coi2.cyou
 allegrolokalnie.pl1238-offerta.shop
 allegrolokalnie.pl24.online
 allegrolokalnie.pl29139.top
@@ -165454,6 +165471,7 @@ booking.flowstayrentals-id527198.co
 booking.flowstayrooms-id731920.co
 booking.foreserv-id467438.help
 booking.form974863.digital
+booking.frontdeskcenter.com
 booking.frwonderfulparis.net
 booking.futurearrlvalstay.com
 booking.gardenshomser.com
@@ -353792,6 +353810,7 @@ ecuadorweb.webcindario.com
 ecuadorwork.xyz
 ecuagenerachoice.shop
 ecuanimefundanza.com
+ecuantixai-digital.pages.dev
 ecuantixai.com
 ecuantixai.digital
 ecuantixai.net
@@ -359146,6 +359165,7 @@ elite-flows.com
 elite-gravel-tachometer.glitch.me
 elite-hacks.ru
 elite-level.com
+elite-marketai.org
 elite-modules.ru
 elite-patrimoine.com
 elite-s001.com
@@ -367987,6 +368007,7 @@ erdbeerblase.de
 erdeihozamveny-ai.com
 erdeihozamvenytrade.com
 erdeimarvova-ai.com
+erdeimarvova.co
 erdeimarvova.com
 erdeimarvova.live
 erdelt.nl
@@ -373617,6 +373638,7 @@ eurooccasion.com
 eurooffchain.xyz
 euroofis.com
 euroolo.shop
+euroonu.shop
 europa-apotek.com
 europa-autostrada-a2.pl
 europa-batteries.com
@@ -554027,6 +554049,7 @@ lap-mang-fpt-hanoi.com
 lapaieduluberon.fr
 lapaindustrial.com
 lapaindustriesofficial.shop
+lapak99-alternatif.com
 lapakslot-win.xyz
 lapakwebsite.com
 lapala.cl
@@ -602152,6 +602175,7 @@ mangmicentral.shop
 mangmielectronics.shop
 mango-odut-5bxb.345fq3e7.workers.dev
 mango-sale.com
+mango-sale.de
 mango.srilabs.com
 mango72k.valuevault8.coupons
 mangoads.net
@@ -611333,6 +611357,7 @@ marbilyliving.shop
 marbilyonline.shop
 marbitorio.net
 marble-flair.com
+marble-rendaven.cfd
 marble-rendaven.com
 marbleandtileusadesign.shop
 marbleandtileusastudio.shop
@@ -690676,6 +690701,7 @@ oferta-2149259.click
 oferta-21938-pl.click
 oferta-2415745.cfd
 oferta-247841.cfd
+oferta-248751.cfd
 oferta-24h02929.sbs
 oferta-2741854.cfd
 oferta-2748.click
@@ -690694,6 +690720,7 @@ oferta-45696442.click
 oferta-4763155.icu
 oferta-48295683.cfd
 oferta-51768512.click
+oferta-574168.cfd
 oferta-584392143.live
 oferta-6290.cam
 oferta-64746376.click
@@ -695368,6 +695395,7 @@ olx.lokalne-ofeta67325793.shop
 olx.my-paycore.shop
 olx.nqinvoice-poland.biz
 olx.oferta3262.pl
+olx.oferta349.cfd
 olx.oferta4882.sbs
 olx.oferta5080146pl.click
 olx.oferta828331pl.click
@@ -695392,6 +695420,7 @@ olx.pl-oferta56734sdy5s7.shop
 olx.pl-oferta9335447.com
 olx.pl-paycor.club
 olx.pl-skrpay.world
+olx.pl029coi2.cyou
 olx.pl24.online
 olx.pl982342.xyz
 olx.plpay-protranz.click
@@ -728767,6 +728796,7 @@ petronilho.com.br
 petronpay.com
 petroperu-app.com
 petropolisclub.com
+petroqonyx.co
 petroqonyxtrade.com
 petrorefining.com
 petrossianmarket.shop
@@ -734967,6 +734997,7 @@ pitbound.shop
 pitbull-pl.club
 pitbull-sklep.shop
 pitbull-sport.com
+pitbull.dealsnl.shop
 pitbull.discountpl.shop
 pitbull.ek1.pl
 pitbull.finance
@@ -737471,6 +737502,7 @@ pl-oferta52724.click
 pl-oferta5291202.shop
 pl-oferta53214.click
 pl-oferta53334-macbook-air-m2-8gb-256gb.shop
+pl-oferta538175.sbs
 pl-oferta54343.cfd
 pl-oferta543543543.cfd
 pl-oferta54376.shop
@@ -737639,16 +737671,19 @@ pl-ogloszenie9347235437.click
 pl-ogloszenie9783245612.click
 pl-okazje-weekendowe-871244.rest
 pl-order747346.cfd
+pl-order871263.top
 pl-oriders.shop
 pl-p45cr.sbs
 pl-perfume.shop
 pl-pg2i1.sbs
+pl-platnosci53853.cyou
 pl-platnosci708947213.lol
 pl-poctzasd.weebly.com
 pl-potw-184920.eu.cc
 pl-potw-592018.eu.cc
 pl-pro-aiapp.com
 pl-pro-aisolution.com
+pl-produkt38oferta545967389.lol
 pl-produkt39knrs687567896.lol
 pl-produkty.lol
 pl-produkty3nd92784723.shop
@@ -737677,6 +737712,7 @@ pl-ssid38673.click
 pl-ssid56342.click
 pl-system-aiapp.com
 pl-tc62v.sbs
+pl-testowadomena631.cfd
 pl-ticektnumber712932193912.com
 pl-ticketnumber89687612.biz
 pl-ticketnumber92940.sbs
@@ -737793,6 +737829,7 @@ pl2-ol.xyz
 pl2.revo.eu.cc
 pl2.rove06.com
 pl2026wojas.click
+pl21vnu294b.cyou
 pl23339.top
 pl235925.lol
 pl24.shop
@@ -762251,6 +762288,7 @@ preparedeth.xyz
 preparedfund.xyz
 preparedgpu.xyz
 preparedllm.xyz
+preparedluuy.info
 preparedmap.xyz
 preparedmcp.xyz
 preparedmeme.xyz
@@ -776322,6 +776360,7 @@ pungoscimi.store
 pungovernorindustry.com
 pungplaice.com
 punicaenvo.digital
+puniceous-bolero.shop
 punicinbumelia.com
 punishbar.com
 punishedgpu.xyz
@@ -781127,6 +781166,7 @@ ql.mabyermarsi.top
 ql.maipurecharta.com
 ql.ruminalpinners.com
 ql.uzuzuz.com
+ql12x629.cyou
 ql4h.net
 qla.be
 qlakyxkf.com
@@ -784606,6 +784646,7 @@ quantexhibits.xyz
 quantexitalica-digital.pages.dev
 quantexitalica-soft.com
 quantexitalica.digital
+quantexitalicaplatform.com
 quantexitalicatrade.com
 quantexmagyar.click
 quantexnederland.net
@@ -793661,6 +793702,7 @@ quietrental.xyz
 quietreport.xyz
 quietreview.xyz
 quietrights.xyz
+quietroot.org
 quietrubric.xyz
 quietsandbox.xyz
 quietsave.xyz
@@ -805770,6 +805812,7 @@ rastiq.click
 rastivex.click
 rastivex.com
 rastivex.live
+rastivexplatform.com
 rastivo.shop
 rastkultur.de
 rastleelastin.shop
@@ -817237,6 +817280,7 @@ reprqqobatory.life
 reprunenodes.digital
 repsberlin.com
 repslys.com
+repsol-ai.org
 repsol.data.adobedc.net
 repsolinvest.cfd
 repsolinvestmentplatform.com
@@ -822076,6 +822120,7 @@ rhsigorta.com
 rhsportlook.shop
 rhtc.quanminyouxi.cn
 rhtkfld.uzu.kr
+rhtmybdv.shop
 rhttfdlhkv.com
 rhtwyu34.top
 rhubarb-velvet-bag.shop
@@ -891936,6 +891981,7 @@ skveldtrapp.pro
 skvfiwcpbne.com
 skvhsufj.yolasite.com
 skvirenokla-ai.com
+skvirt37.eu.cc
 skvpwecqrbovi.online
 skvurthalen-de.live
 skvurthalen.at
@@ -897429,6 +897475,7 @@ smykseutop.com
 smykshop-pl.com
 smyksiec.club
 smykstore.com
+smykvip.shop
 smykwb.com
 smylane.shop
 smypark.shop
@@ -1046943,6 +1046990,7 @@ valeurgaintra-soft.com
 valeurgaintra.pro
 valeurscitoyennes.tg
 valevaultshire.com
+valevia.shop
 valewoodgoods.eu
 valex.live
 valexiro.pro
@@ -1109652,6 +1109700,7 @@ xulvertik.co
 xulvertik.digital
 xulvertik.live
 xulvertikai.live
+xulvertikplatform.com
 xulvertiksoftware.shop
 xumubaohuvy.autos
 xumxustwahfco.site
