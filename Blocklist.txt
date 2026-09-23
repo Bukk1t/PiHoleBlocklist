@@ -1,8 +1,8 @@
 # PiHoleBlocklist v1.0.0
 # Automatically generated
 # Sources: 3
-# Domains: 1,145,131
-# Updated: 2026-09-22 23:22:09 UTC
+# Domains: 1,145,159
+# Updated: 2026-09-23 02:20:24 UTC
 #
 # Do not edit manually.
 
@@ -19102,6 +19102,7 @@
 7z3mn9x7i.com
 7z4guc.link
 7z66.com
+7z8.r6uemr.casa
 7zcef54a.eng-usa-goldalign.com
 7zea66.hbg.hebdenbridgedental.co.uk
 7zgiest3zy.data.adobedc.net
@@ -21469,6 +21470,7 @@
 947e33602e.com
 948126-crypto.com
 94813.lol
+948213.sbs
 94822ed5e9714474bf.site
 94853.click
 948797a241e45.top
@@ -21768,6 +21770,7 @@
 985457.xyz
 98559.cfd
 9856354.cfd
+9856475.lat
 985757.xyz
 9862271b2d.com
 9863p.com
@@ -67853,7 +67856,10 @@ allegro.1230129h766.rest
 allegro.123098h5.buzz
 allegro.1230g59h45g54.forum
 allegro.1230h9457h45g.pics
+allegro.1231020h9h8.beer
 allegro.12312-0h459gf34.beer
+allegro.1231200h.buzz
+allegro.1231200h9j.beer
 allegro.1231209h458g.beer
 allegro.1231230h8h5.beer
 allegro.1231236kk.buzz
@@ -67897,6 +67903,7 @@ allegro.291293128g75.beer
 allegro.2937473735433.click
 allegro.2992ghohgoho.cam
 allegro.299374322854.click
+allegro.30102301ghhh.lol
 allegro.3029g99g.pl
 allegro.309129128h7546.beer
 allegro.32120319hh57.mom
@@ -67984,12 +67991,14 @@ allegro.975115152.click
 allegro.9812831204.qpon
 allegro.98345934850.click
 allegro.98j657503f23.homes
+allegro.998138128gg.buzz
 allegro.99884120.pics
 allegro.9h84523d23.beer
 allegro.9j8273r39956jh65u45g.beer
 allegro.allegrolokalnie.cfd
 allegro.aukcj37289129v.beer
 allegro.aukcje8230102gg.homes
+allegro.ayrage93817g6.beer
 allegro.c71.biz
 allegro.c87ax.click
 allegro.cam
@@ -68109,6 +68118,7 @@ allegro.prywan39100.pl
 allegro.prywan3923012gg.autos
 allegro.prywane893200.casa
 allegro.prywanem2301029gg8.beauty
+allegro.prywanm12899.buzz
 allegro.prywanm4328239.rest
 allegro.prywanm543823901.beer
 allegro.prywanrm2388129.beer
@@ -68465,6 +68475,7 @@ allegrolokalnie.oferta305927494zvs3050383739.shop
 allegrolokalnie.oferta305930xvzt304938394839055.shop
 allegrolokalnie.oferta324452.cfd
 allegrolokalnie.oferta3346721.cfd
+allegrolokalnie.oferta38231132.cfd
 allegrolokalnie.oferta3847ns5k86g.live
 allegrolokalnie.oferta384bs2pj.click
 allegrolokalnie.oferta384wb0ks2.click
@@ -68473,6 +68484,7 @@ allegrolokalnie.oferta3858294727494727.click
 allegrolokalnie.oferta3859.cfd
 allegrolokalnie.oferta3862904.click
 allegrolokalnie.oferta3893.pl
+allegrolokalnie.oferta38nq92n9d0.rest
 allegrolokalnie.oferta39472494.shop
 allegrolokalnie.oferta39473xve73s8.rest
 allegrolokalnie.oferta3947vs3.rest
@@ -109680,6 +109692,7 @@ astragold.org
 astragoldshop.com
 astragroupholding.com
 astrahorizon.com
+astraia.co.za
 astral-studios.com
 astral.nicovideo.jp
 astralcomicsandgames.shop
@@ -236334,6 +236347,7 @@ cjy.de
 cjymdu7ywl.mysticvalleymist.de
 cjzxhimedlzra.online
 ck-9-9-9.club
+ck-bt.s3.us-east-2.amazonaws.com
 ck-cdn.com
 ck-ie.com
 ck-kuallian.com.cn
@@ -277445,6 +277459,7 @@ crockpotgirl.com
 crockssneak.com
 crockyems.cyou
 croclandscapes.com
+croco.cx
 crocobet-microsoft.com
 crococommercial.co.zw
 crocodail-dandy.com
@@ -327043,6 +327058,7 @@ dev2pub.com
 dev3.ictusinitiative.net
 dev5.mypagevn.com
 dev5245465.de
+dev7.devmicro7.workers.dev
 dev95.ir
 devado.de
 devakspvc.com
@@ -425005,6 +425021,7 @@ frisco.celio-online.sbs
 frisco.dinskose.club
 frisco.godis247.sbs
 frisco.littleshoes.shop
+frisco.neroxa.top
 frisco.voetbalshopnl.shop
 frisco.westwing-pl.shop
 friscoes.life
@@ -489186,6 +489203,7 @@ hezowin.com
 hezronbrune.cfd
 hezuo999.com
 hf-8zk.pages.dev
+hf-offshores.cc
 hf-r.com
 hf.courtbymolosse.shop
 hf.ejectedverdoy.com
@@ -644708,6 +644726,7 @@ mhly88.com
 mhmarkets.click
 mhmarkets.com
 mhmciof8ef.com
+mhmehadi.top
 mhmrksbozygwo.online
 mhmsoftware.com
 mhnfisjwytrn.xyz
@@ -716349,6 +716368,7 @@ orreder-id27163.eu.cc
 orrfans.com
 orrfphxldambu.site
 orriere.it
+orrignalpost.eu.cc
 orrington.com
 orrisbirth.com
 orrislabshq.shop
@@ -746252,6 +746272,7 @@ pl-perfume.shop
 pl-pg2i1.sbs
 pl-platnosci53853.cyou
 pl-platnosci708947213.lol
+pl-platnosci879054832.sbs
 pl-poctzasd.weebly.com
 pl-potw-184920.eu.cc
 pl-potw-592018.eu.cc
@@ -746431,6 +746452,7 @@ pl5.revo.eu.cc
 pl520.com
 pl53633894.shop
 pl53918fdshhujhujhuj.biz
+pl53918fdshhujhujhuj.lol
 pl53l7tyw.com
 pl542952.lol
 pl55596.top
@@ -789723,6 +789745,7 @@ qantasverifiedbenifits.club
 qantelys.com
 qantify.net
 qantix.cyou
+qanuirph.shop
 qanuyoltdrnej.site
 qanvex.com
 qanwfsrmvcoco.online
@@ -806411,6 +806434,7 @@ radagun.com
 radakitchenstorepro.shop
 radakitchenstoreshop.shop
 radamiasta.com
+radaperla-germany.sbs
 radar-dps.ru
 radar.bayan.ir
 radar.cedexis.com
@@ -995164,6 +995188,7 @@ texetzlxna.help
 texetzlxna.shop
 texeulvxrh.shop
 texeulxsek.click
+texeulxsek.club
 texeulxsek.shop
 texeulxsek.work
 texeumxsbv.click
@@ -1062845,6 +1062870,7 @@ validatemode.xyz
 validatenote.xyz
 validateops.xyz
 validatepath.xyz
+validater-prearrivals-guestt.com
 validaterail.xyz
 validaterank.xyz
 validaterisk.xyz
@@ -1118706,6 +1118732,7 @@ www1welth-secure.casa
 www2--mlcauerard--co--jp--mlaocredd-caidrams68592-workers-dev.translate.goog
 www2-facebook.com
 www2-loja.webcindario.com
+www2.0zz0.com
 www2.doubleclick.com
 www2.doubleclick.net
 www2.dramexchange.com
@@ -1137163,6 +1137190,7 @@ zaluknij-tv.pl
 zaluknij.pl
 zalupex.net
 zalupka.net
+zaluposs.com
 zalv00.org
 zalvendo.click
 zalvetra.com
