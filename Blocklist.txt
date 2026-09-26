@@ -1,8 +1,8 @@
 # PiHoleBlocklist v1.0.0
 # Automatically generated
 # Sources: 3
-# Domains: 1,131,206
-# Updated: 2026-09-25 23:41:15 UTC
+# Domains: 1,131,217
+# Updated: 2026-09-26 02:28:32 UTC
 #
 # Do not edit manually.
 
@@ -6848,6 +6848,7 @@
 1c10ud.pro
 1c11f19f2a.com
 1c1c7fceb9fe07a9.com
+1c30eb84.heftrucksbelgie.eu
 1c3139f0ca.com
 1c46639b8d.aff15e203a.com
 1c52196e891c17.top
@@ -16357,6 +16358,7 @@
 6472475-dot-oaao-274308.uc.r.appspot.com
 64728.top
 6473.taplink.ws
+647345.top
 647348419173324-dot-wetransfer-auth-file-341.appspot.com
 64748475aw.weebly.com
 647768.xyz
@@ -66229,6 +66231,7 @@ allegro.291293128g75.beer
 allegro.2937473735433.click
 allegro.2992ghohgoho.cam
 allegro.299374322854.click
+allegro.300491.sbs
 allegro.3029g99g.pl
 allegro.309129128h7546.beer
 allegro.312030129y45.buzz
@@ -66570,6 +66573,7 @@ allegrolokalnie.2937439396285.click
 allegrolokalnie.293zzvw38ck8.rest
 allegrolokalnie.294zvwx38n.rest
 allegrolokalnie.29y.lat
+allegrolokalnie.300491.sbs
 allegrolokalnie.30brvdkvd.sbs
 allegrolokalnie.34w3f4qr4r.click
 allegrolokalnie.366554th.top
@@ -155781,6 +155785,7 @@ bhsmstore.com
 bhswardrobe.shop
 bhsxireusqolf.space
 bhsxwgyuktnjz.site
+bhsyendjt.com
 bhszasnoamoro.space
 bht-server-side-tagging-668558576459.europe-west2.run.app
 bht4yd.close.futureisready.com
@@ -339687,6 +339692,7 @@ djsalcbhew47.lol
 djsandfestivals.com
 djscord.com
 djsgf.com
+djsh64787-h24.vercel.app
 djshawnmichaels.com
 djshockperu.com
 djshopstore.quest
@@ -392797,6 +392803,7 @@ fabric.io
 fabric.surf
 fabric16.com
 fabrica-de-delivery.com
+fabricam-creative-hub.base44.app
 fabricatem.com
 fabriccypher.xyz
 fabricdekhoretail.shop
@@ -508621,6 +508628,7 @@ idhoyoadekuzf.website
 idhtm.bb.com.br
 idhzz.cn
 idi.li
+idi9378g2387g3f9h8f2.sbs
 idiafix.com
 idid-271661.eu.cc
 ididedit.com
@@ -733138,6 +733146,7 @@ pitbound.shop
 pitbull-pl.club
 pitbull-sklep.shop
 pitbull-sport.com
+pitbull.besave.sbs
 pitbull.dealsnl.shop
 pitbull.discountpl.shop
 pitbull.ek1.pl
@@ -735906,6 +735915,7 @@ pl32993.top
 pl32zx41.cyou
 pl39239.top
 pl4.revo.eu.cc
+pl423az211.cyou
 pl44389494.shop
 pl452.cfd
 pl5.revo.eu.cc
@@ -1061192,6 +1061202,7 @@ vinted.01149.rest
 vinted.1532936.cc
 vinted.175904286.shop
 vinted.28491763.shop
+vinted.300491.sbs
 vinted.49281.sbs
 vinted.54666577644.help
 vinted.552183.click
