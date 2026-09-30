@@ -5,15 +5,15 @@ Version:
 1.0.0
 
 Last update:
-2026-09-29 21:38:03 UTC
+2026-09-30 02:54:34 UTC
 
 Sources:
 3
 
 Total unique domains:
-1,076,452
+1,076,500
 
 Source breakdown:
-https://big.oisd.nl/: 244,170
+https://big.oisd.nl/: 244,205
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt: 230,281
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.medium.txt: 812,390
