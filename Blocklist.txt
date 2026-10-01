@@ -1,8 +1,8 @@
 # PiHoleBlocklist v1.0.0
 # Automatically generated
 # Sources: 3
-# Domains: 1,092,310
-# Updated: 2026-09-30 21:38:42 UTC
+# Domains: 1,092,383
+# Updated: 2026-10-01 03:00:59 UTC
 #
 # Do not edit manually.
 
@@ -19906,6 +19906,7 @@
 58686728.xyz
 587.jp
 5872e54e6d.48f39e1095.com
+587423.sbs
 58745.clicknplay.to
 58753637c874.online
 587betjogos.com
@@ -24832,6 +24833,7 @@
 888youxipingtai.casa
 889190a.buzz
 8893709.fun
+889423.lat
 889528.com
 8895907cc854dded.com
 8896bhfg6l.com
@@ -49165,6 +49167,7 @@ aeckyijopoxsk.space
 aecopetrol.qpon
 aecpm.alicdn.com
 aecs-id.com
+aecxkrtqxxvjq.site
 aed08832da.com
 aeddirect.shop
 aedes.shop
@@ -66508,6 +66511,7 @@ akshf.windf0x.ru
 akshopstore.quest
 aksi-tajuk.absolute-water.app
 aksia.co
+aksiyononline.best
 aksonural.ru
 aksovxgafdu.in
 aksoxtasvs.com
@@ -67626,7 +67630,6 @@ aldi.levvano.shop
 aldi.levvora.shop
 aldi.libozoru.shop
 aldi.limewickmart.shop
-aldi.linenaisle.shop
 aldi.linenbasket.shop
 aldi.lornbymart.shop
 aldi.marreto.shop
@@ -71167,7 +71170,6 @@ allegrolokalnie.ods-c948y7576.rest
 allegrolokalnie.oferta-042523.sbs
 allegrolokalnie.oferta-1.world
 allegrolokalnie.oferta-2357137.shop
-allegrolokalnie.oferta-241578.cfd
 allegrolokalnie.oferta-478221.sbs
 allegrolokalnie.oferta-5690868.shop
 allegrolokalnie.oferta-6208569.shop
@@ -95008,6 +95010,7 @@ app.exclusivoparacliente.app
 app.exclusivoparacliente.click
 app.exclusivoparacliente.digital
 app.expli.city
+app.ezmarketz.com
 app.f2trk.com
 app.falkensteinercamping.com
 app.faowox.com
@@ -150482,6 +150485,7 @@ bhshopstore.quest
 bhsingenieria.com
 bhslaughter.com
 bhsmstore.com
+bhsvhdzlohixl.online
 bhswardrobe.shop
 bhsxireusqolf.space
 bhsxwgyuktnjz.site
@@ -150780,7 +150784,6 @@ bid.cosmoshq.com
 bid.ctv.house
 bid.glass
 bid.kidoz.net
-bid.pleasedmad.com
 bid.run
 bid.videostep.com
 bid8dent.com
@@ -150951,6 +150954,7 @@ bieaxonline.shop
 biebaby.shop
 biebfabrco.com
 biecarator-jprakutansui.com
+biecarauqzeqi.online
 biedadsa-pl.shop
 biedadsaobpl.shop
 biedadsaodpl.shop
@@ -156838,6 +156842,7 @@ bkest.sa
 bkezgkhgnqcpb.online
 bkfbvwbxrekwwq.com
 bkfhvpacslvjh.site
+bkflybitzrqic.site
 bkg-fix.com
 bkg.info
 bkgclwupffqez.site
@@ -171872,6 +171877,7 @@ bqyfasjrctlfb.site
 bqyjxdrxsq.firebaseapp.com
 bqyjxdrxsq.web.app
 bqymbyybyknja.top
+bqyxcqnjdnvrs.site
 br-2421-e33d1fb574e7ab7ede884f69e0b147de-p4rfo63nt-acq-ui-eng.vercel.app
 br-2441-02ced9604df3a000f4dfe50e3a1d1e06-qfq8dcdsu-acq-ui-eng.vercel.app
 br-ad-lgsmartad-com.aws-prd.net
@@ -183356,6 +183362,7 @@ browsersession.xyz
 browsersigning.xyz
 browserskill.xyz
 browserspace.xyz
+browsertdidticket.m.qq.com
 browsertrip.xyz
 browseruphelp.com
 browservision.xyz
@@ -184172,6 +184179,7 @@ bsports-bing.cloud
 bsptcqnovtxdq.site
 bsqbgspa.com
 bsqcpj.com
+bsqhqpzlidgjj.site
 bsqkfv.com
 bsqturf.shop
 bsr-russia.com
@@ -195282,6 +195290,7 @@ bvwgoods.shop
 bvwmfg39c.top
 bvwsbtncysrji.site
 bvwsvjhpbmzvj.space
+bvxabstcuyoij.space
 bvycqrmqlqvp.com
 bvyhpxikzylmn.space
 bw-ad-lgsmartad-com.aws-prd.net
@@ -195483,6 +195492,7 @@ bxifydpwojfjd.com
 bxiot.com
 bxiqatqdkkckukp.com
 bxiyexukamhjtns.com
+bxjnbeubkxxmw.site
 bxk.rest
 bxkd.hl.cn
 bxkhoojkyzdbn.website
@@ -318403,6 +318413,7 @@ dheavkajrxr.in
 dheblxw.com
 dheheagbmhdfk.space
 dhelmetsdirect.shop
+dhetrrlzesril.space
 dhevlptks.firebaseapp.com
 dhevlptks.web.app
 dheyitpmyheck.space
@@ -326668,6 +326679,7 @@ ditzzz.ezzzyy.de
 diu-vo.work
 diubuysell.com
 diucord.js.org
+diudhcdocyuy.com
 diuglas.de
 diuiup.com
 diuiuw.com
@@ -351128,6 +351140,7 @@ efm-global.com
 efmh.cn
 efmjvchffbmar.online
 efmrecyclagemetaux.com
+efmurkagwzgyy.space
 efnceajg.com
 efo.cc
 efoepfgcitoqe.online
@@ -373282,6 +373295,7 @@ exclusionport.xyz
 exclusionquant.xyz
 exclusionquest.xyz
 exclusionrank.xyz
+exclusionremcoss.duckdns.org
 exclusionrobo.xyz
 exclusionrobot.xyz
 exclusionspace.xyz
@@ -379084,6 +379098,7 @@ f9tpxo.work
 f9tsxe.fit
 f9tvsl.casa
 f9u.stormm1st.ru
+fa-1464303226.cos.ap-guangzhou.myqcloud.com
 fa.163.com
 fa.177betwin.org
 fa.32naga.net
@@ -380723,7 +380738,6 @@ fagruvil-shop.pages.dev
 fagruvil.shop
 fagruviltrade.com
 faguvapro.live
-fah.noneedtostress.com
 fahadalshammari.online
 fahbet.best
 fahbet.click
@@ -387371,6 +387385,7 @@ fe08f368.flyjasper.ca
 fe1-au.imrworldwide.com
 fe1ykpaf.xyz
 fe2-au.imrworldwide.com
+fe29jf323.kesug.com
 fe3-au.imrworldwide.com
 fe30zv-33bql-wjwz-oc4fk-o1w.pages.dev
 fe43bd577b.06f4422159.com
@@ -394689,6 +394704,7 @@ finmatter.xyz
 finmax-funds.com
 finmaxbo.com
 finmaxfx.com
+finmonologips.top
 finmorexfunnel.com
 finnacresifts.cfd
 finnafaoesoisad.cc
@@ -394984,7 +395000,6 @@ finzavelle.live
 finzavelletrade.com
 finzocredit.com
 finztracking.xyz
-finzzy0-rerum20.sbs
 fiocchidiriso.com
 fiofjkfilfrpo.weebly.com
 fioito.com.br
@@ -408414,6 +408429,7 @@ frigpixyish.com
 frigssstor.cyou
 frii.site
 friilt-hydreautz-slaer.yolasite.com
+frijachock.cfd
 frikilovers.com
 frilivinstyle.shop
 frillly3dress.pro
@@ -413019,6 +413035,7 @@ fwcauses.com
 fwcbeadhdqsojdjq.com
 fwcdn1.com
 fwcdn3.com
+fwchckknllwgi.space
 fwcpublicarchive.com
 fwcqjspysnncn.site
 fwcumtzoiwoyl.site
@@ -413527,6 +413544,7 @@ fzdwntsrbrodu.space
 fzesdfgver.blogspot.de
 fzeswz.com
 fzev75-rtbix.top
+fzfppmlooabua.online
 fzfzd.com
 fzfzmmijhsmpd.online
 fzfzuvphqalgm.website
@@ -418188,6 +418206,7 @@ gatheredtoken.xyz
 gatheredtrade.xyz
 gatheredwallet.xyz
 gatherer.de
+gatherer.m.qq.com
 gathergraingoods.shop
 gatherhere.shop
 gatherhereliving.shop
@@ -440813,6 +440832,7 @@ gp.hotasians.live
 gp.jstv.com
 gp.nextlgsdp.com
 gp0k9bqe.spikeslavage.ru
+gp2mi428s.com
 gp2nzna7.taxrundo.hu
 gp32.com
 gp5txm.lol
@@ -475886,6 +475906,7 @@ hvkxpsvlmrvwn.store
 hvlabs.shop
 hvlife.shop
 hvlqtvdtxl.com
+hvlwxtdrxgwpe.site
 hvmarfhyvydjn.online
 hvmetal.com
 hvmtdby.com
@@ -482779,6 +482800,7 @@ icoimmersive.xyz
 icolaunchpad.xyz
 icomagency.com.vn
 icomaq.com.br
+icomsa.com.mx
 icon.55bbs.com
 icon.cnzz.com
 icon.community
@@ -484754,6 +484776,7 @@ igyom.technologiaiviz.hu
 igyswjdwkppmo.online
 igyu-wending.com.cn
 igzeminkaplama.com
+igzhfupdpsk.com
 igzungpizrd.com
 ih-whatsapp.com
 ih.fe9v.ru
@@ -485524,6 +485547,7 @@ ilk10.az
 ilkadimeurope.com
 ilkalcoopbank.com
 ilkareklam.com
+ilkekjmcohplro.com
 ilkeraslanprotezortez.com
 ilkeryurtseven.com
 ilkevimbasvurumuz.com
@@ -504319,6 +504343,7 @@ jazzarrangingclass.com
 jazzautonomous.xyz
 jazzcafeposk.org
 jazzdynasty.com
+jazzersembelif.cyou
 jazzfantasy.it
 jazzfunrtip.cc
 jazzhyper.xyz
@@ -512230,6 +512255,7 @@ jrmmekdihiivp.site
 jrnix9p0.eng-us--goldalign.com
 jrnjcrgmiyzty.website
 jrnllit.shop
+jrnsiqvkusmol.site
 jroedzibnqyja.site
 jrolyrlmyrewj.top
 jrolyrlmyrzrq.top
@@ -512707,6 +512733,7 @@ jston.shop
 jstracker.com
 jsts.jochen-schweizer-shop.de
 jsudwyjduktw.com
+jsuffdjrzpwcw.site
 jsuni.com
 jsunpkg.com
 jsvitamins.shop
@@ -518662,6 +518689,7 @@ kdpayqianbaoxiazairukou.com.cn
 kdpic.pchome.com.tw
 kdpqab.super.spx.co.uk
 kdqd.free.thebitmeister.com
+kdqvwjpccicpp.site
 kdr6jmomc5yuoqhv9x95.maherstcottage.com.au
 kdr8etp22t.ru
 kdramacool.com
@@ -529698,6 +529726,7 @@ kvbwmazvwktsr.online
 kvcd7w375h.ru
 kvcnmtd.top
 kvcon.de
+kvcqvfgpvxdzy.site
 kvdbeautyhq.shop
 kvdfhdyttghce.website
 kvdfxdsc.shop
@@ -536301,6 +536330,7 @@ lbhealth.shop
 lbhs95fqkd.com
 lbhtkeffrcqxz.site
 lbinjdrone.com
+lbirfapjztjsz.online
 lbiti.sanfe.in
 lbiusrlvwnqgw.online
 lbjiancai.com
@@ -536539,6 +536569,7 @@ lcmrtseopyvebj.com
 lcmservicesllcct.com
 lcnbbusinessaccess.com
 lcnzyy.com
+lcoafpimtnkss.site
 lcockojapar.com
 lcom-wending.com.cn
 lcomputers.com
@@ -538475,6 +538506,7 @@ ledgerhillpartners.com
 ledgerhillpartners.online
 ledgerhold.live
 ledgerholm-app.pro
+ledgerholm-platform.com
 ledgerholm.live
 ledgerholmai.live
 ledgerhouse.online
@@ -550497,6 +550529,7 @@ lmis.solutions
 lmiutil.com
 lmjcooryceyse.site
 lmjvywakjupgv.site
+lmjzsplamr.com
 lmklwnfv.afriteblurbcepes.ru
 lmkpqizlvbpck.space
 lmlawcorp.com
@@ -556208,6 +556241,7 @@ lokalna-ofera894032475.lol
 lokalna-ofera9123491299.shop
 lokalna-ofera970220303.biz
 lokalna-oferta04265992.sbs
+lokalna-oferta45674353.sbs
 lokalna-oferta46872456.sbs
 lokalna-oferta587645.shop
 lokalna-oferta87453254.sbs
@@ -557315,6 +557349,7 @@ loowhoapoody.net
 looyu.com
 lop.com
 lop.lamimi.cn
+lop.primetandem.com
 lopalooza.org
 lopaoadlodaidaoa.com
 lopaoodladidaosreb.com
@@ -571418,6 +571453,7 @@ makuthelabelhq.shop
 makuthelabelofficial.shop
 makutubots.click
 makverhuizingen.nl
+makwbtyyjopij.site
 malabo-shushuli.info
 malaccastraitdaily.com
 malachite-rural-gander.glitch.me
@@ -600026,6 +600062,7 @@ mehsaniselect.shop
 mehulguptalabelfashion.shop
 mehulguptalabelstyle.shop
 mehulguptalabelwear.shop
+mehvbmnzqsogw.site
 mehzaan.com
 mei-richigua.hl.cn
 meibjonjgxjqb.store
@@ -628765,6 +628802,7 @@ mrane.com
 mrapet.shop
 mrapplesn.com
 mrappolt.de
+mrarcydmwhehi.site
 mrarmksmsx.com
 mraujsrcf.com
 mraza2dosa.com
@@ -633020,6 +633058,7 @@ mwelfagimaj.com
 mwengeifoundation.com
 mweujqszechsw.site
 mwfiles.net
+mwfohkbyparzk.online
 mwgiiuzcmkfdg.com
 mwgtf.hintonjour.com
 mwh.kr
@@ -633200,6 +633239,7 @@ mxgoodcasino.com
 mxgrupoperusac.com
 mxgwyd.com
 mxhaisyx.us.cc
+mxhchjhlygqlh.website
 mxhd.top
 mxhplnujqwmoj.website
 mxhtd.justbats.com
@@ -640136,7 +640176,9 @@ mzshopstore.quest
 mzsodbvjicria.site
 mzt.hl.cn
 mztecqbedrxpi.site
+mztkbkcrvlrwv.site
 mztm.jp
+mztqcqhdbujiw.space
 mztqypcygmeii.online
 mztys.hl.cn
 mzu8.wildm1st.ru
@@ -644271,6 +644313,7 @@ ncdn-host.cc
 ncdot.gov-kfo.cc
 ncdoula.org
 ncdplvdquspma.online
+ncdwxedifhfki.site
 nce.de.com
 nceaxfowkzjkv.website
 ncebunldnykjubd.com
@@ -661513,6 +661556,7 @@ nscc-covid.biz
 nscccoronavirus.com
 nscccovid.biz
 nscgizlofgvnr.online
+nsci.space
 nsclick.baidu.com
 nsclickvideo.baidu.com
 nsclickvideo.xiaodutv.com
@@ -661523,6 +661567,7 @@ nsdsvc.com
 nsdxiomert.weebly.com
 nsdzyfrgyhzpe.online
 nsedgj.bonprix.de
+nsehuvyjverbe.website
 nselect.shop
 nsenly.shop
 nsepelunpkhet.website
@@ -663849,6 +663894,7 @@ nzbmsyjqojdmn.space
 nzbvrrsljmhfr.space
 nzdatings.shop
 nze.com
+nze.work.gd
 nze3q3tb26flpwtj247uk5.cfd
 nzealzqci.com
 nzearbniqkgha.online
@@ -666830,6 +666876,7 @@ oferta-2149259.click
 oferta-21938-pl.click
 oferta-2415486.cfd
 oferta-2415745.cfd
+oferta-241578.cfd
 oferta-2415784.cfd
 oferta-2415798.cfd
 oferta-245159.cfd
@@ -706275,6 +706322,7 @@ pi-ofertaid813790137.icu
 pi-ofertav4u8ah4l.shop
 pi-ofeta.sbs
 pi-ofeta0231.sbs
+pi-ofeta0286.sbs
 pi-ofeta05312.sbs
 pi-ofeta7393926.cyou
 pi-ofeta77492926.cyou
@@ -711209,6 +711257,7 @@ pl-00394-oferta.click
 pl-00394-oferta.shop
 pl-00854-oferta.shop
 pl-00984-oferta.shop
+pl-0105205.icu
 pl-019692205.cfd
 pl-0294324.sbs
 pl-02960633.icu
@@ -715084,6 +715133,7 @@ playufabetgames.xyz
 playukinternet.com
 playumbra.xyz
 playuniiq.info
+playuno.me
 playupcali.digital
 playuzu-casino.fr
 playuzucasino.fr
@@ -717888,6 +717938,7 @@ pokecoinsgrab.com
 pokecollecttoys.shop
 pokedannke.eu.cc
 pokedspro.shop
+pokegard.com
 pokehubdirect.shop
 pokehubplay.shop
 pokehubtoys.shop
@@ -752525,6 +752576,7 @@ qatarnationaltourismcouncil.data.adobedc.net
 qataronlines.com
 qatarpenble.com
 qatazw.art
+qatbamwubafw.in
 qatdh.trtltravel.com
 qatdltqfihvijj.com
 qatebixun-fr.live
@@ -754764,6 +754816,7 @@ qqlive.asia
 qqlive.club
 qqlive.vip
 qqlogo.qq.com
+qqlprudbilcxb.website
 qqlyj.com
 qqm3hp1kngkzv2whtfke1e.cfd
 qqm98.com
@@ -815323,6 +815376,7 @@ rqahnvtzojeas.site
 rqapahxncfrik.website
 rqasports.com
 rqbnxzlgh0.tt.omtrdc.net
+rqbwumohveujn.site
 rqbzlgknsx.help
 rqchqfbmhefis.space
 rqcoqgesuaezy.space
@@ -818491,6 +818545,7 @@ ruvowe4xeo.com
 ruvoxa.info
 ruvrkunta.com
 ruvsraaklrih.com
+ruvtuzju.in
 ruvuqyo.com
 ruw7q.weblium.site
 ruwacloset.shop
@@ -824820,6 +824875,7 @@ sanphamcokhi.vn
 sanpix.com.br
 sanpla.jp
 sanplate.shop
+sanpoiljejuna.cfd
 sanpoilmeshna.digital
 sanpolosbrand.shop
 sanpzoyjzrjmu.website
@@ -840241,6 +840297,7 @@ seobundlekit.com
 seocapitalism.xyz
 seocapitalist.xyz
 seocashcapital.xyz
+seocdn.click
 seoclassicpay.xyz
 seoclerck.ir
 seoclkag.com
@@ -892049,6 +892106,7 @@ sqoutit.com
 sqoutout.com
 sqovyrwommzik.online
 sqpcjfvdgnemlhf.net
+sqpengg.com
 sqpvnivabieye.site
 sqpwzuvlvxpkn.site
 sqpyclvkzpgnw.space
@@ -940732,6 +940790,7 @@ tdglobalcompany.io
 tdgobe.uk.urth.co
 tdgobe.urth.co
 tdgubsetqwufm.online
+tdgugowdstzwt.online
 tdhcdlnvrhyyj.site
 tdhealth.shop
 tdhvk8we.xyz
@@ -945753,6 +945812,7 @@ telexsbril.shop
 telexsecho.help
 telexsecho.icu
 telexsecho.shop
+telexsfoli.icu
 telexsinfr.help
 telexsjump.click
 telexsjump.club
@@ -950016,6 +950076,7 @@ tftrealestate.com
 tftrm.com
 tftstyle.shop
 tftwrqwud.shop
+tftwrvvavlpjjq.com
 tfunity.com
 tfuxcxvzsuglw.online
 tfvk3cqxglm.iceiy.com
@@ -950172,6 +950233,7 @@ tgjtweernjrj.com
 tgk360chauthanh.online
 tgknt.com
 tgl2l.com
+tgldaqlqeltbt.site
 tglending.xyz
 tglife.shop
 tgll9.com
@@ -969684,6 +969746,7 @@ tjyuan.hl.cn
 tjzhhx.com
 tjzjm.com
 tjzzxxaw.shop
+tk-1464303226.cos.ap-guangzhou.myqcloud.com
 tk-alliance.cyou
 tk-babyzeit-matomo.tk.de
 tk-beta.amazon-adsystem.com
@@ -977375,6 +977438,7 @@ track.coflnet.com
 track.coherentpath.com
 track.contently.com
 track.conversion-cowboys.com
+track.convertfox.com
 track.cordial.io
 track.cpatool.net
 track.creditkarma.ca
@@ -981109,6 +981173,7 @@ trafic.ro
 trafico.prensaiberica.es
 traficsrda.com
 traficsrdj.com
+trafik.koopit.ist
 trafikkskoleapp.no
 trafit.com
 trafix.ro
@@ -1006580,6 +1006645,7 @@ updatassesion.weebly.com
 updatcloud.us
 update-345234.weeblysite.com
 update-account-payments.lawunioninsurance.com
+update-acrobatdc.shop
 update-across.app
 update-addrese.ctiltst.ccwu.cc
 update-addrese.fbnss.ccwu.cc
@@ -1062680,6 +1062746,7 @@ wqbeavbpztwsm.website
 wqbfacrjkijem.com
 wqbghtlchfeir.online
 wqbuwbiuowblc.store
+wqcbmrvlvrmwb.com
 wqdegnhwas.on-forge.com
 wqdgpigi.tv
 wqdqspcnf.ru
@@ -1064356,6 +1064423,7 @@ wvturau.com
 wvubgflasrfbp.site
 wvubyhnes.xyz
 wvuiaqx.com
+wvujwilqlvgvg.online
 wvv-booking.nkamenik.com
 wvv-roblox.com
 wvv2v224-pages-dev.translate.goog
@@ -1068682,6 +1068750,7 @@ xgwoeqkejqwen.site
 xgwv.hl.cn
 xgwvtfjyklyyi.website
 xgxexxmbnehb.com
+xgxiyfjwll.com
 xgxnczk.com
 xgyamkbizucnd.store
 xgyjcc.com
@@ -1082998,6 +1083067,7 @@ ywt.filoufriends.com
 ywt.seatsandsofas.de
 ywtd.xyz
 ywtennjipgrwd.website
+ywttjedowyfym.site
 ywu6s.com
 ywugyssrmkvat.website
 ywuymunqudyez.eu
@@ -1083245,6 +1083315,7 @@ yyspj.cn
 yysqrduhpfsci.net
 yysqrduhpfsci.xyz
 yystzl.cn
+yysupnvlmqddp.site
 yysyqk.com
 yyt9e15dc.top
 yyt9q15az.top
@@ -1084663,6 +1084734,7 @@ zarimyfashion.shop
 zarimyfashionco.shop
 zarinfile.com
 zarintala.com
+zaritxkltkkmm.online
 zarixontar.site
 zarjeyalyjmmy.space
 zark.ltd
@@ -1085288,6 +1085360,7 @@ zdtj.xyz
 zdungk.com
 zduskykoxzasu.site
 zduwgpvfgvhqm.space
+zduwvutxoai.com
 zduy-yunding.com.cn
 zdv.life
 zdw-7m.fit
