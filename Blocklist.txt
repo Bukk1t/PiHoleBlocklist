@@ -1,8 +1,8 @@
 # PiHoleBlocklist v1.0.0
 # Automatically generated
 # Sources: 3
-# Domains: 981,325
-# Updated: 2026-10-02 21:33:35 UTC
+# Domains: 981,351
+# Updated: 2026-10-03 02:50:12 UTC
 #
 # Do not edit manually.
 
@@ -2273,6 +2273,7 @@
 0cf7c1f25921.top
 0chain.xyz
 0chase.com
+0chinkpl.shop
 0chong.com
 0chong.net
 0chong2.com
@@ -23506,6 +23507,7 @@
 756858757.click
 757.justclick.ru
 75733.prohoster.biz
+757621.sbs
 75765454636.weebly.com
 7577.cc
 757966.xyz
@@ -27333,6 +27335,7 @@
 9583333nys03a.sbs
 9583333nys04a.sbs
 9584262finasnssskrdiiiiihalkk.online
+958482.sbs
 958549.com
 95864f18aab83b78.com
 95868.com
@@ -43198,7 +43201,6 @@ ads-store.24ur.com
 ads-swkbank.de
 ads-tag.ads-tinyorbit.com
 ads-tag.rtb-adingenious.com
-ads-team-safety.esy.es
 ads-tejot.pl
 ads-thanhnien-vn.cdn.ampproject.org
 ads-tm-glb.click
@@ -68269,6 +68271,7 @@ allegro.12301028g.qpon
 allegro.123012098543.lat
 allegro.1230129h766.rest
 allegro.12309g8438.mom
+allegro.12309h54.courses
 allegro.12319h485745g43f234.courses
 allegro.1239120-h120.surf
 allegro.12398348g.qpon
@@ -68804,13 +68807,13 @@ allegrolokalnie.n7310ba3.co
 allegrolokalnie.net-nr-39093-nasze.forum
 allegrolokalnie.net-ogloszenie-nr-392011-nasze.forum
 allegrolokalnie.nett-ogloszenie-2140325.rest
+allegrolokalnie.nr-238284sn.rest
 allegrolokalnie.nr-23843ms2.sbs
 allegrolokalnie.nr-2832483sn32.sbs
 allegrolokalnie.nr-327439sm32.lol
 allegrolokalnie.nr-3284329ms32.lol
 allegrolokalnie.nr-328742398sdn2.lol
 allegrolokalnie.ods-c948y7576.rest
-allegrolokalnie.oferta-0295748.cfd
 allegrolokalnie.oferta-042523.sbs
 allegrolokalnie.oferta-1.world
 allegrolokalnie.oferta-16872156-pl.click
@@ -69022,6 +69025,7 @@ allegrolokalnie.pl-7947273r908oferta528367293883.lat
 allegrolokalnie.pl-81712.top
 allegrolokalnie.pl-82726927373zamowienie001626382822.rest
 allegrolokalnie.pl-847pav5.sbs
+allegrolokalnie.pl-866287719367819363517439.top
 allegrolokalnie.pl-8724387287.biz
 allegrolokalnie.pl-88412.top
 allegrolokalnie.pl-88982577837828769872878.top
@@ -145548,6 +145552,7 @@ blgj5555.vip
 blglinfo.com
 blgogjlzyvgjn.top
 blgrco.shop
+blgstarspl.shop
 blh9888.com
 blhkbyjasnrqlm.net
 blhkzjnamvlxxg.com
@@ -181603,6 +181608,7 @@ c5d-sjhq05-dci1cp-rqtum-efwhz.pages.dev
 c5d945b9def58df3.com
 c5krw17gn0.com
 c5m.ru
+c5mj81yuuo.com
 c5mwwyqfvi.com
 c5nwe9.gow.englishwoodlands.co.uk
 c5r8v2p.pics
@@ -199930,6 +199936,7 @@ cgmhovirebeyy.space
 cgnfbfydgtlrtr.info
 cgocpkfgd.fg777tasya.net
 cgogoe.com
+cgokkcxw.shop
 cgongseq.com
 cgoogle.fr
 cgospelhq.shop
@@ -398212,6 +398219,7 @@ greatwestlife.tt.omtrdc.net
 greatwin-fr.fr
 greavedtinguy.qpon
 greavers.net
+greavescommutafftor.info
 grebespashes.shop
 grebibablo.com
 grebiunti.top
@@ -413845,6 +413853,7 @@ hempzclearance.shop
 hempzstore.shop
 hempzworld.shop
 hemsbyholidays.co.uk
+hemstiwwtched.info
 hemsworth.co.ke
 hemvcieezucdp.website
 hemylmepsmnq.com
@@ -431851,6 +431860,7 @@ i3gfxu92klwvq2d1.kissedbychenel.com
 i3j.569.mytemp.website
 i3j6h7j9cj.com
 i3l7wf.com
+i3n8z1k.lat
 i3pay.com
 i3program.org
 i3siaw.qpon
@@ -464574,6 +464584,7 @@ kaavaawebsystem.vercel.app
 kaavaweb3.vercel.app
 kaavaweb3secure.vercel.app
 kaayee.shop
+kaazarrpl.shop
 kab1.ru
 kab201k0xs.com
 kabachuha.art
@@ -476638,6 +476649,7 @@ kronanw.shop
 kronanx.shop
 kronavexisa.top
 kronber-gai.de
+kronberg-ai.org
 kronberg-partner.de
 kronbergai-app.com
 kronbergaitrade.com
@@ -488469,7 +488481,6 @@ lernt.de
 lernzone-77-de.space
 lernzone-desk-de.space
 leroaboy.net
-lerofa.hol.es
 leroi-johnny-casino.fr
 leroijohnny-casino.fr
 leroijohnny-france.fr
@@ -512075,6 +512086,7 @@ lymanofficial.shop
 lymckensecuryren.org
 lymphaticrecoverymobile.com
 lymphoedematherapy.com
+lymphomatouszzarboviral.info
 lymqet.shop
 lymxj.com
 lyn-bi.work
@@ -527730,6 +527742,7 @@ masonplantsirresponsibility.com
 masonrobotaxi.xyz
 masonry-oven.com
 masonry.org
+masoodsayedee.com
 masoriaudio.shop
 masorionline.shop
 masouckomirtu.net
@@ -601658,6 +601671,7 @@ ofersup.website
 ofert-43819.sbs
 ofert24.shop
 ofert83481.shop
+oferta-0295748.cfd
 oferta-074938739.cfd
 oferta-075930589.cfd
 oferta-1294-pl.shop
@@ -601689,6 +601703,7 @@ oferta-358616.top
 oferta-3743-pl.shop
 oferta-37617-pl.click
 oferta-38121-pl.shop
+oferta-3905838.cfd
 oferta-39598301.cfd
 oferta-4152637.cfd
 oferta-422812.cfd
@@ -623515,6 +623530,7 @@ pannel-get-data.us
 pannellishoponlineuk.shop
 pannellistore.shop
 panneltrepak.com
+pannnjandrums.info
 panno.org
 panodewexyxibo.com
 panoeye.com.cn
@@ -642963,6 +642979,7 @@ pl-oferta67362.click
 pl-oferta674891287.sbs
 pl-oferta6778152.cfd
 pl-oferta684792173.sbs
+pl-oferta692318741.cfd
 pl-oferta697412832.cfd
 pl-oferta6987142135.cfd
 pl-oferta7037863813.sbs
@@ -670544,6 +670561,7 @@ prudentialusprod.112.2o7.net
 prudentk.com
 prudentmope.cyou
 prudentquality.pro
+prudentquotemance.net
 prudentsoftllc.com
 prudsys-rde.de
 prudubankcocredi.webcindario.com
@@ -674189,6 +674207,7 @@ puhtml.com
 puhvfc7n5t7gvf92t6vh.cfd
 puhxcrvs.com
 puhyjyf.com
+puiamaph.shop
 puibjylihoygx.online
 puinnjsexnlbo.space
 puisaphan.com
@@ -676818,6 +676837,7 @@ pyramidconsultinginc.com
 pyramidforum.com
 pyramidgroups.co.in
 pyramidifms.com
+pyramidologyaddrwwessing.info
 pyrasol.biz
 pyravii.pro
 pyrd.radioshartbandi.bet
@@ -706411,6 +706431,7 @@ rekbovinyakvizros.com
 rekbudlhhzxps.website
 reke.at.sohu.com
 rekemonedasi-facebook.org
+rekenterij.net
 rekgenvehicle.shop
 rekidofpsdiksfosdpado.com
 rekihxdwtnn.com
@@ -729277,6 +729298,7 @@ rosoavkecokgaz.com
 rosolinovae.click
 rospromtest.ru
 rosrefurboss.com
+ross-vermoheim.com
 rossandrossenterprisesinc.com
 rossautonomous.xyz
 rosscypher.xyz
@@ -796218,6 +796240,7 @@ spadermamedspashop.shop
 spadermastore.shop
 spaderonium.com
 spadescapital.com
+spadescup.net
 spadezplus.shop
 spadonichub.click
 spads.me
@@ -833684,6 +833707,7 @@ switech.shop
 switfexchasebank.com
 switheupsmite.cfd
 switluxent-system.com
+switowinzyskarnia.com
 switshburgutrbes.club
 switzerlandu.web.app
 switzertravels.com
@@ -849829,6 +849853,7 @@ termedprotocol.xyz
 termedquantum.xyz
 termedrestake.xyz
 termedrobotaxi.xyz
+termelaison.net
 termeroseo.com
 termerspatrice.com
 termfinder.com
@@ -965692,6 +965717,7 @@ yefwzfajfxeva.space
 yefx.info
 yegaraspace.com
 yegdog.com
+yeggmengashhaliers.info
 yegogamesoutlet.shop
 yegoyogarwanda.com
 yegprnemph.creativelandings.xyz
