@@ -1,8 +1,8 @@
 # PiHoleBlocklist v1.0.0
 # Automatically generated
 # Sources: 3
-# Domains: 1,104,436
-# Updated: 2026-10-18 17:39:21 UTC
+# Domains: 1,104,476
+# Updated: 2026-10-18 19:50:11 UTC
 #
 # Do not edit manually.
 
@@ -63413,6 +63413,7 @@ alebilet.pl-oferta932619081.shop
 alebilet.pl-oferta9494498.click
 alebilet.pl-oferta9542718.click
 alebilet.pl-oferta983712506.shop
+alebilet.pl-oferta9922.cfd
 alebilet.pl-ogloszenie697382133.shop
 alebilet.pl-ogloszenie8710931437.cfd
 alebilet.pl-order.lol
@@ -65615,6 +65616,7 @@ allegro.2937473735433.click
 allegro.2992ghohgoho.cam
 allegro.299374322854.click
 allegro.3029g99g.pl
+allegro.30509j56.forum
 allegro.30rids7129.help
 allegro.3298128999h.beer
 allegro.3299g88g2909.pl
@@ -65627,6 +65629,7 @@ allegro.399h8h7.qpon
 allegro.4230102094.study
 allegro.459g98490g948.click
 allegro.4919h454.mom
+allegro.4939h45.forum
 allegro.52300t92g3223.qpon
 allegro.53423199gg88.biz
 allegro.54456665446684.click
@@ -65736,6 +65739,7 @@ allegro.mypg043812.qpon
 allegro.net
 allegro.nolak238121.click
 allegro.o3459539423h.courses
+allegro.oawr71267h59.homes
 allegro.ofe90392.pics
 allegro.ofer93201.club
 allegro.ofert49382120-g4.study
@@ -65813,6 +65817,7 @@ allegro.pl-oferta8920950.click
 allegro.pl-oferta8945637841.shop
 allegro.pl-oferta8947426835289.shop
 allegro.pl-oferta910552.rest
+allegro.pl-oferta9922.cfd
 allegro.pl-ogloszenie-firmowe-84792192.click
 allegro.pl-ogloszenie9347235437.click
 allegro.pl-ogloszenie9783245612.click
@@ -65831,6 +65836,7 @@ allegro.prwa28192039.pl
 allegro.prwa794503.pics
 allegro.prwa7n78459h45.casa
 allegro.prwan37291.pl
+allegro.prwan845b45g.casa
 allegro.prwanmm38899.beer
 allegro.pry437823919.rest
 allegro.pryi40-23gf2.casa
@@ -79099,6 +79105,7 @@ anetwork.ir
 aneurismtrail.click
 aneutronicdata.xyz
 aneutroniclabs.xyz
+anevia.shop
 anewanime.xyz
 anewassets.xyz
 anewcafe.xyz
@@ -109840,6 +109847,7 @@ avantiqai.com
 avantis.live
 avantisvideo.com
 avantmaq.com
+avanttacca.store
 avanttoutdufruit.com
 avantwallpaperdecor.com
 avantyrenovationservice.com
@@ -123978,6 +123986,7 @@ barangiris.xyz
 baranime.xyz
 barankkose.xyz
 baranpatogh.com
+barargiron.store
 barasset.xyz
 barato7vez.xyz
 barattehairpin.qpon
@@ -128744,6 +128753,7 @@ bcash4you.com
 bcasino-pl.click
 bcasino.onl
 bcastcult.com
+bcaui20jwbr.eu.cc
 bcb.game
 bcb3978e4eed.xyz
 bcb678e598ec0e.top
@@ -218403,6 +218413,7 @@ cankdewdererde.com
 cankdewdfef.com
 cankdewdfwed.com
 cankds.com
+cankedisco.store
 cankerclub.xyz
 cankergyokuro.com
 cankerhome.xyz
@@ -276276,6 +276287,7 @@ cloudads-a.akamaihd.net
 cloudads.net
 cloudads.tv
 cloudadvisory.xyz
+cloudaipayment.com
 cloudalert.shop
 cloudandaiservices.com
 cloudanex.com
@@ -297182,6 +297194,7 @@ conspicuousclasp.com
 conspicuousmap.xyz
 conspicuouspad.xyz
 conspicuouswoodland.com
+conspillrators.info
 conspiracyart.xyz
 conspiracyauto.xyz
 conspiracybtc.xyz
@@ -423860,6 +423873,7 @@ enod.info
 enodalmamry.qpon
 enoeibitjrdit.com
 enoilnickerylibers.cfd
+enolia.shop
 enomaniadrive.click
 enonybaddies.com
 enooc.com
@@ -453590,6 +453604,7 @@ fejs-colors.blogspot.com
 fejsopodgladacz.blogspot.com
 fejspodgllaadacz.blogspot.com
 fejspodglladacz.blogspot.com
+fejwigu43j.shop
 fejxrzvnvdvrks.com
 fekeescortadresi.xyz
 fekjj.com
@@ -462134,6 +462149,7 @@ finzavelletrade.com
 finzephyr.xyz
 finzy0-exercitationem52.sbs
 finzy0-occaecati97.sbs
+finzy1-nisi81.sbs
 finzy1-quam30.sbs
 finzy1-voluptas51.sbs
 finzy2-est47.sbs
@@ -462141,6 +462157,8 @@ finzy2-harum81.sbs
 finzy2-provident51.sbs
 finzy3-dolor16.sbs
 finzy3-nisi10.sbs
+finzy4-at69.sbs
+finzy4-eos85.sbs
 finzy4-magnam16.sbs
 finzy4-minima28.sbs
 finzy4-natus63.sbs
@@ -540059,6 +540077,7 @@ greewepi.net
 greewoabaikr.com
 greezeepsujirsi.net
 greezowhuwo.com
+greffindia.store
 grefutiwhe.com
 greg-tut.com
 gregabeaman.com
@@ -600990,6 +601009,7 @@ id8237482374712374123.web.app
 id827435822.shop
 id83g7f362383d235d27dv52.sbs
 id83n7f623gf26f27nf26n32.sbs
+id83n7fdn9263ng97f733e.rest
 id841727.click
 id843827.click
 id8464837627.click
@@ -629315,6 +629335,7 @@ jeremymarkets.com
 jeremymathew.com
 jeremymburton.com
 jeremyroberts8e31.myportfolio.com
+jerfectendut.lovable.app
 jergbfaxt.com
 jergeeglouveep.net
 jergocast.com
@@ -654261,6 +654282,7 @@ kryonixvaltor-shop.pages.dev
 kryonixvaltor.shop
 kryonixvaltortrade.com
 kryostore.store
+krypdexlevel.site
 kryphosion.info
 kryptaxeltrade.com
 kryptex-construct.com
@@ -655153,6 +655175,7 @@ kulqdzhpmvokp.online
 kulroakonsu.net
 kultapaaoma-ai.net
 kultapaaomaai.net
+kultapiste.net
 kultband.at
 kultlxmwepqgi.online
 kulturarvsledersverige.com
@@ -692918,6 +692941,7 @@ m01.services.akeni.co
 m020jp3476.info
 m04s5t.statusbeam.autos
 m0bile.net
+m0bywatel.dane-login-pl.mobile
 m0d4l.com
 m0m6-c00m-4ai-uibi1b-wra03j.pages.dev
 m0mentum.net
@@ -715825,6 +715849,7 @@ mesosanaer.shop
 mesostnova.click
 mesotheliomaconsultations.com
 mesotheliomaspot.com
+mesotimpre.store
 mesoulsignoap.net
 mesquefisiomollet.com
 mesquitepoint.pro
@@ -777174,6 +777199,7 @@ olx.pl-oferta08492721.shop
 olx.pl-oferta543971.cfd
 olx.pl-oferta56734sdy5s7.shop
 olx.pl-oferta692318741.cfd
+olx.pl-oferta9922.cfd
 olx.pl-paycor.club
 olx.pl-paymoney.eu.cc
 olx.pl-skrpay.world
@@ -790855,6 +790881,7 @@ p8p6k.codesandbox.io
 p8rwcq.fit
 p8wwtt.nt.nativetrees.co.uk
 p8ydfra.lvditoys.com
+p8z4qm.lat
 p9-ad-sign.byteimg.com
 p9-ad-sign.byteimg.com.bsgslb.com
 p91249.pro
@@ -810358,6 +810385,7 @@ pitbulltanie.shop
 pitbullwest.club
 pitbullwestcoastmarket.club
 pitbullwestcoastpl.shop
+pitbullzakupy.shop
 pitbullzowna1.ddns.net
 pitch-dating.com
 pitchair.xyz
@@ -810422,6 +810450,7 @@ pitmans.com
 pitofficialfollower.com
 pitomnikgamaun.ru
 pitpet.xyz
+pitpl.top
 pitsensation.com
 pitspor.com
 pittbradford.info
@@ -812541,6 +812570,7 @@ pl0tchisel.ru
 pl199-login.com
 pl2.plsource.eu.cc
 pl2.rove06.com
+pl2.tiyiueo.my.id
 pl24.shop
 pl24.world
 pl24paczka.eu.cc
@@ -812884,6 +812914,7 @@ planeadvancing.com
 planebasin.com
 planemix.xyz
 planemusic.com
+planen-aws.s3.eu-west-1.amazonaws.com
 planequipment.xyz
 planerslubny.0259.click
 planeservices.xyz
@@ -862232,6 +862263,7 @@ ridgebtc.xyz
 ridgecbd.xyz
 ridgeeveryday.com
 ridgefieldcorner.eu
+ridgefundastead-digital.pages.dev
 ridgefundastead.com
 ridgefundastead.digital
 ridgefundasteadai.live
@@ -871436,6 +871468,7 @@ rsxtxfgrowhzm.online
 rsxwx.com
 rsyradsdresrtrs-rrnrs.com
 rsz.sk
+rt-19221.top
 rt-bet-casino.fr
 rt-betcasino.fr
 rt-bets.fr
@@ -973308,6 +973341,7 @@ telewisdom.xyz
 telewolf.com
 teleworkbtc.xyz
 teleworkmanga.xyz
+teleworppked.info
 telewproxx.click
 telewproxx.club
 telewproxx.help
@@ -1027664,6 +1027698,7 @@ veltrixtechnologiessupport.com
 veltrixvectorforge.com
 veltron-axis.live
 veltron-ziskvexon.live
+veltronaxis-click.pages.dev
 veltronaxis.click
 veltronaxis.net
 veltroncipherforge.com
@@ -1033728,6 +1033763,7 @@ vinted-mall.com
 vinted-mise-a-jour-du-compte.fr
 vinted-miseajour.fr
 vinted-order453.com
+vinted-sale337.com
 vinted-technologies.live
 vinted-us.com
 vinted-user.com
@@ -1033772,6 +1033808,7 @@ vinted.7654565.lat
 vinted.76991.help
 vinted.7768453.lat
 vinted.77745274.com
+vinted.8363738.com
 vinted.862580411393.sbs
 vinted.87546451.lat
 vinted.89785437.lat
@@ -1033869,6 +1033906,7 @@ vinted.pl43fhg912.cyou
 vinted.ql92s93z94x.cfd
 vinted.recibarosalosec.sbs
 vinted.rezerwacja374849391.sbs
+vinted.sale-379201.me
 vinted.sale373.help
 vinted.sale826.help
 vinted.sale896.help
@@ -1036741,6 +1036779,7 @@ visionarrests.xyz
 visionarrival.xyz
 visionarrives.xyz
 visionartless.xyz
+visionarwq.lovable.app
 visionary-business-52.com
 visionary-data-intuition.com
 visionary-enterprise-ingenuity.com
@@ -1039444,6 +1039483,7 @@ vlogview.xyz
 vlogwife.xyz
 vloicxuv.addictivetips.com
 vlomy.de
+vlonatirkuntrx.net
 vlondanaru-spain.com
 vlondanaru.net
 vlopkjmlsefwc.site
