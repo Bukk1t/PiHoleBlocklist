@@ -1,8 +1,8 @@
 # PiHoleBlocklist v1.0.0
 # Automatically generated
 # Sources: 3
-# Domains: 856,915
-# Updated: 2026-10-21 23:47:00 UTC
+# Domains: 856,956
+# Updated: 2026-10-22 02:22:59 UTC
 #
 # Do not edit manually.
 
@@ -51444,6 +51444,7 @@ allegro-pl-login.comxa.com
 allegro-pl.viredol.cyou
 allegro-poland.eu.cc
 allegro-reinigung.de
+allegro-sk.shop
 allegro-task.shop
 allegro-ups.e-kei.pl
 allegro.00099uuu.cam
@@ -52109,6 +52110,7 @@ allegrolokalnie.conformation-1894.shop
 allegrolokalnie.conformation-1903.shop
 allegrolokalnie.dk-fk9239gc.sbs
 allegrolokalnie.dk-oferta39176.sbs
+allegrolokalnie.dk-oferta729450.sbs
 allegrolokalnie.dk-oferta79654.sbs
 allegrolokalnie.dk-oferta8294.sbs
 allegrolokalnie.dk-produkt251948.shop
@@ -52604,7 +52606,6 @@ allegrolokalnie.pl-oferta892371.sbs
 allegrolokalnie.pl-oferta8946734178.shop
 allegrolokalnie.pl-oferta8947648914.shop
 allegrolokalnie.pl-oferta895301.sbs
-allegrolokalnie.pl-oferta901986003.icu
 allegrolokalnie.pl-oferta9078476.shop
 allegrolokalnie.pl-oferta910552.rest
 allegrolokalnie.pl-oferta91210629.icu
@@ -52617,6 +52618,7 @@ allegrolokalnie.pl-oferta9262595.click
 allegrolokalnie.pl-oferta9355832.click
 allegrolokalnie.pl-oferta9374164.click
 allegrolokalnie.pl-oferta9385629.click
+allegrolokalnie.pl-oferta96050.shop
 allegrolokalnie.pl-oferta961458.click
 allegrolokalnie.pl-oferta98278.click
 allegrolokalnie.pl-oferta98421.cfd
@@ -70246,6 +70248,7 @@ arditarentovia.live
 arditarentovia.net
 arditoattivenza-ai.com
 arditoattivenza-it.com
+arditoscambiatura.net
 ardlog.com
 ardont.xyz
 ardonwjkao.in
@@ -73825,6 +73828,7 @@ atlantysservice.com
 atlaprason.com
 atlas--schuhe.com
 atlas-3ib.com
+atlas-adv.pages.dev
 atlas-awareness-20261017.click
 atlas-endpoint.data.n8s.jp
 atlas-of-accountability.org
@@ -133763,7 +133767,6 @@ cad.youku.com
 cadaftsuiaorokia.com
 cadailyfrontier.com
 cadamnrid.com
-cadas-atauliza.esy.es
 cadastra14.sslblindado.com
 cadastre-france.fr
 cadastrefrance.fr
@@ -183181,6 +183184,7 @@ communitywife.xyz
 commutofin.com
 commutotrade.com
 comnfl.com
+comnocoai.com
 como-encontrar.com
 como.com
 como.media
@@ -210771,6 +210775,7 @@ cumbregananciosoftware.com
 cumbreluxeron-platform.com
 cumbrenexoris.net
 cumbreprendumbre.net
+cumbrerendorio.com
 cumbretrade.digital
 cumbretradecoresoftware.com
 cumbrevaltrion.live
@@ -224878,6 +224883,7 @@ dbdhnavwbvhep.website
 dbdophuz.icu
 dbdr-wahtsapp.com
 dbe.co.tz
+dbe0f9fd.or-czc.pages.dev
 dbeii.com
 dbengineers.co.uk
 dberthformttete.com
@@ -229125,6 +229131,7 @@ decimationart.xyz
 decimationbtc.xyz
 decimationlaw.xyz
 decimationpay.xyz
+decimmiscl.store
 decimolesora.digital
 decimual.blog
 decipheranime.xyz
@@ -251354,6 +251361,7 @@ dispatchvirginityblueberry.com
 dispatchwrite.xyz
 dispedivis.cyou
 dispedorif.store
+dispefrase.store
 dispeldesign.com
 dispelprograms.com
 dispensarydeals.app
@@ -251848,6 +251856,7 @@ distinguishedparted.com
 distinguishedpincers.com
 distinguishm.com
 distinguishmotor.com
+distinyction.shop
 distitetra.store
 distoolbox.xyz
 distopshot.xyz
@@ -258007,6 +258016,7 @@ domelvia.shop
 domelviro.shop
 domelvix.shop
 domelvona.shop
+domelvoria.shop
 domena2838428.mom
 domendlyapetuxa.cam
 domengame.com
@@ -302623,6 +302633,7 @@ eobuwie-plsnug.shop
 eobuwie-reliance.shop
 eobuwie-shoe.shop
 eobuwie-sneakers.sbs
+eobuwie-sportshoes.shop
 eobuwie.militaria-plcovv.sbs
 eobuwie.outlet-parfym.shop
 eobuwieonline.com
@@ -311861,6 +311872,7 @@ eurostaryurtdisiegitim.net
 eurosteady.xyz
 eurostockholm.xyz
 eurostrike.xyz
+eurostylehub.shop
 eurosubmit.xyz
 eurosydney.xyz
 eurosystem-engine.com
@@ -324682,6 +324694,7 @@ falconsafe.com.sg
 falconscripts.xyz
 falconshuffle.xyz
 falconsparode.net
+falconsstrikecorner.com
 falconstation.xyz
 falcontechnologyservices.com
 falcontrackingservices.info
@@ -331363,6 +331376,7 @@ fenvalorium.net
 fenvggty.shop
 fenvik-de.com
 fenviko.shop
+fenvriko.shop
 fenvura.sbs
 fenwickhouse.eu
 fenxi.com
@@ -339285,18 +339299,24 @@ finstagram.io
 finsubito.org
 finsubitofin.cloud
 finsubitoinfo.net
+finsy1-omnis24.sbs
 finsy1-placeat0.sbs
 finsy2-tempora1.sbs
+finsy2-voluptatem98.sbs
+finsy3-fuga42.sbs
 finsy3-occaecati37.sbs
 finsy3-quod2.sbs
 finsy5-excepturi88.sbs
 finsy5-modi35.sbs
 finsy5-qui5.sbs
 finsy5-voluptatem54.sbs
+finsy5-voluptatum40.sbs
 finsy6-laudantium7.sbs
 finsy6-nisi56.sbs
+finsy7-rerum68.sbs
 finsy9-occaecati55.sbs
 finsy9-totam73.sbs
+finsy9-velit8.sbs
 fintarioso.com
 fintarioso.net
 fintaro.lovable.app
@@ -340534,6 +340554,7 @@ firstwren.click
 firstxv.club
 firstyell.com
 firthairductservices.site
+firthcigne.store
 firthfleece.shop
 firthmarket.eu
 firvmamosigpu.website
@@ -410367,6 +410388,7 @@ heldcasino-dk.best
 heldedtech.xyz
 helden-inc.com
 helder-flowdexsystem.com
+helderbaatendom.net
 helderbitnova-app.com
 helderinvionplatform.com
 helderinviontrade.com
@@ -428099,6 +428121,7 @@ hxtyzhibo-live.com
 hxuaodojgvxbt.website
 hxwppwsqfoysay.net
 hxxtbkbgnxaw.com
+hxyby.com
 hxyeghyjvkqga.site
 hxyx360.com
 hxyzkpzzbzekl.site
@@ -436076,6 +436099,7 @@ inattv1325.xyz
 inattv1326.xyz
 inatv.pl
 inaudiblefrequently.com
+inauglavor.store
 inaugurateglovesapp.com
 inauguratei.com
 inaugurkyro.click
@@ -458355,6 +458379,7 @@ jorttiuyng.com
 jorvanico.com
 jorvantis-winterbrook.click
 jorvelitaq.info
+jorvena.pro
 jorvenaku.com
 jorvenaqulmirex.net
 jorvexa-wildbrook.click
@@ -459068,6 +459093,7 @@ jpslots88.net
 jpsmartinvest.com
 jpsvgrsp.shop
 jpsym.mystic-brews.com
+jptowa.org
 jptxlqkygrhdo.website
 jpucxobly.com
 jpujdlotmzdyw.site
@@ -462505,6 +462531,7 @@ kalverionexaq.info
 kalverix-cloudridge.click
 kalveron-suncrest.click
 kalverunomira.top
+kalvexa.pro
 kalvexi.shop
 kalvexis-cloudridge.click
 kalvexis-winterhaven.click
@@ -470337,6 +470364,7 @@ kruxprofitaru-ro.live
 kruxprofitaru.com
 kruxprofitaru.live
 kruxprofitaru.pro
+kruzmari.shop
 krvmb.shop
 krw.yrehdfer.com
 krwmailsignin.weebly.com
@@ -491009,6 +491037,7 @@ loruni.shop
 lorvakio-gpt.click
 lorvano.pro
 lorvantextradetrade.com
+lorventa.pro
 lorventorassiumtrade.com
 lorventriaxsoft.com
 lorvian.pro
@@ -565865,6 +565894,7 @@ oferta-7845147.cfd
 oferta-7845184.cfd
 oferta-7845211.cfd
 oferta-7951351.cfd
+oferta-79582411.cfd
 oferta-8294030.cfd
 oferta-8473-pl.shop
 oferta-8475411.cfd
@@ -578117,6 +578147,7 @@ orvanto.shop
 orvantsdex.top
 orvaska.vip
 orvedicnsxmpz3.com
+orvelix.pro
 orvellqwa.shop
 orven-logrel.live
 orvendrae.com
@@ -587923,6 +587954,7 @@ parveshsharma.com
 parveto.shop
 parvexia.com
 parviz.ehost.tj
+parvona.pro
 parvpwodk.dermals.org
 parwendotravel.co.zw
 parxcasino.xxx
@@ -602711,6 +602743,7 @@ pl-oferta876171.sbs
 pl-oferta891020.sbs
 pl-oferta892102.sbs
 pl-oferta90122065.cfd
+pl-oferta901986003.icu
 pl-oferta909347.click
 pl-oferta91230669.icu
 pl-oferta912366301.icu
@@ -607643,6 +607676,7 @@ pocketworking.xyz
 pocketworkout.xyz
 pocketwriting.xyz
 pockingmolla.com
+pockmselet.store
 pockoo.de
 pocks-bunias-shoer.space
 poclmuscu.click
@@ -613372,6 +613406,7 @@ potokkursovnik.live
 potomachorse.com
 potomacinstallationservices.com
 potomacsprats.com
+potonaggat.store
 potong-booking.pro
 potongbangkok-booking.pro
 potphx.com
@@ -622944,6 +622979,7 @@ profittikivo.de
 profittikivotrade.com
 profittnode.pro
 profittracking.xyz
+profittrader.net
 profittreasurehub.com
 profitula.ru
 profitventory.com
@@ -644292,7 +644328,6 @@ ravtravox.com
 raw-analytics.desh-api.com
 raw-co.com
 raw.vidyard.com
-rawand.esy.es
 rawandphone122-sys.github.io
 rawaqbeauty.com
 rawassistants.xyz
@@ -678435,7 +678470,6 @@ safetrackshield.com
 safetransfer14.com
 safety-andr-sys.info
 safety-andro1d-n0tice.co
-safety-check-318254.esy.es
 safety-ionos.online
 safety-links.org
 safety-microsoftonline.com
@@ -702256,6 +702290,7 @@ sgrbjfqxkkeud.website
 sgreening.io
 sgrnropdcp.com
 sgropframe.store
+sgrosindra.store
 sgrovgraph.click
 sgrunt.biz
 sgrvice.sbs
@@ -717920,6 +717955,7 @@ sizin-siparisleriniz.com
 sizleristerbizleryapmakmecburiyeti.sbs
 sizmek.com
 sizohia.lovable.app
+sizohia.pro
 sizryblhbofmd.space
 sizwqicteymrh.site
 sizzer.krea-sell.shop
@@ -728157,6 +728193,7 @@ solqerantiqa.com
 solqeravina.top
 solqeront.com
 solrechimneyservices.site
+solrendencia.com
 solrochimneyservices.site
 solscan.dev
 solscanner.io
@@ -743492,6 +743529,7 @@ stagesforget.com
 stagesuccess.wpengine.com
 stagetracking.xyz
 stagetruck.co.za
+stagfundgrove.com
 staggconsultingservices.com
 staggeredactivity.com
 staggeredowner.com
@@ -744643,6 +744681,7 @@ startsso-trezor.wixstudio.com
 startsso-trezriocdn.wixstudio.com
 startsso-trezxr.wixstudio.com
 startstart-whatsapp.com
+startstor.top
 startstrexxo.wixstudio.com
 startsuit-enapp.wixstudio.com
 startsuitapp.wixstudio.com
@@ -750751,6 +750790,7 @@ stract-test-verify.app
 stradi-varius-eur-sales.shop
 stradious.com
 stradivarius-fr.fr
+stradivarius-polska.pl
 stradivariusfr.fr
 stradribus.store
 strady.org.ua
@@ -770094,6 +770134,8 @@ teleguideline.xyz
 telegvgrftb.pet
 telegxxsab.bond
 telegxxsab.click
+telegxxsab.cyou
+telegxxsab.help
 telegxxsab.icu
 telegxxsab.yoga
 telehealthbilling.info
@@ -805256,6 +805298,7 @@ unaccountabggility.info
 unaccountablepie.com
 unacheduu.weebly.com
 unacoh.org
+unacorabba.store
 unactkiosk.com
 unadjppusted.info
 unads.ru
@@ -819627,7 +819670,6 @@ vkb.co.il
 vkb.d3.sc.omtrdc.net
 vkb.tt.omtrdc.net
 vkbejrfom.com
-vkbin.hol.es
 vkbot.zzz.com.ua
 vkbprod.112.2o7.net
 vkbutton.com
@@ -819668,7 +819710,6 @@ vklaelkgewwbt.website
 vklike.com
 vklink.hop.ru
 vkljfmykgnd.com
-vklogcheck.esy.es
 vklyiqzugdwgr.online
 vklzhsplergwb.site
 vkmaxxservices.com
