@@ -1,8 +1,8 @@
 # PiHoleBlocklist v1.0.0
 # Automatically generated
 # Sources: 3
-# Domains: 793,531
-# Updated: 2026-10-23 23:38:58 UTC
+# Domains: 793,540
+# Updated: 2026-10-24 02:26:27 UTC
 #
 # Do not edit manually.
 
@@ -44508,6 +44508,7 @@ agriandindusupply.com
 agrianode.click
 agriaonethe.com
 agriasdustingmobile.qpon
+agriban-money.com
 agribank.info
 agribanks.link
 agribanks3.asia
@@ -295507,26 +295508,25 @@ finsubito.org
 finsubitofin.cloud
 finsubitoinfo.net
 finsy0-dolor21.cyou
-finsy0-dolores72.cfd
+finsy0-itaque3.cfd
 finsy0-iusto65.cyou
 finsy1-accusamus71.sbs
+finsy1-delectus4.cfd
+finsy1-mollitia52.cfd
 finsy1-sit10.cyou
 finsy1-sunt86.cyou
-finsy1-velit5.cfd
 finsy2-quisquam6.cyou
 finsy3-error10.cyou
+finsy3-in32.cfd
 finsy3-quia61.cyou
-finsy4-impedit28.cfd
 finsy5-est82.cyou
 finsy5-perferendis72.cyou
-finsy6-dolor91.cfd
 finsy7-inventore63.cyou
 finsy7-omnis36.cyou
 finsy7-ullam43.cyou
-finsy7-ut57.cfd
+finsy8-aut66.cfd
 finsy8-non61.cyou
 finsy8-qui74.cyou
-finsy8-quidem12.cfd
 fintarioso.com
 fintarioso.net
 fintaro.lovable.app
@@ -362709,6 +362709,7 @@ in8g.covid19-testung.net
 ina.am
 inaastrumentationslamperses.info
 inaba-ciao.pl
+inabiletota.store
 inablemoas.shop
 inabv.weebly.com
 inaceindis.click
@@ -384806,6 +384807,7 @@ kcbwifgbxzubj.site
 kcbycsngsb.shop
 kcbzxyxpbifjw.website
 kccec.com.kw
+kccnowingnesses.info
 kcdejvelug.com
 kcdiizzz.com
 kcdk97m-c02m.vercel.app
@@ -473430,6 +473432,7 @@ news262media.com
 news27links.com
 news315.shop
 news365.com.co
+news375.shop
 news3dprinter.xyz
 news40.shop
 news7-days-info.org
@@ -511647,6 +511650,7 @@ pastryhand.com
 pastsolutions.xyz
 pasttable.com
 pasttechnology.xyz
+pastuimpaz.store
 pastureassets.xyz
 pasturebeacon.xyz
 pasturedesign.xyz
@@ -567293,6 +567297,7 @@ ranna-service.com
 rannah.ae
 rannat.varusteleka.com
 rannedisco.rest
+ranninproofed.info
 rannyasbeauty.com
 ranoairductservices.site
 ranqueltously.shop
@@ -592020,6 +592025,7 @@ roblefondorio.net
 robleinverencia.com
 robleinvero.com
 roblepatrimivo.com
+roblevalorio.com
 roblhox.com
 robllox.ru.com
 robllox.shop
@@ -696341,6 +696347,7 @@ teleyobser.luxe
 teleyobser.shop
 teleyoungp.beer
 teleyoungp.bond
+teleyoungp.click
 teleyoungp.cyou
 teleyoungp.help
 teleyoutho.click
@@ -780982,6 +780989,7 @@ yanjiaoo2o.com
 yanjiapi.antutu.net
 yanjushop.com
 yankdeveloper.xyz
+yankebivac.store
 yankee-candle.shop
 yankeecandleoutlet.shop
 yankeecandleshop.shop
@@ -786982,6 +786990,7 @@ zapostille.africa
 zapotezincky.com
 zapp.brox.lat
 zapp888-bet.com
+zappka.playtop.bar
 zapreal.com
 zapret-discord-youtube.com
 zaprojektujiwybuduj.pl
