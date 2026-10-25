@@ -1,8 +1,8 @@
 # PiHoleBlocklist v1.0.0
 # Automatically generated
 # Sources: 3
-# Domains: 734,097
-# Updated: 2026-10-24 22:47:00 UTC
+# Domains: 734,122
+# Updated: 2026-10-25 02:13:26 UTC
 #
 # Do not edit manually.
 
@@ -51433,6 +51433,7 @@ allegro.dk8xyf28ma72.cyou
 allegro.dk928zs524.cyou
 allegro.dl93zxw56.cyou
 allegro.dp-oferta8391.mom
+allegro.dpk-oferta83.top
 allegro.driz84320301.courses
 allegro.ds837-kpz420mks.cyou
 allegro.eb848321230h5.forum
@@ -51646,9 +51647,11 @@ allegro.pl-ogloszenie9347235437.click
 allegro.pl-ogloszenie9783245612.click
 allegro.pl-ogloszenie985498231.click
 allegro.pl-ogloszezenei12891910.shop
+allegro.pl-pr0dutky8178361833.sbs
 allegro.pl-ssid38019.click
 allegro.pl-ssid38673.click
 allegro.pl-y34t63.click
+allegro.pl-zakupy811.top
 allegro.pl.showitems.it
 allegro.pl124314453.click
 allegro.pl209381232jx2317vzx-218713.shop
@@ -51976,6 +51979,7 @@ allegrolokalnie.dl93zxw56.cyou
 allegrolokalnie.dn-produkt943943943.shop
 allegrolokalnie.dostw-133.shop
 allegrolokalnie.dp-oferta8391.mom
+allegrolokalnie.dpk-oferta83.top
 allegrolokalnie.ds837-kpz420mks.cyou
 allegrolokalnie.e-zamowienia.sbs
 allegrolokalnie.eu-page-number-291233-super.shop
@@ -52580,10 +52584,12 @@ allegrolokalnie.pl-ogloszenie9347235437.click
 allegrolokalnie.pl-ogloszenie9384323147.click
 allegrolokalnie.pl-ogloszenie9783245612.click
 allegrolokalnie.pl-ogloszezenei12891910.shop
+allegrolokalnie.pl-pr0dutky8178361833.sbs
 allegrolokalnie.pl-s23b2af.sbs
 allegrolokalnie.pl-smart24.pl
 allegrolokalnie.pl-ssid38019.click
 allegrolokalnie.pl-ssid38673.click
+allegrolokalnie.pl-zakupy811.top
 allegrolokalnie.pl01.club
 allegrolokalnie.pl01.me
 allegrolokalnie.pl01.pro
@@ -65829,6 +65835,7 @@ andes-rendivo-spain.com
 andescapitalgpt-app-digital.pages.dev
 andescapitalgpt-app.digital
 andescapitalgpt-digital.pages.dev
+andescapitalgpt.digital
 andesrendivo.net
 andevaro.net
 andex.vercel.app
@@ -145715,6 +145722,8 @@ btailll.plutio.com
 btaireiaxqjgf.com
 btanas.shop
 btanasa.shop
+btanasp.shop
+btanast.shop
 btandeemobile.plutio.com
 btansa.shop
 btansi.shop
@@ -153297,6 +153306,7 @@ caltexpoint.com
 calthapartners.com
 caltrappeacheslola.qpon
 caltravmenio.pro
+calumaset.store
 calumniousgroup.xyz
 calumnybedadequate.com
 calumnylightlyspider.com
@@ -203231,6 +203241,7 @@ cryptogamescasino.fr
 cryptogametools.com
 cryptogamingcasino.fr
 cryptogarage.co.jp
+cryptogene21.digital
 cryptogene21.live
 cryptogene21trade.com
 cryptogenisussoftware.pro
@@ -214681,6 +214692,7 @@ deichmannoutletscz.shop
 deichmannoutletsro.shop
 deichmannplonline.shop
 deichmannsale.shop
+deichmannsales.shop
 deichmannsell.top
 deichmannshoe.com
 deichmannviphu.shop
@@ -227239,6 +227251,7 @@ drogen-kaufen.com
 drogerienatura-off.com
 drogerienatura-pl-sale.sbs
 drogerienatura.onlines-sales.shop
+drogerienatura.sportvision-bgmccc.sbs
 drogerienatura.trendkq.com
 drogerienaturasale.shop
 droghvadutsov.space
@@ -232581,6 +232594,7 @@ econidspzae.com
 econnect.37348c5b946467daf024dd617616d6ed968023b3.com
 econnect.bff0cfdfc3d893fc4c14affb538d23544b90541d.com
 econnfeminist.info
+econofelwo.store
 econom.co
 economia-gob.weebly.com
 economic-poet-b50.notion.site
@@ -235562,6 +235576,7 @@ elihucyprus.com
 eliittikumppani.fi
 elijahpies.com.sg
 elimbra.weebly.com
+elimiaanative.info
 eliminalti.com
 eliminateconfirmationfunctions.com
 eliminatecorona.com
@@ -262959,6 +262974,7 @@ formalswingsubquery.com
 formalyzer.com
 formanacupuncture.com
 formanentsyshru.org
+formanntionbeady.info
 formassmat.fr
 formastuadio.shop
 format-office.ru
@@ -304873,6 +304889,7 @@ homla-poland.shop
 homla-sale.com
 homla-sale.shop
 homla-stock.shop
+homla-tanie.shop
 homla.fit
 homla.lat
 homla.mom
@@ -314935,6 +314952,7 @@ impishglove.com
 impit.tradedouble.com
 impit.tradedoubler.com
 impivvshness.info
+impkkregnatingboogiemen.info
 implacablejuicedraft.com
 implamarkt.com
 implantexpertsindia.com
@@ -316207,6 +316225,7 @@ indulinrayful.com
 induraservices.com
 indus.iad-01.braze.com
 induscapitalplatform.live
+induscapitalplatform.pro
 indushandicrafts.com
 indusial.com
 industelecomtowergroup.com
@@ -316613,7 +316632,6 @@ info-france-economie.com
 info-gewinnspielregeln.com
 info-grand-est.fr
 info-hacienda-gov.weebly.com
-info-help.hol.es
 info-home.de
 info-ine-mx.weebly.com
 info-instruction.com
@@ -402181,7 +402199,6 @@ muktarambital.shop
 muktoprohacked-del.github.io
 mukundrasarovarpremiere.com
 mukunth.com
-mulaibaru.hol.es
 mulate.eu
 mulautuzign.com
 mulberrycontrolforming.com
@@ -428699,6 +428716,7 @@ odysseyoutlook.xyz
 odyvcahzbdmlx.website
 odzcmuoq.in
 odzfjvbsd.com
+odzienie.sbs
 odziez.sbs
 odziiez.sbs
 odzyskajsnapy.blogspot.com
@@ -428934,6 +428952,7 @@ oferta-7413341.cfd
 oferta-7418523.cfd
 oferta-7418674.cfd
 oferta-7419511.cfd
+oferta-7463851.cfd
 oferta-7485214.cfd
 oferta-7485971.cfd
 oferta-7496524.cfd
@@ -452565,6 +452584,7 @@ patilericin.com
 patimera.net
 patinaesarcina.com
 patinahearts.xyz
+patinbolin.store
 patinhodomal.duckdns.org
 patio-furniture.dreamhoster.com
 patiobydesign.com
@@ -460863,6 +460883,7 @@ phillydom.com
 phillyjetservice.com
 phillysportsupdate.com
 philmawallet.com
+philoacciu.store
 philodetur.store
 philoro-de.to
 philoro.online
@@ -507553,6 +507574,7 @@ ravexa.pages.dev
 ravexokedlin.net
 ravexundi.pro
 ravilixiosoftware.com
+ravilizia-digital.pages.dev
 ravilizia.digital
 raviliziatrade.com
 ravin-hbs.com
@@ -542849,7 +542871,6 @@ sakinaneshahrequaid.org
 sakinatours.com
 sakinmutfak.com
 sakitabi.blog
-sakitsakitan.hol.es
 sakizhanciftligi.com
 saklakgroup.com
 sakncwtbggxik.site
@@ -564505,6 +564526,7 @@ sesimates42404.vercel.app
 sesionolinenmsn.iceiy.com
 sesisurom.com
 sesja-81.web.id
+sesja-8u6w-ipkobiznes.pl-wladze.net
 sesja-9p9m-ipkobiznes.pl-wladze.net
 sesja-v-519204.eu.cc
 sesja-v-840291.eu.cc
@@ -587355,7 +587377,6 @@ smsafelink.com
 smsapiens.com
 smsbomber.cc
 smsbusinesshelpdesk.com
-smscaixaacesso.hol.es
 smscentro.com
 smsdate.com
 smsecure.net
@@ -592908,6 +592929,7 @@ sottecenav.store
 sottocity.com
 sottocity.digital
 sottoimpaz.store
+sottomormo.store
 sotudue.com
 sotunet.com
 sotyaw.com
@@ -623370,6 +623392,7 @@ sunyelec.com
 sunyotech.com
 sunytonpromotions.net
 suo.unleeds.com
+suoladisca.store
 suolbcutqqzpj.space
 suomikasinot.fi
 sup-port.netne.net
@@ -670292,6 +670315,7 @@ ubqeoa.com
 ubqnvqrjaxlso.space
 ubqszwafhftgm.website
 ubracing.co.uk
+ubrania.sbs
 ubrauliocarrillo.com
 ubrgtjfyeskls.website
 ubrikvideo.com
@@ -713175,6 +713199,7 @@ ww0.us
 ww0javip.shop
 ww0z5.felcxxiop.click
 ww1-bradconetempresa-ne2.web.app
+ww1-ipkopl.designlocalga.com
 ww1-secur-poczta-polska.dutamengineering.com
 ww1-secur-poczta-polska.interchangetharuea.com
 ww1-secur-poczta-polska.pokkyvan.com
