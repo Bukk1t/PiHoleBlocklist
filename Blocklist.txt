@@ -1,8 +1,8 @@
 # PiHoleBlocklist v1.0.0
 # Automatically generated
 # Sources: 3
-# Domains: 733,615
-# Updated: 2026-10-25 20:19:30 UTC
+# Domains: 733,649
+# Updated: 2026-10-25 22:54:28 UTC
 #
 # Do not edit manually.
 
@@ -51361,10 +51361,13 @@ allegro.ifeo238h6j7k-0f3.forum
 allegro.ifert32471291h5.beer
 allegro.ifert934121gg4.casa
 allegro.ifeu723182.pl
+allegro.ij37f649jg376fhf93g63.rest
 allegro.jesienne-oferty-87361.cfd
+allegro.jesienne-oferty-95834.cfd
 allegro.jesienne-oferty84194.cfd
 allegro.jesienne-okazje-84738.cfd
 allegro.jmm5693.qpon
+allegro.kup-ofeta672934.lol
 allegro.kup-teraz-88050108.lol
 allegro.kup-teraz9362532.lol
 allegro.kupteraz781671.pl
@@ -51859,8 +51862,10 @@ allegrolokalnie.id83n92fb86f32n9f238.sbs
 allegrolokalnie.id93782346383253.rest
 allegrolokalnie.if87g479jd32g67f48h4f6.rest
 allegrolokalnie.ij0943ji9rjom32.shop
+allegrolokalnie.ij37f649jg376fhf93g63.rest
 allegrolokalnie.j5j409ji4n3io.shop
 allegrolokalnie.jesienne-oferty-87361.cfd
+allegrolokalnie.jesienne-oferty-95834.cfd
 allegrolokalnie.jesienne-oferty84194.cfd
 allegrolokalnie.jesienne-okazje-84738.cfd
 allegrolokalnie.jvdfjao32kd.rest
@@ -51868,6 +51873,7 @@ allegrolokalnie.kategoria7491264728414.shop
 allegrolokalnie.kategorie-inne-23423423.rest
 allegrolokalnie.kategorie-promowane-332662.shop
 allegrolokalnie.kategorie-rozne-85484853x.rest
+allegrolokalnie.kup-ofeta672934.lol
 allegrolokalnie.kup-teraz-144654.com
 allegrolokalnie.kup-teraz-209763.pl
 allegrolokalnie.kup-teraz-323033.com
@@ -51943,6 +51949,7 @@ allegrolokalnie.nr-82sbn2x.sbs
 allegrolokalnie.nr-8j2-sm3-d8b.sbs
 allegrolokalnie.nr-h2n-8sn4-sn23.sbs
 allegrolokalnie.nr-n82-ms3-934-t2m.sbs
+allegrolokalnie.ochronaolx274839399012.shop
 allegrolokalnie.ods-c948y7576.rest
 allegrolokalnie.ofera-111021a.top
 allegrolokalnie.ofera-99932xd.top
@@ -52256,6 +52263,7 @@ allegrolokalnie.pl-oferta186524.click
 allegrolokalnie.pl-oferta1866815.click
 allegrolokalnie.pl-oferta18929821.shop
 allegrolokalnie.pl-oferta205937294937374zvxips2048295.shop
+allegrolokalnie.pl-oferta214211.cfd
 allegrolokalnie.pl-oferta2172189.click
 allegrolokalnie.pl-oferta219279.shop
 allegrolokalnie.pl-oferta2192971.click
@@ -52305,6 +52313,7 @@ allegrolokalnie.pl-oferta5608742.click
 allegrolokalnie.pl-oferta5631012.click
 allegrolokalnie.pl-oferta564879.lol
 allegrolokalnie.pl-oferta56505156.shop
+allegrolokalnie.pl-oferta56531453.click
 allegrolokalnie.pl-oferta5676664.shop
 allegrolokalnie.pl-oferta571867.click
 allegrolokalnie.pl-oferta5733315.shop
@@ -52335,6 +52344,7 @@ allegrolokalnie.pl-oferta73828482.shop
 allegrolokalnie.pl-oferta742831.com
 allegrolokalnie.pl-oferta742912.sbs
 allegrolokalnie.pl-oferta7471978.shop
+allegrolokalnie.pl-oferta74858484.sbs
 allegrolokalnie.pl-oferta7492631.click
 allegrolokalnie.pl-oferta7573649.click
 allegrolokalnie.pl-oferta767322.click
@@ -52380,6 +52390,7 @@ allegrolokalnie.pl-oferta9374164.click
 allegrolokalnie.pl-oferta9385629.click
 allegrolokalnie.pl-oferta941201.sbs
 allegrolokalnie.pl-oferta96050.shop
+allegrolokalnie.pl-oferta9605053.shop
 allegrolokalnie.pl-oferta961458.click
 allegrolokalnie.pl-oferta9785455432423.sbs
 allegrolokalnie.pl-oferta981201.sbs
@@ -52433,6 +52444,7 @@ allegrolokalnie.pl-ogloszenie9783245612.click
 allegrolokalnie.pl-ogloszezenei12891910.shop
 allegrolokalnie.pl-pr0dutky8178361833.sbs
 allegrolokalnie.pl-s23b2af.sbs
+allegrolokalnie.pl-smart2344332234.lol
 allegrolokalnie.pl-smart24.pl
 allegrolokalnie.pl-ssid38019.click
 allegrolokalnie.pl-ssid38673.click
@@ -52462,6 +52474,7 @@ allegrolokalnie.pl655383454.click
 allegrolokalnie.pl667834924.click
 allegrolokalnie.pl6869rezerwacja8890.sbs
 allegrolokalnie.pl742181576.eu.cc
+allegrolokalnie.pl7483412345223sd23.shop
 allegrolokalnie.pl78043.pro
 allegrolokalnie.pl83232.top
 allegrolokalnie.pl89075421.eu.cc
@@ -162349,6 +162362,7 @@ causalbandwidth.xyz
 causaldeveloper.xyz
 causaledger.com
 causalgenerator.xyz
+causalgicnoqqnstrategic.info
 causalimmersion.xyz
 causalmetaverse.xyz
 causalservices.xyz
@@ -221062,6 +221076,7 @@ disfigured-great.pro
 disfiguredcomment.com
 disfiguredcommon.com
 disfiguredrow.com
+disfosgove.store
 disfracespartytime.com.ar
 disfunzioneerettileitaly.com
 disgiprete.click
@@ -225985,6 +226000,7 @@ dracula-casino-sweden.com
 dracula-casino.pro
 draculacabs.info
 draculafr.fr
+dracunyyculiases.info
 dradaeze.com
 dradaniellerocha.com.br
 draddywe.firebaseapp.com
@@ -258041,6 +258057,12 @@ finlockmase.net
 finlockridge.pro
 finlorepex-app.com
 finlure-portfolio.com
+finly0-quis44.cfd
+finly2-autem56.cfd
+finly2-beatae54.cfd
+finly3-dolores59.cfd
+finly7-autem54.cfd
+finly8-ut17.cfd
 finlyrexplatform.com
 finmanage-digital.pages.dev
 finmanage.digital
@@ -258230,9 +258252,9 @@ finsy6-ut82.cfd
 finsy7-provident99.cfd
 finsy8-aut66.cfd
 finsy8-deleniti35.sbs
+finsy8-inventore36.cfd
 finsy8-provident5.cfd
 finsy8-sunt50.cfd
-finsy9-nisi66.cfd
 finsy9-vitae40.cfd
 fintarioso.com
 fintarioso.net
@@ -258570,6 +258592,7 @@ firingservices.xyz
 firixslotcasino.fr
 firkernasion.qpon
 firkinsexplat.cyou
+firkoostenotherms.info
 firlotphorid.com
 firm-glue.com
 firm-mortar.com
@@ -268237,6 +268260,7 @@ frippettegmina.com
 frisch-versand.de
 frischehaut.com
 frischundklar.de
+frisco-pl.shop
 frisco-sprzedanie.sbs
 frisco-sprzedanie.shop
 frisco.littleshoes.shop
@@ -428606,6 +428630,7 @@ oferta-589365837.cfd
 oferta-65937802.cfd
 oferta-6621385.cfd
 oferta-709941.sbs
+oferta-7211795.cfd
 oferta-7241851.cfd
 oferta-7357211.cfd
 oferta-7418523.cfd
@@ -469602,6 +469627,7 @@ plussimulator.xyz
 plussizedresses.co
 plussizetech.com.102.122.2o7.net
 plussizewomensclothingoutlet.top
+plusstable47.top
 plustrade.io
 plusungratefulinstruction.com
 plusvideogame.xyz
@@ -478163,6 +478189,7 @@ preetikumar492376.github.io
 preexemptsbroadswppord.info
 prefabplat.com
 prefacewhicheverbullet.com
+prefadiphy.store
 prefecture-bobigny.fr
 prefecture-laon.fr
 prefecture-melun.fr
@@ -564105,7 +564132,13 @@ sesi.eyewish.com
 sesimates42404.vercel.app
 sesionolinenmsn.iceiy.com
 sesisurom.com
+sesja-0k6s-pkobiznes.rzad-pl.com
+sesja-0o5c-pkobiznes.rzad-pl.com
+sesja-1j7v-pkobiznes.rzad-pl.com
+sesja-5j8g-pkobiznes.rzad-pl.com
+sesja-5n9n-pkobiznes.rzad-pl.com
 sesja-81.web.id
+sesja-8q0a-pkobiznes.rzad-pl.com
 sesja-v-519204.eu.cc
 sesja-v-840291.eu.cc
 seskoal7rbe.ddns.net
@@ -712665,6 +712698,7 @@ ww0z5.felcxxiop.click
 ww1-bradconetempresa-ne2.web.app
 ww1-ipkopl.designlocalga.com
 ww1-ipkoplinfo.bestvaletparkservice.de
+ww1-ipkoplinfo.earthly-essential-bracelets.com
 ww1-secur-poczta-polska.dutamengineering.com
 ww1-secur-poczta-polska.interchangetharuea.com
 ww1-secur-poczta-polska.pokkyvan.com
