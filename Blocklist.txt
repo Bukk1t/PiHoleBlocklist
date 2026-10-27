@@ -1,8 +1,8 @@
 # PiHoleBlocklist v1.0.0
 # Automatically generated
 # Sources: 3
-# Domains: 606,188
-# Updated: 2026-10-27 02:50:09 UTC
+# Domains: 606,219
+# Updated: 2026-10-27 08:28:43 UTC
 #
 # Do not edit manually.
 
@@ -22589,6 +22589,7 @@ accademianazionalevirgiliana.org
 accaii.com
 accamesten.store
 accanalyze.com
+accanfissi.store
 accapps-trexorcdn.wixstudio.com
 accaquickpass.academy
 accarda.com
@@ -26059,7 +26060,6 @@ ad.ibotomo.com
 ad.ica.dog
 ad.icheck.com.vn
 ad.ie.doubleclick.net
-ad.ifrance.com
 ad.igdjvlox.cc
 ad.iinfo.cz
 ad.il.doubleclick.net
@@ -41765,6 +41765,7 @@ akrwi.cn
 akrwjeip.shop
 akrxfobddpgzo.space
 aksakal.info
+aksamitnanuta.site
 aksao.com
 aksapparels.com
 aksaraforkids.com
@@ -44455,6 +44456,7 @@ alladultproducts.com
 alladvantage.com
 allaironchan.com
 allamericanbloginc.com
+allamimbru.store
 allamlater.store
 allan-boodhun.com
 allanassistants.xyz
@@ -75643,6 +75645,7 @@ atlassolutions.com
 atlastankservices.com
 atlastranslator.xyz
 atlastwo.com
+atlasvalue.shop
 atlasxi.com
 atlbbqfest.com
 atlcourier.com
@@ -124677,6 +124680,7 @@ bombay.com.ar
 bombayambulanceservice.com
 bombazo-live.com
 bombconsultants.xyz
+bombeaggue.store
 bombengineering.xyz
 bomberfield.com
 bomberimmersion.xyz
@@ -184431,6 +184435,7 @@ continental.poker
 continentalapex.xyz
 continentalauto.xyz
 continentalcafe.xyz
+continentalcart.shop
 continentalchat.xyz
 continentalchoice.shop
 continentalclub.xyz
@@ -187274,6 +187279,7 @@ counting.kmindex.ru
 counting4free.com
 countingledger.xyz
 countingmainly.com
+countingra.store
 countino.de
 countinstitute.com
 countit.ch
@@ -209773,6 +209779,7 @@ discasino777.fr
 discauth.pro
 discauth3.app
 discauth3.com
+discaviere.store
 disccglobal.112.2o7.net
 disccord.gg
 disccrd.com
@@ -213342,6 +213349,7 @@ domivellum.org
 domivexa.net
 domivo.sbs
 domkaloria.shop
+domkalviro.shop
 domkinawyspie.nspace.pl
 domkireva.shop
 domkrat.com
@@ -242600,6 +242608,7 @@ fastgolbalserver.com
 fastgroveservices.com
 fastgull.io
 fasthourcrypto.com
+fasthublab33.top
 fastidealab.digital
 fastidious-tanuki-1d7a77.netlify.app
 fastidiousenvoy.com
@@ -244408,6 +244417,7 @@ fenravo.cfd
 fenrirmidiron.qpon
 fensetv.xyz
 fenshaolu.com.cn
+fenstanton-ai.com
 fensterbank-express.com
 fensterundtuer.com
 fentent.stre4mplay.one
@@ -247456,7 +247466,6 @@ finlure-portfolio.com
 finly0-ducimus96.cfd
 finly0-fugiat59.cfd
 finly0-quas55.cfd
-finly1-est66.cfd
 finly1-sit25.cfd
 finly2-et81.cfd
 finly2-voluptate74.cfd
@@ -247465,7 +247474,6 @@ finly3-eum70.cfd
 finly3-neque33.cfd
 finly3-repudiandae48.cfd
 finly3-vero74.cfd
-finly4-omnis60.cfd
 finly4-perferendis64.cfd
 finly4-possimus6.cfd
 finly5-vero29.cfd
@@ -258781,6 +258789,7 @@ frioaislantes.com
 frioencwksyur.website
 friont.xyz
 frippettegmina.com
+frirolioa.businesssyncrix.de
 frisch-versand.de
 frischehaut.com
 frischer-wind-rostock.info
@@ -300340,6 +300349,7 @@ ignis.kicker.de
 ignita.xyz
 ignite-spark.digital
 igniteflameservices.com
+ignitegardenpath.xyz
 igniteinternationalschool.com
 igniterads.com
 ignitewebs02.com
@@ -307276,6 +307286,7 @@ inteldrv64.com
 inteledirect.com
 intelegantinsights.cloud
 intelerymaxpro.de
+intelfootr.store
 intelglobal.112.2o7.net
 intelibroker.com
 inteligencia-artificial.live
@@ -323803,6 +323814,7 @@ killtarget.com
 killtarget.pro
 killtheradiostats.nfshost.com
 killuua.ddns.net
+kilmersdon.net
 kiln-gloix-kus3e.pro
 kiln-heron.s3.us-east-1.amazonaws.com
 kilnensemble.org
@@ -327607,6 +327619,7 @@ krossbike.shop
 krostox.com
 kroter.com
 krovdan.shop
+krovdex.shop
 kroveni.shop
 kroventald.shop
 krowkareklamowa.pl
@@ -329775,6 +329788,7 @@ labsmini.digital
 labsmoonprim.top
 labsnew.company
 labsolutheatre.com
+labspark65.top
 labspointwarm.digital
 labspower11.info
 labspowermax.digital
@@ -363889,6 +363903,7 @@ mibi.xiaomi.com
 mibohei.pro
 mibowi-sayifi.info
 mibqyyo.com
+mibrel.shop
 mica-cryptoasset.com
 mica-europa.org
 mica-forensic.com
@@ -382026,6 +382041,7 @@ newslouds.com
 newsma.ru
 newsmania.co.in
 newsmartclear.digital
+newsmarts73.top
 newsmavens.com
 newsmaxfeednetwork.com
 newsmegastop.top
@@ -402303,6 +402319,7 @@ oveffrstimulations.info
 ovekrdngtazex.space
 ovementxview.com
 ovenbifaces.cam
+ovendev.com
 ovenfulrethink.com
 oventerrifying.com
 oventix.pro
@@ -407808,6 +407825,7 @@ paypay-card.lmljujl.cn
 paypay-pl.eu.cc
 paypayfleamarket-verify.cfd
 paypayinsurance.cn
+paypaywisp.com
 payperpost.com
 paypie.net
 paypip.fr
@@ -413866,6 +413884,7 @@ pitofficialfollower.com
 pitpl.top
 pitsensation.com
 pitspor.com
+pittaapert.store
 pittbradford.info
 pittedshends.cfd
 pittitezazens.com
@@ -415326,6 +415345,7 @@ pl-oferta9186923.icu
 pl-oferta93625279.shop
 pl-oferta941060.sbs
 pl-oferta96050.shop
+pl-oferta963287151.cfd
 pl-oferta9785455432423.sbs
 pl-oferta9785455632423.sbs
 pl-oferta985781.cfd
@@ -447202,6 +447222,7 @@ rides-24.com
 ridesprint.com
 ridesreasoning.xyz
 ridestore.ru
+ridetavifa.store
 ridetexi.com
 ridethecape.co.za
 ridevsgonn.store
@@ -459593,6 +459614,7 @@ scafabobfl.store
 scafer.ru
 scaffoldingspeaks.com
 scaffolds.forpreviewonly.com
+scaffricom.store
 scagsdamlike.cyou
 scaker.com
 scakuvap.com
@@ -460850,6 +460872,7 @@ scrible.click
 scribus.fr
 scribus.it
 scrichit.org
+scrimoverc.store
 scrimsbruiser.cfd
 scrimshaw-quillon.shop
 scrimshinoid.com
@@ -494248,6 +494271,7 @@ stablevault.digital
 stablevaultix.pro
 stablevig.live
 stablewarmbr.top
+stableway16.top
 stablewindlite.digital
 stablex.shop
 stabsrunner.com
@@ -517468,6 +517492,7 @@ teleroxoyc.club
 teleroxroc.beer
 teleroxroc.help
 teleroxroc.luxe
+teleroxroc.shop
 teleroxvib.club
 teleroxvib.help
 teleroxxos.click
@@ -517714,6 +517739,7 @@ telexsluic.luxe
 telexsmock.club
 telexsslog.beer
 telexsslog.luxe
+telexsxher.yoga
 telextxsre.click
 telexxenia.yoga
 telexxselo.help
@@ -532963,6 +532989,7 @@ towerinstallation.info
 towerinstallationservice.com
 towerinstallationservices.com
 towerloftier.com
+towernet.org
 towerpeakdealpartners.com
 towerpubic.cyou
 towerreasoning.xyz
@@ -533684,6 +533711,7 @@ tra-srt09923.web.app
 traaadedwolfer.info
 trabajaenred.com
 trabajoenrestauracion.cat
+trabasborb.store
 trabo-garten.de
 trabro.com
 trabzonbungalow.com
@@ -564543,6 +564571,7 @@ viracure.com
 viradisazo.qpon
 viraeye.site
 viraghagymafesztival.hu
+viragi.us
 viragispark.site
 virakapitex.com
 virakescope.site
@@ -578195,6 +578224,7 @@ wefezokroukr.net
 wefinex.net
 wefinex.tv
 wefix-cash.com
+wefixfeet.org
 wefixneckpain.com
 wefixtechnicalservicellc.site
 wefj.weebly.com
@@ -584678,6 +584708,7 @@ wnetravax.shop
 wnetravelo.shop
 wnetravexa.shop
 wnetravia.shop
+wnetraviko.shop
 wnetravino.shop
 wnetravio.shop
 wnetraviso.shop
