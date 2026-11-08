@@ -1,8 +1,8 @@
 # PiHoleBlocklist v1.0.0
 # Automatically generated
 # Sources: 3
-# Domains: 565,014
-# Updated: 2026-11-08 12:24:37 UTC
+# Domains: 565,064
+# Updated: 2026-11-08 19:14:06 UTC
 #
 # Do not edit manually.
 
@@ -48063,6 +48063,7 @@ allegro.oferta986124pl.click
 allegro.offer09255915.shop
 allegro.offer8259012.shop
 allegro.offer8692056.shop
+allegro.offer982995091.shop
 allegro.ogloszenie598433543-pl.click
 allegro.or812899h.pics
 allegro.ororo29955.pl
@@ -48389,6 +48390,7 @@ allegrolokalnie.kup-teraz-978143.pl
 allegrolokalnie.kup-teraz51672pl.click
 allegrolokalnie.kupteraz.rest
 allegrolokalnie.kupteraz3915082986.click
+allegrolokalnie.kz492-301.lat
 allegrolokalnie.kzp-439248.rest
 allegrolokalnie.kzulbt3950165.shop
 allegrolokalnie.l23arg45el4.click
@@ -48435,6 +48437,7 @@ allegrolokalnie.nr-28384ms3.sbs
 allegrolokalnie.nr-2839sm3s.sbs
 allegrolokalnie.nr-28sn2387m.sbs
 allegrolokalnie.nr-28sn2983.sbs
+allegrolokalnie.nr-7483298349242.sbs
 allegrolokalnie.ofert-250978-2026.sbs
 allegrolokalnie.oferta-21938-pl.click
 allegrolokalnie.oferta-28458091-pl.click
@@ -48817,6 +48820,9 @@ allegrolokalnie.pl01.me
 allegrolokalnie.pl01.pro
 allegrolokalnie.pl0103710.click
 allegrolokalnie.pl052636388.cfd
+allegrolokalnie.pl153247857.sbs
+allegrolokalnie.pl194.sbs
+allegrolokalnie.pl217912381-id.cfd
 allegrolokalnie.pl23421.shop
 allegrolokalnie.pl3.top
 allegrolokalnie.pl34223452dsf231.sbs
@@ -68462,6 +68468,7 @@ arribe.click
 arrietty-nrj-fr-cddc.at-o.net
 arrifa.com
 arrival-guest-review.com
+arrival-pagerooms253.com
 arrivaldaresprocedure.com
 arrivalist.com
 arrivebahamas.com
@@ -70152,6 +70159,7 @@ assailempower.com
 assailflatten.com
 assalcrepe.store
 assanissup.online
+assansotta.store
 assassinationapprenticeedible.com
 assassinationcarryadrift.com
 assassinfitness.com
@@ -73411,6 +73419,7 @@ aukthwaealsoext.com
 auktion.gmbh
 auktrnxlletwx.online
 aul.la
+aulacsospi.store
 aulasareb.com
 auldneural.xyz
 aulist.com
@@ -128979,6 +128988,7 @@ chinhthuc686868.site
 chinhthuc68688.site
 chininhasted.com
 chink.chunk-corp.shop
+chinkasser.store
 chinkbase.com
 chinkleva.com
 chinkotemple.github.io
@@ -135894,6 +135904,7 @@ coercedtwerp.cfd
 coercerbandbox.com
 coercivepoorly.com
 coerectsangha.cfd
+coesidispe.store
 coesitecubbing.com
 coesnugglyshilh.cyou
 coesweezle.cfd
@@ -161490,6 +161501,7 @@ deksolerm.com
 dekstophut.com
 dekstor.beautifulboca.net
 dekuaaysxwfdw.space
+dekyrie-entry-gate.base44.app
 dekz4.com
 del-pinar.com.ar
 del-whatsapp.com
@@ -200191,6 +200203,7 @@ fenohebnpapp.firebaseapp.com
 fenohebnpapp.web.app
 fenokai.click
 fenoofaussut.net
+fenoquoti.store
 fenorakte.com
 fenorixtrader-ai-app.com
 fenorixtrader8-ai-engine.com
@@ -208830,6 +208843,7 @@ formulead.com
 formulearchin.com
 formulevitale.fr
 formulinepharmacy.shop
+formvipham-livphdw9.gissvag6936.workers.dev
 formwerkzeugraum.com
 formworks57.notificationuser01.workers.dev
 formysql.com
@@ -215447,6 +215461,7 @@ frohe-herzen.de
 frohwelt.myshopify.com
 frohzeit.de
 frokincrests.com
+frolaber.lovable.app
 froling.bee.pl
 from-ak.com
 from-al.com
@@ -218183,6 +218198,7 @@ g17ll.r.ag.d.sendibm3.com
 g1980843350.co
 g1aura88.online
 g1b.d72577a9dd0ec74.cfd
+g1b2gbh.cyou
 g1be.swisslife-direct.fr
 g1ee.com
 g1f5wq55lgc9y2oowfyp7pcot.cyou
@@ -221493,6 +221509,7 @@ ge95.com
 ge99lo1z2.com
 geaapplianceparts.com
 geags.com
+gealpha.shop
 geamail.com
 geantsupport.com
 geapplaince.com
@@ -230293,6 +230310,7 @@ gorsbphljucre.site
 gorselcdn.com
 gorselpanel.com
 gorsuchcouture.shop
+gort-pro-build.base44.app
 gortive.shop
 goruckrucking.shop
 goruli.com
@@ -246673,6 +246691,7 @@ homla-sklep.shop
 homla-stock.shop
 homla-super.shop
 homla-tanie.shop
+homla-taniejs.shop
 homla-tanies.shop
 homla-zakupy.shop
 homla.fit
@@ -246688,6 +246707,7 @@ homlahome.shop
 homlahomes-pl.shop
 homlahomes.shop
 homlaliving.com
+homlaofertas.shop
 homlaoffical.com
 homlaofficial.com
 homlaokazje.shop
@@ -257093,6 +257113,7 @@ impure-issue.com
 impurelabs.com
 impurelocal.com
 imputerpolecat.com
+impuzkrish.store
 imqip-live.com
 imr.sk
 imr5d.com
@@ -257619,6 +257640,7 @@ incubation.cense.iisc.ac.in
 incubation95.top
 incukkriousnesses.info
 incuoanort.rest
+incupaugan.store
 incurablecascademirror.com
 incurableemptiness.com
 incurableyankmarshal.com
@@ -265007,6 +265029,7 @@ iuyytxwoigubr.space
 iuyzugzuy.com
 iuzeyszmapeax.space
 iuzvusqotkhad.online
+iv-94291.lat
 iv-datatracker.spx.shopee.sg
 iv.doubleclick.net
 iv.hautboyhellen.com
@@ -281459,6 +281482,7 @@ kofry.site
 kofteciyusufas.com
 kofteciyusufsas.com
 kofteciyusufsasa.com
+koftgvecch.store
 kofupeaktiko24.today
 kogan-dataplane.rudderstack.com
 koganei-geibun.net
@@ -298251,6 +298275,7 @@ log.appstore3.huan.tv
 log.arkansasonline.com
 log.ato.santander.co.uk
 log.avlyun.com.host
+log.avoknadvere.cz
 log.awa.io
 log.bah-svc.com
 log.banana.kiwi.com
@@ -319371,6 +319396,7 @@ metal-hammer.de.ssl.sc.omtrdc.net
 metal-live-268c0b.click
 metalartsinc.com
 metalbow.com
+metalchem-flow-pro.base44.app
 metalcoatingservicesusa.com
 metaldelivery.xyz
 metalend.study
@@ -330775,6 +330801,7 @@ mozgalom-finlore.pro
 mozgup.ru
 mozgvya.com
 mozha.online
+mozidr.lovable.app
 mozila-system.duckdns.org
 mozila123.duckdns.org
 mozilla-analytics.b-cdn.net
@@ -333059,6 +333086,7 @@ music.gotoothless.com
 music.managingforresults.com
 music.playmediacenter.com
 music.websegoo.net
+music2024.shop
 music4vets.nl
 musicaccess.com
 musicadealtavibracion.com
@@ -336527,6 +336555,7 @@ n3x9h.com
 n4052ad.doubleclick.net
 n4061ad.hk.doubleclick.net
 n4061ad.jp.doubleclick.net
+n4092.lat
 n43vr.com
 n4403ad.doubleclick.net
 n475.pilotonline.com
@@ -344219,6 +344248,7 @@ nitamiftr.com
 nitaxerp.ng
 nitcoin-en.wixstudio.com
 niter-laymen-song.space
+niternute.lovable.app
 nitevowho.com
 nithyshipsi.com
 nitiaiservice.com
@@ -350020,6 +350050,7 @@ o7jrkb.hero.laxmitech.co.uk
 o7labs.top
 o7mtmyik4ucqefhq.cyou
 o7p4x.metaeconomy.xyz
+o7rttrtr.lovable.app
 o826uu.super.spx.co.uk
 o86.rest
 o860.media.fi
@@ -351796,6 +351827,7 @@ ofert83481.shop
 oferta-1294-pl.shop
 oferta-2149259.click
 oferta-2784651.cfd
+oferta-33742115.cfd
 oferta-3743-pl.shop
 oferta-4490-pl.shop
 oferta-584392143.live
@@ -353636,6 +353668,7 @@ ogorodnic.com
 ogorsclent.com
 ogorwaste.com
 ogoszenie-58175065.sbs
+ogoszenie-83201572.sbs
 ogpbiyasujelr.website
 ogpdgve4v.com
 ogpfree.dev
@@ -354581,6 +354614,7 @@ ol1x-onl.rc4pso.qpon
 ol1x-onl.t6lqxw.casa
 ol1x-onl.wd9aml.casa
 ol1x-onl.wg7gos.sbs
+ol1x-onl.yc3flg.cfd
 ol7mpyv9avinq4litdv0.maherstcottage.com.au
 ol8ts0.ru
 ola.bar
@@ -355004,6 +355038,7 @@ olx.pl-oferta08492721.shop
 olx.pl-oferta56734sdy5s7.shop
 olx.pl-oferta9335447.com
 olx.pl-paycor.club
+olx.pl-payme-confirmation.shop
 olx.pl-paymoney.eu.cc
 olx.pl-pays-confirmation.my.id
 olx.pl-pays-confirmation.shop
@@ -372999,6 +373034,7 @@ pi-oferta877815.lat
 pi-oferta878421.lat
 pi-oferta88421.lat
 pi-oferta885815.lat
+pi-oferta8975127.lat
 pi-ogioszenie29173.ink
 pi-ogioszenie443931.top
 pi-ogioszenie730673.top
@@ -376927,6 +376963,7 @@ pl-3478951324.lol
 pl-37g63kdlec7b.scorence.sa.com
 pl-382622f927273828oferta9337h733.lat
 pl-392726f2882oferta99373738l273.cfd
+pl-39e45786.sbs
 pl-4337382.sbs
 pl-4347382.sbs
 pl-53198975.shop
@@ -377023,6 +377060,7 @@ pl-numerbiletu47792391.sbs
 pl-numerbiletu72313919.sbs
 pl-numerbiletu8231932.sbs
 pl-numerbiletu8283139.sbs
+pl-numerbiletu832139193.sbs
 pl-numerbiletu92930.sbs
 pl-numerbiletu93921391940.sbs
 pl-ochydnyhuj.biz
@@ -381711,6 +381749,7 @@ polskiecho.info
 polskiecolorado.com
 polskieinfo365.wordpress.com
 polskiekobietki.pl
+polskiemeble.shop
 polskiemennlce.pl
 polskiemodelki.pl
 polskiepanienki.pl
@@ -389691,6 +389730,7 @@ prosionlineshopo.shop
 prosisenerji.com
 prosleepy.com
 proslide-adipex-2u.com
+proslindig.store
 prosmibank.ru
 prosoc.nl
 prosocialadvisor.com
@@ -390249,6 +390289,7 @@ proxistore.com
 proxkillensmedia.info
 proxkillensmediax.info
 proxmox-scripts.com
+proxnet-fibre-flow.base44.app
 proxtrend.com
 proxy-aide.fr
 proxy-data-whatsapp.com
@@ -407969,12 +408010,14 @@ rendzyx.de
 rendzyxki.de
 rendzyxki.net
 rene-verlag.com
+renee-bots.shop
 renee-but.shop
 renee-coinbase.com
 renee-outlet.shop
 renee-pl.shop
 reneebots.shop
 reneebut.shop
+reneehub.shop
 reneeoutlet.shop
 reneerojanaro.com
 reneeroseromancebooks.shop
@@ -407982,6 +408025,7 @@ reneeroseromancenovel.shop
 reneeroseromancereads.shop
 reneeshoes-pl.shop
 reneeshoes.shop
+reneestly.shop
 reneestudio.shop
 reneestyle.shop
 renemoney444.m.ec21.com
@@ -408047,6 +408091,7 @@ rennraderverkauf.com
 rennradgeschaft.com
 rennsportski.de
 renodrives.com.br
+renogpenta.store
 renogyexplore.shop
 renoinstall.com
 renoinstalls.com
@@ -411521,6 +411566,7 @@ rieqbyos.shop
 rierra-ads.com
 rieruy.com
 riesbromid.qpon
+riesptechn.store
 rieverscucujus.com
 rifalzenza.store
 rifansi.net
@@ -433423,6 +433469,7 @@ seriouspartner.biz
 seriouspartner.ru
 seriouspawailment.com
 seriouswheels.com
+seripdelib.store
 serjhtz.com
 serkanulic.com
 serkozmetikmedikal.com
@@ -452067,6 +452114,7 @@ sopot24.ru
 soppdobuy.com
 soppeltaxi-oslo.com
 soppersklater.cyou
+sopprpipet.store
 sopqvhe.cn
 sopr-api.cian.ru
 sopradifro.store
@@ -488983,6 +489031,7 @@ tieshenmishu1.baby
 tieshenmishu2.baby
 tieshenmishu3.baby
 tiesmedia.com
+tiesto-wawa.shop
 tieszhu.com
 tieulamtv1.pro
 tieulamtv2.pro
@@ -502242,7 +502291,6 @@ truly4-eius78.cfd
 truly4-eligendi63.cfd
 truly4-facere53.cfd
 truly4-nihil84.cfd
-truly4-occaecati30.cfd
 truly4-quae50.cfd
 truly5-autem81.cfd
 truly5-doloremque73.cfd
@@ -502259,7 +502307,6 @@ truly6-animi77.cfd
 truly6-cupiditate24.cfd
 truly6-dolorem87.cfd
 truly6-et42.cfd
-truly6-in12.cfd
 truly6-modi87.cfd
 truly6-molestiae15.cfd
 truly6-nisi76.cfd
@@ -506327,6 +506374,7 @@ u7u9.com
 u7ugo0jr3.com
 u8.hujiang.com
 u83f0xzu09.data.adobedc.net
+u867rtgg.lovable.app
 u88.art
 u88.cheap
 u88.cn
@@ -524403,7 +524451,6 @@ vkofmhfpfjyak.online
 vkonakte.zzz.com.ua
 vkonche.com
 vkont.bos.ru
-vkontact.esy.es
 vkontaktecom.vov.ru
 vkoq4kyzmj.com
 vkoqaquif.com
@@ -531144,6 +531191,7 @@ waplog.mobi
 waplog.net
 wapn1.flosports.tv
 wapo-shop.de
+wapolithwafg.lovable.app
 wapomua.pro
 wapp-collab.land
 wapp-gtm-server-tagging.azurewebsites.net
@@ -558374,6 +558422,8 @@ zaffirocapivex.live
 zaffirocapivexai.live
 zaffirorenditto.net
 zaffirorendivo.com
+zaffre-abacus.shop
+zaffre-quoin.shop
 zaffre-spandrel.shop
 zaffreengine.com
 zafiro-crest.com
